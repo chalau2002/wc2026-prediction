@@ -379,8 +379,16 @@ tr:last-child td {
 
 .flag {
   flex: 0 0 auto;
-  width: 18px;
-  text-align: center;
+  display: block;
+  width: 20px;
+  height: 15px;
+  border-radius: 2px;
+  object-fit: cover;
+  box-shadow: 0 0 0 1px rgba(23, 32, 42, 0.12);
+}
+
+.flag-placeholder {
+  background: #eef2f5;
 }
 
 .strong-stat {
@@ -744,9 +752,42 @@ tr:last-child td {
   .selector-row,
   .metric-grid,
   .team-games-grid,
-  .groups-grid,
-  .bracket-grid {
+  .groups-grid {
     grid-template-columns: 1fr;
+  }
+
+  .group-card {
+    overflow-x: auto;
+  }
+
+  .group-card table {
+    min-width: 420px;
+  }
+
+  .group-card th,
+  .group-card td {
+    padding: 8px 7px;
+    font-size: 12px;
+  }
+
+  .bracket-scroll {
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 18px;
+  }
+
+  .bracket-board {
+    width: 1120px;
+    min-width: 1120px;
+  }
+
+  .bracket-team .team-name span:last-child {
+    display: none;
+  }
+
+  .bracket-team .team-name {
+    flex: 0 0 auto;
   }
 
   .match-head {

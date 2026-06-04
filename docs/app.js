@@ -20,56 +20,71 @@ let dashboardData;
 let rankingSort = { key: "p_champion", direction: "desc" };
 let selectedTeamName = null;
 
-const teamFlags = {
-  Algeria: "🇩🇿",
-  Argentina: "🇦🇷",
-  Australia: "🇦🇺",
-  Austria: "🇦🇹",
-  Belgium: "🇧🇪",
-  "Bosnia and Herzegovina": "🇧🇦",
-  Brazil: "🇧🇷",
-  Canada: "🇨🇦",
-  "Cape Verde": "🇨🇻",
-  Colombia: "🇨🇴",
-  Croatia: "🇭🇷",
-  Curaçao: "🇨🇼",
-  "Czech Republic": "🇨🇿",
-  "DR Congo": "🇨🇩",
-  Ecuador: "🇪🇨",
-  Egypt: "🇪🇬",
-  England: "\u{1F3F4}\u{E0067}\u{E0062}\u{E0065}\u{E006E}\u{E0067}\u{E007F}",
-  France: "🇫🇷",
-  Germany: "🇩🇪",
-  Ghana: "🇬🇭",
-  Haiti: "🇭🇹",
-  Iran: "🇮🇷",
-  Iraq: "🇮🇶",
-  "Ivory Coast": "🇨🇮",
-  Japan: "🇯🇵",
-  Jordan: "🇯🇴",
-  Mexico: "🇲🇽",
-  Morocco: "🇲🇦",
-  Netherlands: "🇳🇱",
-  "New Zealand": "🇳🇿",
-  Norway: "🇳🇴",
-  Panama: "🇵🇦",
-  Paraguay: "🇵🇾",
-  Portugal: "🇵🇹",
-  Qatar: "🇶🇦",
-  "Saudi Arabia": "🇸🇦",
-  Scotland: "\u{1F3F4}\u{E0067}\u{E0062}\u{E0073}\u{E0063}\u{E0074}\u{E007F}",
-  Senegal: "🇸🇳",
-  "South Africa": "🇿🇦",
-  "South Korea": "🇰🇷",
-  Spain: "🇪🇸",
-  Sweden: "🇸🇪",
-  Switzerland: "🇨🇭",
-  Tunisia: "🇹🇳",
-  Turkey: "🇹🇷",
-  "United States": "🇺🇸",
-  Uruguay: "🇺🇾",
-  Uzbekistan: "🇺🇿",
+const teamFlagCodes = {
+  Algeria: "dz",
+  Argentina: "ar",
+  Australia: "au",
+  Austria: "at",
+  Belgium: "be",
+  "Bosnia and Herzegovina": "ba",
+  Brazil: "br",
+  Canada: "ca",
+  "Cape Verde": "cv",
+  Colombia: "co",
+  Croatia: "hr",
+  "Cura\u00e7ao": "cw",
+  "Czech Republic": "cz",
+  "DR Congo": "cd",
+  Ecuador: "ec",
+  Egypt: "eg",
+  England: "gb-eng",
+  France: "fr",
+  Germany: "de",
+  Ghana: "gh",
+  Haiti: "ht",
+  Iran: "ir",
+  Iraq: "iq",
+  "Ivory Coast": "ci",
+  Japan: "jp",
+  Jordan: "jo",
+  Mexico: "mx",
+  Morocco: "ma",
+  Netherlands: "nl",
+  "New Zealand": "nz",
+  Norway: "no",
+  Panama: "pa",
+  Paraguay: "py",
+  Portugal: "pt",
+  Qatar: "qa",
+  "Saudi Arabia": "sa",
+  Scotland: "gb-sct",
+  Senegal: "sn",
+  "South Africa": "za",
+  "South Korea": "kr",
+  Spain: "es",
+  Sweden: "se",
+  Switzerland: "ch",
+  Tunisia: "tn",
+  Turkey: "tr",
+  "United States": "us",
+  Uruguay: "uy",
+  Uzbekistan: "uz",
 };
+
+function flagMarkup(team) {
+  const code = teamFlagCodes[team];
+  if (!code) return `<span class="flag flag-placeholder" aria-hidden="true"></span>`;
+  return `
+    <img
+      class="flag"
+      src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/${code}.svg"
+      alt=""
+      loading="lazy"
+      decoding="async"
+      aria-hidden="true"
+    >
+  `;
+}
 
 function pct(value) {
   return `${Math.round(Number(value) * 1000) / 10}%`;
@@ -88,7 +103,7 @@ function defaultTeamName(data) {
 }
 
 function teamLabel(team) {
-  return `<span class="team-name"><span class="flag" aria-hidden="true">${teamFlags[team] || "🏳️"}</span><span>${team}</span></span>`;
+  return `<span class="team-name">${flagMarkup(team)}<span>${team}</span></span>`;
 }
 
 function metricValue(team, key) {
@@ -464,7 +479,7 @@ function applyDashboardData(nextData) {
   select.innerHTML = dashboardData.teams
     .slice()
     .sort((a, b) => a.team.localeCompare(b.team))
-    .map((team) => `<option value="${team.team}">${teamFlags[team.team] || "🏳️"} ${team.team}</option>`)
+    .map((team) => `<option value="${team.team}">${team.team}</option>`)
     .join("");
   const nextTeam = selectedTeamName && dashboardData.teams.some((team) => team.team === selectedTeamName)
     ? selectedTeamName
@@ -506,3 +521,4 @@ async function init() {
 init().catch((error) => {
   document.body.innerHTML = `<main><section class="team-panel"><h1>Error loading data</h1><p>${error.message}</p></section></main>`;
 });
+

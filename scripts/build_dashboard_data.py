@@ -331,7 +331,7 @@ def main() -> None:
     parser.add_argument("--knockout")
     parser.add_argument("--groups", default="data/raw/groups.csv")
     parser.add_argument("--slots", default="data/raw/knockout_slots.csv")
-    parser.add_argument("--output", default="public/dashboard-data.json")
+    parser.add_argument("--output", default="docs/dashboard-data.json")
     args = parser.parse_args()
 
     payload = build_payload(args)
