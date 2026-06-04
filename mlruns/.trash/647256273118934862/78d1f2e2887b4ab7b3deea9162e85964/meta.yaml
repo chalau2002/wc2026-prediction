@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/goncalo.rodrigues9/Desktop/SC%20Braga/GR/WC/mlruns/647256273118934862/78d1f2e2887b4ab7b3deea9162e85964/artifacts
+deleted_time: 1780510873144
+end_time: 1780453871445
+entry_point_name: ''
+experiment_id: '647256273118934862'
+lifecycle_stage: deleted
+run_id: 78d1f2e2887b4ab7b3deea9162e85964
+run_name: xgb_poisson_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780453721182
+status: 3
+tags: []
+user_id: goncalo.rodrigues9

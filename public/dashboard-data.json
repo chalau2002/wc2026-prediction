@@ -1,0 +1,4613 @@
+{
+  "generatedFrom": {
+    "summary": "data/processed/monte_carlo_runs/20260604_022705/wc2026_monte_carlo_summary_20260604_022705.csv",
+    "group": "data/processed/monte_carlo_runs/20260604_022705/wc2026_group_sample_20260604_022705.csv",
+    "knockout": "data/processed/monte_carlo_runs/20260604_022705/wc2026_knockout_sample_20260604_022705.csv"
+  },
+  "teams": [
+    {
+      "team": "Spain",
+      "group": "H",
+      "rankFinal": 1,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 1.0
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.76
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.624
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.496
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.336
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.2
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.136
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.128
+        }
+      ]
+    },
+    {
+      "team": "France",
+      "group": "I",
+      "rankFinal": 2,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.968
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.752
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.552
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.36
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.208
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.152
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.056
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.112
+        }
+      ]
+    },
+    {
+      "team": "Argentina",
+      "group": "J",
+      "rankFinal": 3,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.976
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.6
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.44
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.304
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.2
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.104
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.096
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.072
+        }
+      ]
+    },
+    {
+      "team": "England",
+      "group": "L",
+      "rankFinal": 4,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.96
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.688
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.472
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.288
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.168
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.08
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.088
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.064
+        }
+      ]
+    },
+    {
+      "team": "Brazil",
+      "group": "C",
+      "rankFinal": 5,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.896
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.6
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.304
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.216
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.096
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.064
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.032
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.08
+        }
+      ]
+    },
+    {
+      "team": "Colombia",
+      "group": "K",
+      "rankFinal": 6,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.896
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.52
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.312
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.112
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.08
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.064
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.016
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.024
+        }
+      ]
+    },
+    {
+      "team": "Portugal",
+      "group": "K",
+      "rankFinal": 7,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.928
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.536
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.328
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.136
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.104
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.056
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.048
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.016
+        }
+      ]
+    },
+    {
+      "team": "Uruguay",
+      "group": "H",
+      "rankFinal": 8,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.904
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.448
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.264
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.16
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.096
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.048
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.048
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.04
+        }
+      ]
+    },
+    {
+      "team": "Germany",
+      "group": "E",
+      "rankFinal": 9,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.952
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.56
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.344
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.144
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.08
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.032
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.048
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "United States",
+      "group": "D",
+      "rankFinal": 10,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.768
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.328
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.152
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.096
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.056
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.024
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.032
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "group": "F",
+      "rankFinal": 11,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.92
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.576
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.304
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.16
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.056
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.024
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.032
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.056
+        }
+      ]
+    },
+    {
+      "team": "Senegal",
+      "group": "I",
+      "rankFinal": 12,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.528
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.28
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.144
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.048
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.032
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.016
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.016
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "South Korea",
+      "group": "A",
+      "rankFinal": 13,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.84
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.44
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.144
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.072
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.024
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.016
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.024
+        }
+      ]
+    },
+    {
+      "team": "Japan",
+      "group": "F",
+      "rankFinal": 14,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.8
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.288
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.136
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.064
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.024
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.016
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Paraguay",
+      "group": "D",
+      "rankFinal": 15,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.632
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.344
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.136
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.064
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.04
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.016
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.024
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "Switzerland",
+      "group": "B",
+      "rankFinal": 16,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.968
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.568
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.248
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.144
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.048
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.016
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.032
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.04
+        }
+      ]
+    },
+    {
+      "team": "Canada",
+      "group": "B",
+      "rankFinal": 17,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.96
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.488
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.16
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.064
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.024
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.016
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.024
+        }
+      ]
+    },
+    {
+      "team": "Croatia",
+      "group": "L",
+      "rankFinal": 18,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.856
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.496
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.2
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.08
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.016
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.032
+        }
+      ]
+    },
+    {
+      "team": "Iran",
+      "group": "G",
+      "rankFinal": 19,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.792
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.432
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.152
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.064
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "Ecuador",
+      "group": "E",
+      "rankFinal": 20,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.928
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.512
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.304
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.176
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.056
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.048
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "team": "Turkey",
+      "group": "D",
+      "rankFinal": 21,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.736
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.4
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.224
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.088
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.04
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.032
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.024
+        }
+      ]
+    },
+    {
+      "team": "Morocco",
+      "group": "C",
+      "rankFinal": 22,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.896
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.44
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.208
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.104
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.04
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.032
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.04
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "group": "D",
+      "rankFinal": 23,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.632
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.392
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.184
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.048
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.024
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.016
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "Scotland",
+      "group": "C",
+      "rankFinal": 24,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.624
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.216
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.072
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.04
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "Belgium",
+      "group": "G",
+      "rankFinal": 25,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.848
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.536
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.232
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.08
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.016
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.008
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.024
+        }
+      ]
+    },
+    {
+      "team": "Ivory Coast",
+      "group": "E",
+      "rankFinal": 26,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.616
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.256
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.12
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.024
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.016
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.016
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "Austria",
+      "group": "J",
+      "rankFinal": 27,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.68
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.232
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.088
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.024
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Bosnia and Herzegovina",
+      "group": "B",
+      "rankFinal": 28,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.376
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.112
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.016
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.0
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Cape Verde",
+      "group": "H",
+      "rankFinal": 29,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.28
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.088
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.0
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Curaçao",
+      "group": "E",
+      "rankFinal": 30,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.216
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.064
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.016
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.0
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Czech Republic",
+      "group": "A",
+      "rankFinal": 31,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.584
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.264
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.064
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.0
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "DR Congo",
+      "group": "K",
+      "rankFinal": 32,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.4
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.128
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.04
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.016
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Egypt",
+      "group": "G",
+      "rankFinal": 33,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.584
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.264
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.104
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.016
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Ghana",
+      "group": "L",
+      "rankFinal": 34,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.208
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.048
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.0
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Haiti",
+      "group": "C",
+      "rankFinal": 35,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.288
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.032
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Iraq",
+      "group": "I",
+      "rankFinal": 36,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.288
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.064
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.024
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.016
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.016
+        }
+      ]
+    },
+    {
+      "team": "Mexico",
+      "group": "A",
+      "rankFinal": 37,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.952
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.552
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.2
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.08
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.016
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.016
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.032
+        }
+      ]
+    },
+    {
+      "team": "Jordan",
+      "group": "J",
+      "rankFinal": 38,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.312
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.088
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.024
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "New Zealand",
+      "group": "G",
+      "rankFinal": 39,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.48
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.128
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.064
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.016
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Norway",
+      "group": "I",
+      "rankFinal": 40,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.824
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.408
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.192
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.056
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.016
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.016
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.016
+        }
+      ]
+    },
+    {
+      "team": "Algeria",
+      "group": "J",
+      "rankFinal": 41,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.664
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.216
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.104
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.056
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.016
+        }
+      ]
+    },
+    {
+      "team": "Sweden",
+      "group": "F",
+      "rankFinal": 42,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.48
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.128
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.048
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.016
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "Tunisia",
+      "group": "F",
+      "rankFinal": 43,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.52
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.144
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.04
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.0
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Qatar",
+      "group": "B",
+      "rankFinal": 44,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.264
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.048
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.0
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Saudi Arabia",
+      "group": "H",
+      "rankFinal": 45,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.352
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.056
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.0
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "South Africa",
+      "group": "A",
+      "rankFinal": 46,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.312
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.096
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.016
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.0
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.0
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "team": "Panama",
+      "group": "L",
+      "rankFinal": 47,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.672
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.216
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.104
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.04
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.016
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.016
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.008
+        }
+      ]
+    },
+    {
+      "team": "Uzbekistan",
+      "group": "K",
+      "rankFinal": 48,
+      "metrics": [
+        {
+          "key": "p_round_of_32",
+          "label": "Reach Round of 32",
+          "value": 0.44
+        },
+        {
+          "key": "p_round_of_16",
+          "label": "Reach Round of 16",
+          "value": 0.168
+        },
+        {
+          "key": "p_quarter_final",
+          "label": "Reach quarter-finals",
+          "value": 0.056
+        },
+        {
+          "key": "p_semi_final",
+          "label": "Reach semi-finals",
+          "value": 0.008
+        },
+        {
+          "key": "p_final",
+          "label": "Reach final",
+          "value": 0.008
+        },
+        {
+          "key": "p_champion",
+          "label": "Win tournament",
+          "value": 0.0
+        },
+        {
+          "key": "p_runner_up",
+          "label": "Finish runner-up",
+          "value": 0.008
+        },
+        {
+          "key": "p_third_place",
+          "label": "Finish third",
+          "value": 0.0
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "group": "A",
+      "teams": [
+        "Mexico",
+        "South Africa",
+        "South Korea",
+        "Czech Republic"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Mexico",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 3,
+          "gs": 0,
+          "dg": 3
+        },
+        {
+          "team": "South Korea",
+          "pts": 5,
+          "j": 3,
+          "v": 1,
+          "e": 2,
+          "d": 0,
+          "gm": 2,
+          "gs": 1,
+          "dg": 1
+        },
+        {
+          "team": "Czech Republic",
+          "pts": 2,
+          "j": 3,
+          "v": 0,
+          "e": 2,
+          "d": 1,
+          "gm": 2,
+          "gs": 4,
+          "dg": -2
+        },
+        {
+          "team": "South Africa",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 1,
+          "gs": 3,
+          "dg": -2
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Mexico",
+          "positions": {
+            "1": 0.592,
+            "2": 0.296,
+            "3": 0.08,
+            "4": 0.032
+          }
+        },
+        {
+          "team": "South Korea",
+          "positions": {
+            "1": 0.256,
+            "2": 0.368,
+            "3": 0.272,
+            "4": 0.104
+          }
+        },
+        {
+          "team": "Czech Republic",
+          "positions": {
+            "1": 0.112,
+            "2": 0.24,
+            "3": 0.4,
+            "4": 0.248
+          }
+        },
+        {
+          "team": "South Africa",
+          "positions": {
+            "1": 0.04,
+            "2": 0.096,
+            "3": 0.248,
+            "4": 0.616
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Mexico",
+          "away": "South Africa",
+          "homeWin": 0.712,
+          "draw": 0.184,
+          "awayWin": 0.104,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.128
+        },
+        {
+          "home": "South Korea",
+          "away": "Czech Republic",
+          "homeWin": 0.56,
+          "draw": 0.2,
+          "awayWin": 0.24,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.12
+        },
+        {
+          "home": "Czech Republic",
+          "away": "South Africa",
+          "homeWin": 0.552,
+          "draw": 0.248,
+          "awayWin": 0.2,
+          "mostLikelyScore": "2-1",
+          "scoreConfidence": 0.128
+        },
+        {
+          "home": "Mexico",
+          "away": "South Korea",
+          "homeWin": 0.504,
+          "draw": 0.28,
+          "awayWin": 0.216,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.176
+        },
+        {
+          "home": "Mexico",
+          "away": "Czech Republic",
+          "homeWin": 0.736,
+          "draw": 0.152,
+          "awayWin": 0.112,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.176
+        },
+        {
+          "home": "South Africa",
+          "away": "South Korea",
+          "homeWin": 0.168,
+          "draw": 0.168,
+          "awayWin": 0.664,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.152
+        }
+      ],
+      "confidence": 0.192
+    },
+    {
+      "group": "B",
+      "teams": [
+        "Canada",
+        "Bosnia and Herzegovina",
+        "Qatar",
+        "Switzerland"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Switzerland",
+          "pts": 9,
+          "j": 3,
+          "v": 3,
+          "e": 0,
+          "d": 0,
+          "gm": 8,
+          "gs": 2,
+          "dg": 6
+        },
+        {
+          "team": "Canada",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gm": 9,
+          "gs": 5,
+          "dg": 4
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 1,
+          "gs": 5,
+          "dg": -4
+        },
+        {
+          "team": "Qatar",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 1,
+          "gs": 7,
+          "dg": -6
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Canada",
+          "positions": {
+            "1": 0.496,
+            "2": 0.416,
+            "3": 0.072,
+            "4": 0.016
+          }
+        },
+        {
+          "team": "Switzerland",
+          "positions": {
+            "1": 0.44,
+            "2": 0.424,
+            "3": 0.112,
+            "4": 0.024
+          }
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "positions": {
+            "1": 0.04,
+            "2": 0.064,
+            "3": 0.52,
+            "4": 0.376
+          }
+        },
+        {
+          "team": "Qatar",
+          "positions": {
+            "1": 0.024,
+            "2": 0.096,
+            "3": 0.296,
+            "4": 0.584
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "homeWin": 0.776,
+          "draw": 0.16,
+          "awayWin": 0.064,
+          "mostLikelyScore": "2-1",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "Qatar",
+          "away": "Switzerland",
+          "homeWin": 0.048,
+          "draw": 0.184,
+          "awayWin": 0.768,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.128
+        },
+        {
+          "home": "Canada",
+          "away": "Qatar",
+          "homeWin": 0.76,
+          "draw": 0.184,
+          "awayWin": 0.056,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.216
+        },
+        {
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "homeWin": 0.744,
+          "draw": 0.2,
+          "awayWin": 0.056,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "Bosnia and Herzegovina",
+          "away": "Qatar",
+          "homeWin": 0.464,
+          "draw": 0.256,
+          "awayWin": 0.28,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.12
+        },
+        {
+          "home": "Canada",
+          "away": "Switzerland",
+          "homeWin": 0.432,
+          "draw": 0.248,
+          "awayWin": 0.32,
+          "mostLikelyScore": "0-0",
+          "scoreConfidence": 0.128
+        }
+      ],
+      "confidence": 0.256
+    },
+    {
+      "group": "C",
+      "teams": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Brazil",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 10,
+          "gs": 2,
+          "dg": 8
+        },
+        {
+          "team": "Morocco",
+          "pts": 5,
+          "j": 3,
+          "v": 1,
+          "e": 2,
+          "d": 0,
+          "gm": 4,
+          "gs": 3,
+          "dg": 1
+        },
+        {
+          "team": "Scotland",
+          "pts": 2,
+          "j": 3,
+          "v": 0,
+          "e": 2,
+          "d": 1,
+          "gm": 5,
+          "gs": 7,
+          "dg": -2
+        },
+        {
+          "team": "Haiti",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 2,
+          "gs": 9,
+          "dg": -7
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Brazil",
+          "positions": {
+            "1": 0.528,
+            "2": 0.28,
+            "3": 0.136,
+            "4": 0.056
+          }
+        },
+        {
+          "team": "Morocco",
+          "positions": {
+            "1": 0.344,
+            "2": 0.4,
+            "3": 0.208,
+            "4": 0.048
+          }
+        },
+        {
+          "team": "Scotland",
+          "positions": {
+            "1": 0.096,
+            "2": 0.232,
+            "3": 0.384,
+            "4": 0.288
+          }
+        },
+        {
+          "team": "Haiti",
+          "positions": {
+            "1": 0.032,
+            "2": 0.088,
+            "3": 0.272,
+            "4": 0.608
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Brazil",
+          "away": "Morocco",
+          "homeWin": 0.416,
+          "draw": 0.28,
+          "awayWin": 0.304,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Haiti",
+          "away": "Scotland",
+          "homeWin": 0.224,
+          "draw": 0.2,
+          "awayWin": 0.576,
+          "mostLikelyScore": "1-2",
+          "scoreConfidence": 0.144
+        },
+        {
+          "home": "Brazil",
+          "away": "Haiti",
+          "homeWin": 0.752,
+          "draw": 0.136,
+          "awayWin": 0.112,
+          "mostLikelyScore": "2-1",
+          "scoreConfidence": 0.12
+        },
+        {
+          "home": "Scotland",
+          "away": "Morocco",
+          "homeWin": 0.152,
+          "draw": 0.288,
+          "awayWin": 0.56,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.184
+        },
+        {
+          "home": "Morocco",
+          "away": "Haiti",
+          "homeWin": 0.688,
+          "draw": 0.184,
+          "awayWin": 0.128,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "Scotland",
+          "away": "Brazil",
+          "homeWin": 0.128,
+          "draw": 0.248,
+          "awayWin": 0.624,
+          "mostLikelyScore": "0-2",
+          "scoreConfidence": 0.136
+        }
+      ],
+      "confidence": 0.2
+    },
+    {
+      "group": "D",
+      "teams": [
+        "United States",
+        "Paraguay",
+        "Australia",
+        "Turkey"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Turkey",
+          "pts": 9,
+          "j": 3,
+          "v": 3,
+          "e": 0,
+          "d": 0,
+          "gm": 9,
+          "gs": 3,
+          "dg": 6
+        },
+        {
+          "team": "United States",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gm": 4,
+          "gs": 4,
+          "dg": 0
+        },
+        {
+          "team": "Paraguay",
+          "pts": 3,
+          "j": 3,
+          "v": 1,
+          "e": 0,
+          "d": 2,
+          "gm": 2,
+          "gs": 4,
+          "dg": -2
+        },
+        {
+          "team": "Australia",
+          "pts": 0,
+          "j": 3,
+          "v": 0,
+          "e": 0,
+          "d": 3,
+          "gm": 2,
+          "gs": 6,
+          "dg": -4
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Australia",
+          "positions": {
+            "1": 0.28,
+            "2": 0.208,
+            "3": 0.216,
+            "4": 0.296
+          }
+        },
+        {
+          "team": "United States",
+          "positions": {
+            "1": 0.256,
+            "2": 0.32,
+            "3": 0.248,
+            "4": 0.176
+          }
+        },
+        {
+          "team": "Turkey",
+          "positions": {
+            "1": 0.24,
+            "2": 0.296,
+            "3": 0.24,
+            "4": 0.224
+          }
+        },
+        {
+          "team": "Paraguay",
+          "positions": {
+            "1": 0.224,
+            "2": 0.176,
+            "3": 0.296,
+            "4": 0.304
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "United States",
+          "away": "Paraguay",
+          "homeWin": 0.432,
+          "draw": 0.28,
+          "awayWin": 0.288,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Australia",
+          "away": "Turkey",
+          "homeWin": 0.36,
+          "draw": 0.208,
+          "awayWin": 0.432,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Turkey",
+          "away": "Paraguay",
+          "homeWin": 0.384,
+          "draw": 0.304,
+          "awayWin": 0.312,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "United States",
+          "away": "Australia",
+          "homeWin": 0.432,
+          "draw": 0.2,
+          "awayWin": 0.368,
+          "mostLikelyScore": "1-2",
+          "scoreConfidence": 0.12
+        },
+        {
+          "home": "Paraguay",
+          "away": "Australia",
+          "homeWin": 0.36,
+          "draw": 0.272,
+          "awayWin": 0.368,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "United States",
+          "away": "Turkey",
+          "homeWin": 0.36,
+          "draw": 0.224,
+          "awayWin": 0.416,
+          "mostLikelyScore": "1-2",
+          "scoreConfidence": 0.096
+        }
+      ],
+      "confidence": 0.088
+    },
+    {
+      "group": "E",
+      "teams": [
+        "Germany",
+        "Curaçao",
+        "Ivory Coast",
+        "Ecuador"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Germany",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 9,
+          "gs": 2,
+          "dg": 7
+        },
+        {
+          "team": "Ecuador",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 8,
+          "gs": 2,
+          "dg": 6
+        },
+        {
+          "team": "Ivory Coast",
+          "pts": 3,
+          "j": 3,
+          "v": 1,
+          "e": 0,
+          "d": 2,
+          "gm": 2,
+          "gs": 4,
+          "dg": -2
+        },
+        {
+          "team": "Curaçao",
+          "pts": 0,
+          "j": 3,
+          "v": 0,
+          "e": 0,
+          "d": 3,
+          "gm": 0,
+          "gs": 11,
+          "dg": -11
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Germany",
+          "positions": {
+            "1": 0.464,
+            "2": 0.32,
+            "3": 0.192,
+            "4": 0.024
+          }
+        },
+        {
+          "team": "Ecuador",
+          "positions": {
+            "1": 0.416,
+            "2": 0.328,
+            "3": 0.192,
+            "4": 0.064
+          }
+        },
+        {
+          "team": "Ivory Coast",
+          "positions": {
+            "1": 0.112,
+            "2": 0.264,
+            "3": 0.416,
+            "4": 0.208
+          }
+        },
+        {
+          "team": "Curaçao",
+          "positions": {
+            "1": 0.008,
+            "2": 0.088,
+            "3": 0.2,
+            "4": 0.704
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Germany",
+          "away": "Curaçao",
+          "homeWin": 0.792,
+          "draw": 0.144,
+          "awayWin": 0.064,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.128
+        },
+        {
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "homeWin": 0.232,
+          "draw": 0.24,
+          "awayWin": 0.528,
+          "mostLikelyScore": "0-2",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "homeWin": 0.76,
+          "draw": 0.168,
+          "awayWin": 0.072,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.16
+        },
+        {
+          "home": "Germany",
+          "away": "Ivory Coast",
+          "homeWin": 0.632,
+          "draw": 0.2,
+          "awayWin": 0.168,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.168
+        },
+        {
+          "home": "Curaçao",
+          "away": "Ivory Coast",
+          "homeWin": 0.192,
+          "draw": 0.28,
+          "awayWin": 0.528,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Ecuador",
+          "away": "Germany",
+          "homeWin": 0.376,
+          "draw": 0.264,
+          "awayWin": 0.36,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.128
+        }
+      ],
+      "confidence": 0.208
+    },
+    {
+      "group": "F",
+      "teams": [
+        "Netherlands",
+        "Japan",
+        "Sweden",
+        "Tunisia"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Netherlands",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gm": 6,
+          "gs": 3,
+          "dg": 3
+        },
+        {
+          "team": "Japan",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gm": 3,
+          "gs": 4,
+          "dg": -1
+        },
+        {
+          "team": "Tunisia",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gm": 3,
+          "gs": 5,
+          "dg": -2
+        },
+        {
+          "team": "Sweden",
+          "pts": 3,
+          "j": 3,
+          "v": 1,
+          "e": 0,
+          "d": 2,
+          "gm": 4,
+          "gs": 4,
+          "dg": 0
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Netherlands",
+          "positions": {
+            "1": 0.544,
+            "2": 0.224,
+            "3": 0.176,
+            "4": 0.056
+          }
+        },
+        {
+          "team": "Japan",
+          "positions": {
+            "1": 0.312,
+            "2": 0.36,
+            "3": 0.184,
+            "4": 0.144
+          }
+        },
+        {
+          "team": "Tunisia",
+          "positions": {
+            "1": 0.08,
+            "2": 0.184,
+            "3": 0.376,
+            "4": 0.36
+          }
+        },
+        {
+          "team": "Sweden",
+          "positions": {
+            "1": 0.064,
+            "2": 0.232,
+            "3": 0.264,
+            "4": 0.44
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Netherlands",
+          "away": "Japan",
+          "homeWin": 0.472,
+          "draw": 0.232,
+          "awayWin": 0.296,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Sweden",
+          "away": "Tunisia",
+          "homeWin": 0.384,
+          "draw": 0.176,
+          "awayWin": 0.44,
+          "mostLikelyScore": "1-2",
+          "scoreConfidence": 0.128
+        },
+        {
+          "home": "Netherlands",
+          "away": "Sweden",
+          "homeWin": 0.712,
+          "draw": 0.152,
+          "awayWin": 0.136,
+          "mostLikelyScore": "3-1",
+          "scoreConfidence": 0.128
+        },
+        {
+          "home": "Tunisia",
+          "away": "Japan",
+          "homeWin": 0.2,
+          "draw": 0.2,
+          "awayWin": 0.6,
+          "mostLikelyScore": "0-2",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Japan",
+          "away": "Sweden",
+          "homeWin": 0.56,
+          "draw": 0.248,
+          "awayWin": 0.192,
+          "mostLikelyScore": "2-1",
+          "scoreConfidence": 0.168
+        },
+        {
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "homeWin": 0.144,
+          "draw": 0.208,
+          "awayWin": 0.648,
+          "mostLikelyScore": "0-2",
+          "scoreConfidence": 0.112
+        }
+      ],
+      "confidence": 0.16
+    },
+    {
+      "group": "G",
+      "teams": [
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Belgium",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 4,
+          "gs": 2,
+          "dg": 2
+        },
+        {
+          "team": "Iran",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gm": 4,
+          "gs": 3,
+          "dg": 1
+        },
+        {
+          "team": "Egypt",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gm": 1,
+          "gs": 1,
+          "dg": 0
+        },
+        {
+          "team": "New Zealand",
+          "pts": 0,
+          "j": 3,
+          "v": 0,
+          "e": 0,
+          "d": 3,
+          "gm": 2,
+          "gs": 5,
+          "dg": -3
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Belgium",
+          "positions": {
+            "1": 0.504,
+            "2": 0.224,
+            "3": 0.168,
+            "4": 0.104
+          }
+        },
+        {
+          "team": "Iran",
+          "positions": {
+            "1": 0.28,
+            "2": 0.32,
+            "3": 0.256,
+            "4": 0.144
+          }
+        },
+        {
+          "team": "New Zealand",
+          "positions": {
+            "1": 0.112,
+            "2": 0.184,
+            "3": 0.224,
+            "4": 0.48
+          }
+        },
+        {
+          "team": "Egypt",
+          "positions": {
+            "1": 0.104,
+            "2": 0.272,
+            "3": 0.352,
+            "4": 0.272
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Belgium",
+          "away": "Egypt",
+          "homeWin": 0.52,
+          "draw": 0.304,
+          "awayWin": 0.176,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.176
+        },
+        {
+          "home": "Iran",
+          "away": "New Zealand",
+          "homeWin": 0.584,
+          "draw": 0.232,
+          "awayWin": 0.184,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.216
+        },
+        {
+          "home": "Belgium",
+          "away": "Iran",
+          "homeWin": 0.472,
+          "draw": 0.312,
+          "awayWin": 0.216,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.12
+        },
+        {
+          "home": "New Zealand",
+          "away": "Egypt",
+          "homeWin": 0.344,
+          "draw": 0.224,
+          "awayWin": 0.432,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.096
+        },
+        {
+          "home": "Egypt",
+          "away": "Iran",
+          "homeWin": 0.248,
+          "draw": 0.272,
+          "awayWin": 0.48,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.144
+        },
+        {
+          "home": "New Zealand",
+          "away": "Belgium",
+          "homeWin": 0.16,
+          "draw": 0.192,
+          "awayWin": 0.648,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.152
+        }
+      ],
+      "confidence": 0.168
+    },
+    {
+      "group": "H",
+      "teams": [
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Uruguay"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Spain",
+          "pts": 9,
+          "j": 3,
+          "v": 3,
+          "e": 0,
+          "d": 0,
+          "gm": 14,
+          "gs": 2,
+          "dg": 12
+        },
+        {
+          "team": "Uruguay",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gm": 12,
+          "gs": 3,
+          "dg": 9
+        },
+        {
+          "team": "Saudi Arabia",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 2,
+          "gs": 12,
+          "dg": -10
+        },
+        {
+          "team": "Cape Verde",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 2,
+          "gs": 13,
+          "dg": -11
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Spain",
+          "positions": {
+            "1": 0.816,
+            "2": 0.168,
+            "3": 0.016,
+            "4": 0.0
+          }
+        },
+        {
+          "team": "Uruguay",
+          "positions": {
+            "1": 0.152,
+            "2": 0.624,
+            "3": 0.192,
+            "4": 0.032
+          }
+        },
+        {
+          "team": "Saudi Arabia",
+          "positions": {
+            "1": 0.016,
+            "2": 0.136,
+            "3": 0.4,
+            "4": 0.448
+          }
+        },
+        {
+          "team": "Cape Verde",
+          "positions": {
+            "1": 0.016,
+            "2": 0.072,
+            "3": 0.392,
+            "4": 0.52
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "homeWin": 0.144,
+          "draw": 0.24,
+          "awayWin": 0.616,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "Spain",
+          "away": "Cape Verde",
+          "homeWin": 0.944,
+          "draw": 0.04,
+          "awayWin": 0.016,
+          "mostLikelyScore": "3-0",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "homeWin": 0.912,
+          "draw": 0.064,
+          "awayWin": 0.024,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.168
+        },
+        {
+          "home": "Uruguay",
+          "away": "Cape Verde",
+          "homeWin": 0.76,
+          "draw": 0.152,
+          "awayWin": 0.088,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.16
+        },
+        {
+          "home": "Cape Verde",
+          "away": "Saudi Arabia",
+          "homeWin": 0.36,
+          "draw": 0.288,
+          "awayWin": 0.352,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.176
+        },
+        {
+          "home": "Uruguay",
+          "away": "Spain",
+          "homeWin": 0.16,
+          "draw": 0.192,
+          "awayWin": 0.648,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.12
+        }
+      ],
+      "confidence": 0.312
+    },
+    {
+      "group": "I",
+      "teams": [
+        "France",
+        "Senegal",
+        "Iraq",
+        "Norway"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "France",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 7,
+          "gs": 3,
+          "dg": 4
+        },
+        {
+          "team": "Norway",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 5,
+          "gs": 2,
+          "dg": 3
+        },
+        {
+          "team": "Senegal",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 3,
+          "gs": 5,
+          "dg": -2
+        },
+        {
+          "team": "Iraq",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 2,
+          "gs": 7,
+          "dg": -5
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "France",
+          "positions": {
+            "1": 0.672,
+            "2": 0.24,
+            "3": 0.056,
+            "4": 0.032
+          }
+        },
+        {
+          "team": "Norway",
+          "positions": {
+            "1": 0.2,
+            "2": 0.392,
+            "3": 0.296,
+            "4": 0.112
+          }
+        },
+        {
+          "team": "Senegal",
+          "positions": {
+            "1": 0.104,
+            "2": 0.232,
+            "3": 0.368,
+            "4": 0.296
+          }
+        },
+        {
+          "team": "Iraq",
+          "positions": {
+            "1": 0.024,
+            "2": 0.136,
+            "3": 0.28,
+            "4": 0.56
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "France",
+          "away": "Senegal",
+          "homeWin": 0.704,
+          "draw": 0.216,
+          "awayWin": 0.08,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Iraq",
+          "away": "Norway",
+          "homeWin": 0.144,
+          "draw": 0.272,
+          "awayWin": 0.584,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.128
+        },
+        {
+          "home": "France",
+          "away": "Iraq",
+          "homeWin": 0.768,
+          "draw": 0.144,
+          "awayWin": 0.088,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "Norway",
+          "away": "Senegal",
+          "homeWin": 0.488,
+          "draw": 0.28,
+          "awayWin": 0.232,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.144
+        },
+        {
+          "home": "Norway",
+          "away": "France",
+          "homeWin": 0.192,
+          "draw": 0.248,
+          "awayWin": 0.56,
+          "mostLikelyScore": "0-2",
+          "scoreConfidence": 0.144
+        },
+        {
+          "home": "Senegal",
+          "away": "Iraq",
+          "homeWin": 0.48,
+          "draw": 0.312,
+          "awayWin": 0.208,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.144
+        }
+      ],
+      "confidence": 0.208
+    },
+    {
+      "group": "J",
+      "teams": [
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Argentina",
+          "pts": 9,
+          "j": 3,
+          "v": 3,
+          "e": 0,
+          "d": 0,
+          "gm": 10,
+          "gs": 1,
+          "dg": 9
+        },
+        {
+          "team": "Austria",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gm": 8,
+          "gs": 5,
+          "dg": 3
+        },
+        {
+          "team": "Algeria",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gm": 7,
+          "gs": 7,
+          "dg": 0
+        },
+        {
+          "team": "Jordan",
+          "pts": 0,
+          "j": 3,
+          "v": 0,
+          "e": 0,
+          "d": 3,
+          "gm": 3,
+          "gs": 15,
+          "dg": -12
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Argentina",
+          "positions": {
+            "1": 0.8,
+            "2": 0.136,
+            "3": 0.04,
+            "4": 0.024
+          }
+        },
+        {
+          "team": "Algeria",
+          "positions": {
+            "1": 0.112,
+            "2": 0.32,
+            "3": 0.352,
+            "4": 0.216
+          }
+        },
+        {
+          "team": "Austria",
+          "positions": {
+            "1": 0.08,
+            "2": 0.432,
+            "3": 0.312,
+            "4": 0.176
+          }
+        },
+        {
+          "team": "Jordan",
+          "positions": {
+            "1": 0.008,
+            "2": 0.112,
+            "3": 0.296,
+            "4": 0.584
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Argentina",
+          "away": "Algeria",
+          "homeWin": 0.672,
+          "draw": 0.2,
+          "awayWin": 0.128,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.144
+        },
+        {
+          "home": "Austria",
+          "away": "Jordan",
+          "homeWin": 0.656,
+          "draw": 0.168,
+          "awayWin": 0.176,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.128
+        },
+        {
+          "home": "Argentina",
+          "away": "Austria",
+          "homeWin": 0.768,
+          "draw": 0.176,
+          "awayWin": 0.056,
+          "mostLikelyScore": "3-0",
+          "scoreConfidence": 0.12
+        },
+        {
+          "home": "Jordan",
+          "away": "Algeria",
+          "homeWin": 0.248,
+          "draw": 0.248,
+          "awayWin": 0.504,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.12
+        },
+        {
+          "home": "Algeria",
+          "away": "Austria",
+          "homeWin": 0.336,
+          "draw": 0.32,
+          "awayWin": 0.344,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.152
+        },
+        {
+          "home": "Jordan",
+          "away": "Argentina",
+          "homeWin": 0.064,
+          "draw": 0.056,
+          "awayWin": 0.88,
+          "mostLikelyScore": "0-3",
+          "scoreConfidence": 0.168
+        }
+      ],
+      "confidence": 0.264
+    },
+    {
+      "group": "K",
+      "teams": [
+        "Portugal",
+        "DR Congo",
+        "Uzbekistan",
+        "Colombia"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "Colombia",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 5,
+          "gs": 3,
+          "dg": 2
+        },
+        {
+          "team": "Portugal",
+          "pts": 5,
+          "j": 3,
+          "v": 1,
+          "e": 2,
+          "d": 0,
+          "gm": 4,
+          "gs": 2,
+          "dg": 2
+        },
+        {
+          "team": "Uzbekistan",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gm": 3,
+          "gs": 2,
+          "dg": 1
+        },
+        {
+          "team": "DR Congo",
+          "pts": 0,
+          "j": 3,
+          "v": 0,
+          "e": 0,
+          "d": 3,
+          "gm": 2,
+          "gs": 7,
+          "dg": -5
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "Colombia",
+          "positions": {
+            "1": 0.448,
+            "2": 0.312,
+            "3": 0.208,
+            "4": 0.032
+          }
+        },
+        {
+          "team": "Portugal",
+          "positions": {
+            "1": 0.424,
+            "2": 0.416,
+            "3": 0.136,
+            "4": 0.024
+          }
+        },
+        {
+          "team": "DR Congo",
+          "positions": {
+            "1": 0.088,
+            "2": 0.12,
+            "3": 0.28,
+            "4": 0.512
+          }
+        },
+        {
+          "team": "Uzbekistan",
+          "positions": {
+            "1": 0.04,
+            "2": 0.152,
+            "3": 0.376,
+            "4": 0.432
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "Portugal",
+          "away": "DR Congo",
+          "homeWin": 0.672,
+          "draw": 0.208,
+          "awayWin": 0.12,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "homeWin": 0.096,
+          "draw": 0.264,
+          "awayWin": 0.64,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.16
+        },
+        {
+          "home": "Colombia",
+          "away": "DR Congo",
+          "homeWin": 0.656,
+          "draw": 0.224,
+          "awayWin": 0.12,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.176
+        },
+        {
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "homeWin": 0.656,
+          "draw": 0.296,
+          "awayWin": 0.048,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Colombia",
+          "away": "Portugal",
+          "homeWin": 0.384,
+          "draw": 0.232,
+          "awayWin": 0.384,
+          "mostLikelyScore": "1-1",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "DR Congo",
+          "away": "Uzbekistan",
+          "homeWin": 0.352,
+          "draw": 0.272,
+          "awayWin": 0.376,
+          "mostLikelyScore": "1-0",
+          "scoreConfidence": 0.12
+        }
+      ],
+      "confidence": 0.2
+    },
+    {
+      "group": "L",
+      "teams": [
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+      ],
+      "mostLikelyTable": [
+        {
+          "team": "England",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gm": 6,
+          "gs": 3,
+          "dg": 3
+        },
+        {
+          "team": "Croatia",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gm": 5,
+          "gs": 2,
+          "dg": 3
+        },
+        {
+          "team": "Panama",
+          "pts": 3,
+          "j": 3,
+          "v": 1,
+          "e": 0,
+          "d": 2,
+          "gm": 6,
+          "gs": 9,
+          "dg": -3
+        },
+        {
+          "team": "Ghana",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gm": 4,
+          "gs": 7,
+          "dg": -3
+        }
+      ],
+      "positionProbabilities": [
+        {
+          "team": "England",
+          "positions": {
+            "1": 0.648,
+            "2": 0.256,
+            "3": 0.064,
+            "4": 0.032
+          }
+        },
+        {
+          "team": "Croatia",
+          "positions": {
+            "1": 0.232,
+            "2": 0.448,
+            "3": 0.24,
+            "4": 0.08
+          }
+        },
+        {
+          "team": "Panama",
+          "positions": {
+            "1": 0.096,
+            "2": 0.232,
+            "3": 0.432,
+            "4": 0.24
+          }
+        },
+        {
+          "team": "Ghana",
+          "positions": {
+            "1": 0.024,
+            "2": 0.064,
+            "3": 0.264,
+            "4": 0.648
+          }
+        }
+      ],
+      "matches": [
+        {
+          "home": "England",
+          "away": "Croatia",
+          "homeWin": 0.528,
+          "draw": 0.288,
+          "awayWin": 0.184,
+          "mostLikelyScore": "2-1",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "Ghana",
+          "away": "Panama",
+          "homeWin": 0.2,
+          "draw": 0.176,
+          "awayWin": 0.624,
+          "mostLikelyScore": "0-2",
+          "scoreConfidence": 0.136
+        },
+        {
+          "home": "England",
+          "away": "Ghana",
+          "homeWin": 0.792,
+          "draw": 0.136,
+          "awayWin": 0.072,
+          "mostLikelyScore": "3-0",
+          "scoreConfidence": 0.16
+        },
+        {
+          "home": "Panama",
+          "away": "Croatia",
+          "homeWin": 0.264,
+          "draw": 0.2,
+          "awayWin": 0.536,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.2
+        },
+        {
+          "home": "Croatia",
+          "away": "Ghana",
+          "homeWin": 0.768,
+          "draw": 0.16,
+          "awayWin": 0.072,
+          "mostLikelyScore": "2-0",
+          "scoreConfidence": 0.176
+        },
+        {
+          "home": "Panama",
+          "away": "England",
+          "homeWin": 0.096,
+          "draw": 0.224,
+          "awayWin": 0.68,
+          "mostLikelyScore": "0-1",
+          "scoreConfidence": 0.16
+        }
+      ],
+      "confidence": 0.256
+    }
+  ],
+  "bracket": [
+    {
+      "matchId": 73,
+      "round": "Round of 32",
+      "home": "South Korea",
+      "away": "Switzerland",
+      "winner": "South Korea",
+      "pairingConfidence": 0.192,
+      "winnerConfidence": 0.5416666666666666,
+      "homePassProbability": 0.5416666666666666,
+      "awayPassProbability": 0.4583333333333333,
+      "homeOverallPassProbability": 0.208,
+      "awayOverallPassProbability": 0.28,
+      "slotHome": "Runner-up Group A",
+      "slotAway": "Runner-up Group B",
+      "venue": "SoFi Stadium, Los Angeles",
+      "dateUtc": "2026-06-28T19:00:00Z"
+    },
+    {
+      "matchId": 74,
+      "round": "Round of 32",
+      "home": "Brazil",
+      "away": "Japan",
+      "winner": "Brazil",
+      "pairingConfidence": 0.176,
+      "winnerConfidence": 0.6363636363636364,
+      "homePassProbability": 0.6363636363636364,
+      "awayPassProbability": 0.36363636363636365,
+      "homeOverallPassProbability": 0.368,
+      "awayOverallPassProbability": 0.112,
+      "slotHome": "Winner Group C",
+      "slotAway": "Runner-up Group F",
+      "venue": "NRG Stadium, Houston",
+      "dateUtc": "2026-06-29T17:00:00Z"
+    },
+    {
+      "matchId": 75,
+      "round": "Round of 32",
+      "home": "Ecuador",
+      "away": "Scotland",
+      "winner": "Ecuador",
+      "pairingConfidence": 0.08,
+      "winnerConfidence": 0.6,
+      "homePassProbability": 0.6,
+      "awayPassProbability": 0.4,
+      "homeOverallPassProbability": 0.272,
+      "awayOverallPassProbability": 0.04,
+      "slotHome": "Winner Group E",
+      "slotAway": "Best 3rd (Groups A/B/C/D/F)",
+      "venue": "Gillette Stadium, Boston",
+      "dateUtc": "2026-06-29T20:30:00Z"
+    },
+    {
+      "matchId": 76,
+      "round": "Round of 32",
+      "home": "Netherlands",
+      "away": "Morocco",
+      "winner": "Netherlands",
+      "pairingConfidence": 0.2,
+      "winnerConfidence": 0.64,
+      "homePassProbability": 0.64,
+      "awayPassProbability": 0.36,
+      "homeOverallPassProbability": 0.384,
+      "awayOverallPassProbability": 0.136,
+      "slotHome": "Winner Group F",
+      "slotAway": "Runner-up Group C",
+      "venue": "Estadio BBVA, Monterrey",
+      "dateUtc": "2026-06-30T01:00:00Z"
+    },
+    {
+      "matchId": 77,
+      "round": "Round of 32",
+      "home": "Germany",
+      "away": "Norway",
+      "winner": "Norway",
+      "pairingConfidence": 0.168,
+      "winnerConfidence": 0.5238095238095238,
+      "homePassProbability": 0.47619047619047616,
+      "awayPassProbability": 0.5238095238095238,
+      "homeOverallPassProbability": 0.168,
+      "awayOverallPassProbability": 0.208,
+      "slotHome": "Runner-up Group E",
+      "slotAway": "Runner-up Group I",
+      "venue": "AT&T Stadium, Dallas",
+      "dateUtc": "2026-06-30T17:00:00Z"
+    },
+    {
+      "matchId": 78,
+      "round": "Round of 32",
+      "home": "France",
+      "away": "Sweden",
+      "winner": "France",
+      "pairingConfidence": 0.112,
+      "winnerConfidence": 0.9285714285714286,
+      "homePassProbability": 0.9285714285714286,
+      "awayPassProbability": 0.07142857142857142,
+      "homeOverallPassProbability": 0.544,
+      "awayOverallPassProbability": 0.008,
+      "slotHome": "Winner Group I",
+      "slotAway": "Best 3rd (Groups C/D/F/G/H)",
+      "venue": "MetLife Stadium, East Rutherford",
+      "dateUtc": "2026-06-30T21:00:00Z"
+    },
+    {
+      "matchId": 79,
+      "round": "Round of 32",
+      "home": "Mexico",
+      "away": "Scotland",
+      "winner": "Mexico",
+      "pairingConfidence": 0.104,
+      "winnerConfidence": 0.5384615384615384,
+      "homePassProbability": 0.5384615384615384,
+      "awayPassProbability": 0.46153846153846156,
+      "homeOverallPassProbability": 0.352,
+      "awayOverallPassProbability": 0.064,
+      "slotHome": "Winner Group A",
+      "slotAway": "Best 3rd (Groups C/E/F/H/I)",
+      "venue": "Estadio Azteca, Mexico City",
+      "dateUtc": "2026-07-01T01:00:00Z"
+    },
+    {
+      "matchId": 80,
+      "round": "Round of 32",
+      "home": "England",
+      "away": "Uzbekistan",
+      "winner": "England",
+      "pairingConfidence": 0.144,
+      "winnerConfidence": 0.7222222222222222,
+      "homePassProbability": 0.7222222222222222,
+      "awayPassProbability": 0.2777777777777778,
+      "homeOverallPassProbability": 0.44,
+      "awayOverallPassProbability": 0.056,
+      "slotHome": "Winner Group L",
+      "slotAway": "Best 3rd (Groups E/H/I/J/K)",
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "dateUtc": "2026-07-01T16:00:00Z"
+    },
+    {
+      "matchId": 81,
+      "round": "Round of 32",
+      "home": "Belgium",
+      "away": "Czech Republic",
+      "winner": "Belgium",
+      "pairingConfidence": 0.112,
+      "winnerConfidence": 0.7142857142857143,
+      "homePassProbability": 0.7142857142857143,
+      "awayPassProbability": 0.2857142857142857,
+      "homeOverallPassProbability": 0.336,
+      "awayOverallPassProbability": 0.088,
+      "slotHome": "Winner Group G",
+      "slotAway": "Best 3rd (Groups A/E/H/I/J)",
+      "venue": "Lumen Field, Seattle",
+      "dateUtc": "2026-07-01T20:00:00Z"
+    },
+    {
+      "matchId": 82,
+      "round": "Round of 32",
+      "home": "Turkey",
+      "away": "Bosnia and Herzegovina",
+      "winner": "Turkey",
+      "pairingConfidence": 0.088,
+      "winnerConfidence": 1.0,
+      "homePassProbability": 1.0,
+      "awayPassProbability": 0.0,
+      "homeOverallPassProbability": 0.184,
+      "awayOverallPassProbability": 0.032,
+      "slotHome": "Winner Group D",
+      "slotAway": "Best 3rd (Groups B/E/F/I/J)",
+      "venue": "Levi's Stadium, Santa Clara",
+      "dateUtc": "2026-07-02T00:00:00Z"
+    },
+    {
+      "matchId": 83,
+      "round": "Round of 32",
+      "home": "Portugal",
+      "away": "Croatia",
+      "winner": "Portugal",
+      "pairingConfidence": 0.176,
+      "winnerConfidence": 0.5,
+      "homePassProbability": 0.5,
+      "awayPassProbability": 0.5,
+      "homeOverallPassProbability": 0.192,
+      "awayOverallPassProbability": 0.248,
+      "slotHome": "Runner-up Group K",
+      "slotAway": "Runner-up Group L",
+      "venue": "BMO Field, Toronto",
+      "dateUtc": "2026-07-02T19:00:00Z"
+    },
+    {
+      "matchId": 84,
+      "round": "Round of 32",
+      "home": "Spain",
+      "away": "Austria",
+      "winner": "Spain",
+      "pairingConfidence": 0.36,
+      "winnerConfidence": 0.8444444444444444,
+      "homePassProbability": 0.8444444444444444,
+      "awayPassProbability": 0.15555555555555556,
+      "homeOverallPassProbability": 0.64,
+      "awayOverallPassProbability": 0.088,
+      "slotHome": "Winner Group H",
+      "slotAway": "Runner-up Group J",
+      "venue": "SoFi Stadium, Los Angeles",
+      "dateUtc": "2026-07-02T23:00:00Z"
+    },
+    {
+      "matchId": 85,
+      "round": "Round of 32",
+      "home": "Switzerland",
+      "away": "Egypt",
+      "winner": "Egypt",
+      "pairingConfidence": 0.104,
+      "winnerConfidence": 0.5384615384615384,
+      "homePassProbability": 0.46153846153846156,
+      "awayPassProbability": 0.5384615384615384,
+      "homeOverallPassProbability": 0.248,
+      "awayOverallPassProbability": 0.088,
+      "slotHome": "Winner Group B",
+      "slotAway": "Best 3rd (Groups E/F/G/I/J)",
+      "venue": "BC Place, Vancouver",
+      "dateUtc": "2026-07-03T03:00:00Z"
+    },
+    {
+      "matchId": 86,
+      "round": "Round of 32",
+      "home": "United States",
+      "away": "Iran",
+      "winner": "Iran",
+      "pairingConfidence": 0.136,
+      "winnerConfidence": 0.7058823529411765,
+      "homePassProbability": 0.29411764705882354,
+      "awayPassProbability": 0.7058823529411765,
+      "homeOverallPassProbability": 0.12,
+      "awayOverallPassProbability": 0.192,
+      "slotHome": "Runner-up Group D",
+      "slotAway": "Runner-up Group G",
+      "venue": "AT&T Stadium, Dallas",
+      "dateUtc": "2026-07-03T18:00:00Z"
+    },
+    {
+      "matchId": 87,
+      "round": "Round of 32",
+      "home": "Argentina",
+      "away": "Uruguay",
+      "winner": "Argentina",
+      "pairingConfidence": 0.504,
+      "winnerConfidence": 0.5873015873015873,
+      "homePassProbability": 0.5873015873015873,
+      "awayPassProbability": 0.4126984126984127,
+      "homeOverallPassProbability": 0.504,
+      "awayOverallPassProbability": 0.256,
+      "slotHome": "Winner Group J",
+      "slotAway": "Runner-up Group H",
+      "venue": "Hard Rock Stadium, Miami",
+      "dateUtc": "2026-07-03T22:00:00Z"
+    },
+    {
+      "matchId": 88,
+      "round": "Round of 32",
+      "home": "Portugal",
+      "away": "Panama",
+      "winner": "Portugal",
+      "pairingConfidence": 0.176,
+      "winnerConfidence": 0.7727272727272727,
+      "homePassProbability": 0.7727272727272727,
+      "awayPassProbability": 0.22727272727272727,
+      "homeOverallPassProbability": 0.312,
+      "awayOverallPassProbability": 0.104,
+      "slotHome": "Winner Group K",
+      "slotAway": "Best 3rd (Groups D/E/I/J/L)",
+      "venue": "GEHA Field at Arrowhead Stadium, Kansas City",
+      "dateUtc": "2026-07-04T01:30:00Z"
+    },
+    {
+      "matchId": 89,
+      "round": "Round of 16",
+      "home": "Switzerland",
+      "away": "Germany",
+      "winner": "Germany",
+      "pairingConfidence": 0.096,
+      "winnerConfidence": 0.8333333333333334,
+      "homePassProbability": 0.16666666666666666,
+      "awayPassProbability": 0.8333333333333334,
+      "homeOverallPassProbability": 0.112,
+      "awayOverallPassProbability": 0.24,
+      "slotHome": "Winner Match 73",
+      "slotAway": "Winner Match 75",
+      "venue": "NRG Stadium, Houston",
+      "dateUtc": "2026-07-04T17:00:00Z"
+    },
+    {
+      "matchId": 90,
+      "round": "Round of 16",
+      "home": "Brazil",
+      "away": "Norway",
+      "winner": "Norway",
+      "pairingConfidence": 0.08,
+      "winnerConfidence": 0.6,
+      "homePassProbability": 0.4,
+      "awayPassProbability": 0.6,
+      "homeOverallPassProbability": 0.2,
+      "awayOverallPassProbability": 0.104,
+      "slotHome": "Winner Match 74",
+      "slotAway": "Winner Match 77",
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "dateUtc": "2026-07-04T21:00:00Z"
+    },
+    {
+      "matchId": 91,
+      "round": "Round of 16",
+      "home": "Netherlands",
+      "away": "France",
+      "winner": "France",
+      "pairingConfidence": 0.192,
+      "winnerConfidence": 0.5416666666666666,
+      "homePassProbability": 0.4583333333333333,
+      "awayPassProbability": 0.5416666666666666,
+      "homeOverallPassProbability": 0.232,
+      "awayOverallPassProbability": 0.392,
+      "slotHome": "Winner Match 76",
+      "slotAway": "Winner Match 78",
+      "venue": "MetLife Stadium, East Rutherford",
+      "dateUtc": "2026-07-05T20:00:00Z"
+    },
+    {
+      "matchId": 92,
+      "round": "Round of 16",
+      "home": "Mexico",
+      "away": "England",
+      "winner": "England",
+      "pairingConfidence": 0.184,
+      "winnerConfidence": 0.7391304347826086,
+      "homePassProbability": 0.2608695652173913,
+      "awayPassProbability": 0.7391304347826086,
+      "homeOverallPassProbability": 0.112,
+      "awayOverallPassProbability": 0.336,
+      "slotHome": "Winner Match 79",
+      "slotAway": "Winner Match 80",
+      "venue": "Estadio Azteca, Mexico City",
+      "dateUtc": "2026-07-06T00:00:00Z"
+    },
+    {
+      "matchId": 93,
+      "round": "Round of 16",
+      "home": "Portugal",
+      "away": "Spain",
+      "winner": "Spain",
+      "pairingConfidence": 0.144,
+      "winnerConfidence": 0.7222222222222222,
+      "homePassProbability": 0.2777777777777778,
+      "awayPassProbability": 0.7222222222222222,
+      "homeOverallPassProbability": 0.072,
+      "awayOverallPassProbability": 0.528,
+      "slotHome": "Winner Match 83",
+      "slotAway": "Winner Match 84",
+      "venue": "AT&T Stadium, Dallas",
+      "dateUtc": "2026-07-06T19:00:00Z"
+    },
+    {
+      "matchId": 94,
+      "round": "Round of 16",
+      "home": "Belgium",
+      "away": "Australia",
+      "winner": "Belgium",
+      "pairingConfidence": 0.072,
+      "winnerConfidence": 0.6666666666666666,
+      "homePassProbability": 0.6666666666666666,
+      "awayPassProbability": 0.3333333333333333,
+      "homeOverallPassProbability": 0.16,
+      "awayOverallPassProbability": 0.12,
+      "slotHome": "Winner Match 81",
+      "slotAway": "Winner Match 82",
+      "venue": "Lumen Field, Seattle",
+      "dateUtc": "2026-07-07T00:00:00Z"
+    },
+    {
+      "matchId": 95,
+      "round": "Round of 16",
+      "home": "Iran",
+      "away": "Portugal",
+      "winner": "Portugal",
+      "pairingConfidence": 0.104,
+      "winnerConfidence": 0.7692307692307693,
+      "homePassProbability": 0.23076923076923078,
+      "awayPassProbability": 0.7692307692307693,
+      "homeOverallPassProbability": 0.032,
+      "awayOverallPassProbability": 0.232,
+      "slotHome": "Winner Match 86",
+      "slotAway": "Winner Match 88",
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "dateUtc": "2026-07-07T16:00:00Z"
+    },
+    {
+      "matchId": 96,
+      "round": "Round of 16",
+      "home": "Canada",
+      "away": "Argentina",
+      "winner": "Argentina",
+      "pairingConfidence": 0.168,
+      "winnerConfidence": 0.7142857142857143,
+      "homePassProbability": 0.2857142857142857,
+      "awayPassProbability": 0.7142857142857143,
+      "homeOverallPassProbability": 0.088,
+      "awayOverallPassProbability": 0.376,
+      "slotHome": "Winner Match 85",
+      "slotAway": "Winner Match 87",
+      "venue": "BC Place, Vancouver",
+      "dateUtc": "2026-07-07T20:00:00Z"
+    },
+    {
+      "matchId": 97,
+      "round": "Quarter-final",
+      "home": "Germany",
+      "away": "Brazil",
+      "winner": "Brazil",
+      "pairingConfidence": 0.072,
+      "winnerConfidence": 0.8888888888888888,
+      "homePassProbability": 0.1111111111111111,
+      "awayPassProbability": 0.8888888888888888,
+      "homeOverallPassProbability": 0.136,
+      "awayOverallPassProbability": 0.16,
+      "slotHome": "Winner Match 89",
+      "slotAway": "Winner Match 90",
+      "venue": "Gillette Stadium, Boston",
+      "dateUtc": "2026-07-09T20:00:00Z"
+    },
+    {
+      "matchId": 98,
+      "round": "Quarter-final",
+      "home": "Spain",
+      "away": "Belgium",
+      "winner": "Spain",
+      "pairingConfidence": 0.096,
+      "winnerConfidence": 0.8333333333333334,
+      "homePassProbability": 0.8333333333333334,
+      "awayPassProbability": 0.16666666666666666,
+      "homeOverallPassProbability": 0.416,
+      "awayOverallPassProbability": 0.048,
+      "slotHome": "Winner Match 93",
+      "slotAway": "Winner Match 94",
+      "venue": "SoFi Stadium, Los Angeles",
+      "dateUtc": "2026-07-10T19:00:00Z"
+    },
+    {
+      "matchId": 99,
+      "round": "Quarter-final",
+      "home": "France",
+      "away": "England",
+      "winner": "England",
+      "pairingConfidence": 0.168,
+      "winnerConfidence": 0.5714285714285714,
+      "homePassProbability": 0.42857142857142855,
+      "awayPassProbability": 0.5714285714285714,
+      "homeOverallPassProbability": 0.264,
+      "awayOverallPassProbability": 0.208,
+      "slotHome": "Winner Match 91",
+      "slotAway": "Winner Match 92",
+      "venue": "Hard Rock Stadium, Miami",
+      "dateUtc": "2026-07-11T21:00:00Z"
+    },
+    {
+      "matchId": 100,
+      "round": "Quarter-final",
+      "home": "Portugal",
+      "away": "Argentina",
+      "winner": "Argentina",
+      "pairingConfidence": 0.096,
+      "winnerConfidence": 0.5,
+      "homePassProbability": 0.5,
+      "awayPassProbability": 0.5,
+      "homeOverallPassProbability": 0.104,
+      "awayOverallPassProbability": 0.256,
+      "slotHome": "Winner Match 95",
+      "slotAway": "Winner Match 96",
+      "venue": "GEHA Field at Arrowhead Stadium, Kansas City",
+      "dateUtc": "2026-07-12T01:00:00Z"
+    },
+    {
+      "matchId": 101,
+      "round": "Semi-final",
+      "home": "Brazil",
+      "away": "Spain",
+      "winner": "Spain",
+      "pairingConfidence": 0.088,
+      "winnerConfidence": 0.7272727272727273,
+      "homePassProbability": 0.2727272727272727,
+      "awayPassProbability": 0.7272727272727273,
+      "homeOverallPassProbability": 0.064,
+      "awayOverallPassProbability": 0.288,
+      "slotHome": "Winner Match 97",
+      "slotAway": "Winner Match 98",
+      "venue": "AT&T Stadium, Dallas",
+      "dateUtc": "2026-07-14T19:00:00Z"
+    },
+    {
+      "matchId": 102,
+      "round": "Semi-final",
+      "home": "England",
+      "away": "Argentina",
+      "winner": "Argentina",
+      "pairingConfidence": 0.048,
+      "winnerConfidence": 0.6666666666666666,
+      "homePassProbability": 0.3333333333333333,
+      "awayPassProbability": 0.6666666666666666,
+      "homeOverallPassProbability": 0.112,
+      "awayOverallPassProbability": 0.168,
+      "slotHome": "Winner Match 99",
+      "slotAway": "Winner Match 100",
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "dateUtc": "2026-07-15T19:00:00Z"
+    },
+    {
+      "matchId": 103,
+      "round": "Third-place playoff",
+      "home": "Spain",
+      "away": "England",
+      "winner": "Spain",
+      "pairingConfidence": 0.032,
+      "winnerConfidence": 0.75,
+      "homePassProbability": 0.75,
+      "awayPassProbability": 0.25,
+      "homeOverallPassProbability": 0.128,
+      "awayOverallPassProbability": 0.064,
+      "slotHome": "Loser Match 101",
+      "slotAway": "Loser Match 102",
+      "venue": "Hard Rock Stadium, Miami",
+      "dateUtc": "2026-07-18T21:00:00Z"
+    },
+    {
+      "matchId": 104,
+      "round": "Final",
+      "home": "Spain",
+      "away": "Argentina",
+      "winner": "Spain",
+      "pairingConfidence": 0.064,
+      "winnerConfidence": 0.75,
+      "homePassProbability": 0.75,
+      "awayPassProbability": 0.25,
+      "homeOverallPassProbability": 0.2,
+      "awayOverallPassProbability": 0.104,
+      "slotHome": "Winner Match 101",
+      "slotAway": "Winner Match 102",
+      "venue": "MetLife Stadium, East Rutherford",
+      "dateUtc": "2026-07-19T19:00:00Z"
+    }
+  ]
+}

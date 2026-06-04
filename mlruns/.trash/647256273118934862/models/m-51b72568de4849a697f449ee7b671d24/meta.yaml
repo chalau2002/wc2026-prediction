@@ -1,0 +1,10 @@
+artifact_location: file:///Users/goncalo.rodrigues9/Desktop/SC%20Braga/GR/WC/mlruns/647256273118934862/models/m-51b72568de4849a697f449ee7b671d24/artifacts
+creation_timestamp: 1780447043250
+experiment_id: '647256273118934862'
+last_updated_timestamp: 1780447044843
+model_id: m-51b72568de4849a697f449ee7b671d24
+model_type: null
+name: model_away
+source_run_id: 8a6b26e4459a40e994b0f0a9804f0308
+status: 2
+status_message: null

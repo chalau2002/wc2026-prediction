@@ -1,0 +1,1057 @@
+simulation,match_id,round,home_team,away_team,home_goals,away_goals,winner,loser,penalties
+1,73,Round of 32,Mexico,Canada,2,1,Mexico,Canada,False
+1,74,Round of 32,Morocco,Sweden,1,1,Morocco,Sweden,True
+1,75,Round of 32,Germany,Haiti,6,0,Germany,Haiti,False
+1,76,Round of 32,Japan,Brazil,0,2,Brazil,Japan,False
+1,77,Round of 32,Ivory Coast,Senegal,1,2,Senegal,Ivory Coast,False
+1,78,Round of 32,France,United States,2,0,France,United States,False
+1,79,Round of 32,Czech Republic,Cape Verde,2,1,Czech Republic,Cape Verde,False
+1,80,Round of 32,England,Norway,3,3,Norway,England,True
+1,81,Round of 32,Belgium,South Africa,1,1,Belgium,South Africa,True
+1,82,Round of 32,Australia,Algeria,2,1,Australia,Algeria,False
+1,83,Round of 32,Colombia,Croatia,1,1,Croatia,Colombia,True
+1,84,Round of 32,Uruguay,Argentina,1,1,Argentina,Uruguay,True
+1,85,Round of 32,Switzerland,Iran,2,1,Switzerland,Iran,False
+1,86,Round of 32,Paraguay,Egypt,0,0,Egypt,Paraguay,True
+1,87,Round of 32,Austria,Spain,0,2,Spain,Austria,False
+1,88,Round of 32,DR Congo,Panama,0,0,Panama,DR Congo,True
+1,89,Round of 16,Mexico,Germany,1,1,Germany,Mexico,True
+1,90,Round of 16,Morocco,Senegal,4,0,Morocco,Senegal,False
+1,91,Round of 16,Brazil,France,0,4,France,Brazil,False
+1,92,Round of 16,Czech Republic,Norway,1,1,Norway,Czech Republic,True
+1,93,Round of 16,Croatia,Argentina,1,1,Argentina,Croatia,True
+1,94,Round of 16,Belgium,Australia,1,0,Belgium,Australia,False
+1,95,Round of 16,Egypt,Panama,0,3,Panama,Egypt,False
+1,96,Round of 16,Switzerland,Spain,1,2,Spain,Switzerland,False
+1,97,Quarter-final,Germany,Morocco,3,1,Germany,Morocco,False
+1,98,Quarter-final,Argentina,Belgium,1,0,Argentina,Belgium,False
+1,99,Quarter-final,France,Norway,1,0,France,Norway,False
+1,100,Quarter-final,Panama,Spain,1,2,Spain,Panama,False
+1,101,Semi-final,Germany,Argentina,1,0,Germany,Argentina,False
+1,102,Semi-final,France,Spain,1,0,France,Spain,False
+1,103,Third-place playoff,Argentina,Spain,2,2,Spain,Argentina,True
+1,104,Final,Germany,France,1,1,France,Germany,True
+2,73,Round of 32,Czech Republic,Qatar,1,1,Czech Republic,Qatar,True
+2,74,Round of 32,Brazil,Tunisia,0,1,Tunisia,Brazil,False
+2,75,Round of 32,Ecuador,South Korea,1,1,Ecuador,South Korea,True
+2,76,Round of 32,Netherlands,Morocco,2,1,Netherlands,Morocco,False
+2,77,Round of 32,Germany,France,2,4,France,Germany,False
+2,78,Round of 32,Norway,Paraguay,3,0,Norway,Paraguay,False
+2,79,Round of 32,Mexico,Ivory Coast,1,1,Ivory Coast,Mexico,True
+2,80,Round of 32,England,Portugal,2,2,Portugal,England,True
+2,81,Round of 32,Iran,Senegal,2,0,Iran,Senegal,False
+2,82,Round of 32,Turkey,Canada,1,0,Turkey,Canada,False
+2,83,Round of 32,Uzbekistan,Ghana,1,1,Uzbekistan,Ghana,True
+2,84,Round of 32,Spain,Austria,3,0,Spain,Austria,False
+2,85,Round of 32,Switzerland,Jordan,2,0,Switzerland,Jordan,False
+2,86,Round of 32,United States,New Zealand,3,0,United States,New Zealand,False
+2,87,Round of 32,Argentina,Uruguay,1,6,Uruguay,Argentina,False
+2,88,Round of 32,Colombia,Croatia,0,0,Croatia,Colombia,True
+2,89,Round of 16,Czech Republic,Ecuador,0,3,Ecuador,Czech Republic,False
+2,90,Round of 16,Tunisia,France,0,0,France,Tunisia,True
+2,91,Round of 16,Netherlands,Norway,2,1,Netherlands,Norway,False
+2,92,Round of 16,Ivory Coast,Portugal,2,1,Ivory Coast,Portugal,False
+2,93,Round of 16,Uzbekistan,Spain,1,2,Spain,Uzbekistan,False
+2,94,Round of 16,Iran,Turkey,1,0,Iran,Turkey,False
+2,95,Round of 16,United States,Croatia,3,1,United States,Croatia,False
+2,96,Round of 16,Switzerland,Uruguay,0,0,Uruguay,Switzerland,True
+2,97,Quarter-final,Ecuador,France,2,2,France,Ecuador,True
+2,98,Quarter-final,Spain,Iran,0,0,Iran,Spain,True
+2,99,Quarter-final,Netherlands,Ivory Coast,2,1,Netherlands,Ivory Coast,False
+2,100,Quarter-final,United States,Uruguay,0,0,United States,Uruguay,True
+2,101,Semi-final,France,Iran,2,1,France,Iran,False
+2,102,Semi-final,Netherlands,United States,1,3,United States,Netherlands,False
+2,103,Third-place playoff,Iran,Netherlands,0,2,Netherlands,Iran,False
+2,104,Final,France,United States,3,1,France,United States,False
+3,73,Round of 32,Czech Republic,Canada,0,1,Canada,Czech Republic,False
+3,74,Round of 32,Brazil,Japan,2,0,Brazil,Japan,False
+3,75,Round of 32,Ecuador,Netherlands,1,1,Netherlands,Ecuador,True
+3,76,Round of 32,Sweden,Morocco,1,0,Sweden,Morocco,False
+3,77,Round of 32,Germany,Norway,0,1,Norway,Germany,False
+3,78,Round of 32,France,Saudi Arabia,4,2,France,Saudi Arabia,False
+3,79,Round of 32,Mexico,Ivory Coast,1,0,Mexico,Ivory Coast,False
+3,80,Round of 32,England,Colombia,3,1,England,Colombia,False
+3,81,Round of 32,Belgium,South Africa,1,2,South Africa,Belgium,False
+3,82,Round of 32,Australia,Jordan,0,1,Jordan,Australia,False
+3,83,Round of 32,Uzbekistan,Croatia,2,1,Uzbekistan,Croatia,False
+3,84,Round of 32,Spain,Algeria,0,1,Algeria,Spain,False
+3,85,Round of 32,Switzerland,Egypt,1,1,Egypt,Switzerland,True
+3,86,Round of 32,Turkey,Iran,5,2,Turkey,Iran,False
+3,87,Round of 32,Argentina,Uruguay,4,0,Argentina,Uruguay,False
+3,88,Round of 32,Portugal,Panama,2,0,Portugal,Panama,False
+3,89,Round of 16,Canada,Netherlands,1,2,Netherlands,Canada,False
+3,90,Round of 16,Brazil,Norway,0,0,Norway,Brazil,True
+3,91,Round of 16,Sweden,France,0,3,France,Sweden,False
+3,92,Round of 16,Mexico,England,0,0,Mexico,England,True
+3,93,Round of 16,Uzbekistan,Algeria,0,3,Algeria,Uzbekistan,False
+3,94,Round of 16,South Africa,Jordan,0,4,Jordan,South Africa,False
+3,95,Round of 16,Turkey,Portugal,0,1,Portugal,Turkey,False
+3,96,Round of 16,Egypt,Argentina,1,3,Argentina,Egypt,False
+3,97,Quarter-final,Netherlands,Norway,2,0,Netherlands,Norway,False
+3,98,Quarter-final,Algeria,Jordan,1,1,Algeria,Jordan,True
+3,99,Quarter-final,France,Mexico,2,2,France,Mexico,True
+3,100,Quarter-final,Portugal,Argentina,1,1,Argentina,Portugal,True
+3,101,Semi-final,Netherlands,Algeria,0,3,Algeria,Netherlands,False
+3,102,Semi-final,France,Argentina,0,4,Argentina,France,False
+3,103,Third-place playoff,Netherlands,France,2,3,France,Netherlands,False
+3,104,Final,Algeria,Argentina,0,4,Argentina,Algeria,False
+4,73,Round of 32,Mexico,Canada,1,1,Canada,Mexico,True
+4,74,Round of 32,Brazil,Sweden,3,0,Brazil,Sweden,False
+4,75,Round of 32,Ecuador,Morocco,2,2,Ecuador,Morocco,True
+4,76,Round of 32,Japan,Haiti,1,0,Japan,Haiti,False
+4,77,Round of 32,Ivory Coast,Norway,0,0,Norway,Ivory Coast,True
+4,78,Round of 32,France,Netherlands,0,1,Netherlands,France,False
+4,79,Round of 32,South Korea,Saudi Arabia,2,0,South Korea,Saudi Arabia,False
+4,80,Round of 32,England,Colombia,2,0,England,Colombia,False
+4,81,Round of 32,Belgium,Czech Republic,2,0,Belgium,Czech Republic,False
+4,82,Round of 32,United States,Jordan,4,0,United States,Jordan,False
+4,83,Round of 32,Portugal,Panama,2,0,Portugal,Panama,False
+4,84,Round of 32,Spain,Austria,2,0,Spain,Austria,False
+4,85,Round of 32,Switzerland,New Zealand,5,0,Switzerland,New Zealand,False
+4,86,Round of 32,Australia,Iran,1,0,Australia,Iran,False
+4,87,Round of 32,Argentina,Uruguay,1,1,Uruguay,Argentina,True
+4,88,Round of 32,Uzbekistan,Germany,1,1,Germany,Uzbekistan,True
+4,89,Round of 16,Canada,Ecuador,1,5,Ecuador,Canada,False
+4,90,Round of 16,Brazil,Norway,3,1,Brazil,Norway,False
+4,91,Round of 16,Japan,Netherlands,1,2,Netherlands,Japan,False
+4,92,Round of 16,South Korea,England,1,3,England,South Korea,False
+4,93,Round of 16,Portugal,Spain,0,3,Spain,Portugal,False
+4,94,Round of 16,Belgium,United States,3,2,Belgium,United States,False
+4,95,Round of 16,Australia,Germany,2,0,Australia,Germany,False
+4,96,Round of 16,Switzerland,Uruguay,1,0,Switzerland,Uruguay,False
+4,97,Quarter-final,Ecuador,Brazil,2,2,Brazil,Ecuador,True
+4,98,Quarter-final,Spain,Belgium,3,2,Spain,Belgium,False
+4,99,Quarter-final,Netherlands,England,0,1,England,Netherlands,False
+4,100,Quarter-final,Australia,Switzerland,0,0,Switzerland,Australia,True
+4,101,Semi-final,Brazil,Spain,1,1,Spain,Brazil,True
+4,102,Semi-final,England,Switzerland,1,0,England,Switzerland,False
+4,103,Third-place playoff,Brazil,Switzerland,0,0,Brazil,Switzerland,True
+4,104,Final,Spain,England,2,2,England,Spain,True
+5,73,Round of 32,Mexico,Switzerland,0,1,Switzerland,Mexico,False
+5,74,Round of 32,Morocco,Japan,2,2,Morocco,Japan,True
+5,75,Round of 32,Germany,Scotland,0,0,Scotland,Germany,True
+5,76,Round of 32,Tunisia,Brazil,1,1,Brazil,Tunisia,True
+5,77,Round of 32,Ecuador,Norway,1,0,Ecuador,Norway,False
+5,78,Round of 32,France,Turkey,3,0,France,Turkey,False
+5,79,Round of 32,South Africa,Senegal,1,4,Senegal,South Africa,False
+5,80,Round of 32,England,Uzbekistan,2,3,Uzbekistan,England,False
+5,81,Round of 32,Belgium,Czech Republic,2,0,Belgium,Czech Republic,False
+5,82,Round of 32,Paraguay,Qatar,1,1,Paraguay,Qatar,True
+5,83,Round of 32,Colombia,Ghana,1,2,Ghana,Colombia,False
+5,84,Round of 32,Spain,Algeria,6,2,Spain,Algeria,False
+5,85,Round of 32,Canada,Iran,1,2,Iran,Canada,False
+5,86,Round of 32,Australia,New Zealand,0,1,New Zealand,Australia,False
+5,87,Round of 32,Argentina,Uruguay,1,1,Uruguay,Argentina,True
+5,88,Round of 32,Portugal,Croatia,4,1,Portugal,Croatia,False
+5,89,Round of 16,Switzerland,Scotland,0,0,Scotland,Switzerland,True
+5,90,Round of 16,Morocco,Ecuador,2,1,Morocco,Ecuador,False
+5,91,Round of 16,Brazil,France,2,2,France,Brazil,True
+5,92,Round of 16,Senegal,Uzbekistan,2,0,Senegal,Uzbekistan,False
+5,93,Round of 16,Ghana,Spain,0,3,Spain,Ghana,False
+5,94,Round of 16,Belgium,Paraguay,1,1,Belgium,Paraguay,True
+5,95,Round of 16,New Zealand,Portugal,2,3,Portugal,New Zealand,False
+5,96,Round of 16,Iran,Uruguay,3,0,Iran,Uruguay,False
+5,97,Quarter-final,Scotland,Morocco,2,3,Morocco,Scotland,False
+5,98,Quarter-final,Spain,Belgium,0,3,Belgium,Spain,False
+5,99,Quarter-final,France,Senegal,2,0,France,Senegal,False
+5,100,Quarter-final,Portugal,Iran,2,0,Portugal,Iran,False
+5,101,Semi-final,Morocco,Belgium,1,0,Morocco,Belgium,False
+5,102,Semi-final,France,Portugal,1,2,Portugal,France,False
+5,103,Third-place playoff,Belgium,France,4,2,Belgium,France,False
+5,104,Final,Morocco,Portugal,3,0,Morocco,Portugal,False
+6,73,Round of 32,South Korea,Canada,1,2,Canada,South Korea,False
+6,74,Round of 32,Morocco,Japan,3,0,Morocco,Japan,False
+6,75,Round of 32,Germany,United States,3,1,Germany,United States,False
+6,76,Round of 32,Netherlands,Brazil,1,2,Brazil,Netherlands,False
+6,77,Round of 32,Curaçao,France,2,2,France,Curaçao,True
+6,78,Round of 32,Norway,Tunisia,3,1,Norway,Tunisia,False
+6,79,Round of 32,Mexico,Haiti,4,0,Mexico,Haiti,False
+6,80,Round of 32,England,Portugal,1,1,Portugal,England,True
+6,81,Round of 32,Belgium,Czech Republic,1,1,Czech Republic,Belgium,True
+6,82,Round of 32,Australia,Algeria,2,1,Australia,Algeria,False
+6,83,Round of 32,Colombia,Panama,3,0,Colombia,Panama,False
+6,84,Round of 32,Spain,Austria,4,1,Spain,Austria,False
+6,85,Round of 32,Switzerland,Iran,1,0,Switzerland,Iran,False
+6,86,Round of 32,Turkey,Egypt,1,1,Turkey,Egypt,True
+6,87,Round of 32,Argentina,Uruguay,5,2,Argentina,Uruguay,False
+6,88,Round of 32,DR Congo,Ivory Coast,0,1,Ivory Coast,DR Congo,False
+6,89,Round of 16,Canada,Germany,0,0,Germany,Canada,True
+6,90,Round of 16,Morocco,France,0,3,France,Morocco,False
+6,91,Round of 16,Brazil,Norway,2,1,Brazil,Norway,False
+6,92,Round of 16,Mexico,Portugal,1,2,Portugal,Mexico,False
+6,93,Round of 16,Colombia,Spain,1,2,Spain,Colombia,False
+6,94,Round of 16,Czech Republic,Australia,0,3,Australia,Czech Republic,False
+6,95,Round of 16,Turkey,Ivory Coast,1,2,Ivory Coast,Turkey,False
+6,96,Round of 16,Switzerland,Argentina,0,1,Argentina,Switzerland,False
+6,97,Quarter-final,Germany,France,2,1,Germany,France,False
+6,98,Quarter-final,Spain,Australia,2,0,Spain,Australia,False
+6,99,Quarter-final,Brazil,Portugal,1,0,Brazil,Portugal,False
+6,100,Quarter-final,Ivory Coast,Argentina,0,3,Argentina,Ivory Coast,False
+6,101,Semi-final,Germany,Spain,0,4,Spain,Germany,False
+6,102,Semi-final,Brazil,Argentina,2,2,Argentina,Brazil,True
+6,103,Third-place playoff,Germany,Brazil,0,4,Brazil,Germany,False
+6,104,Final,Spain,Argentina,0,1,Argentina,Spain,False
+7,73,Round of 32,South Korea,Canada,1,2,Canada,South Korea,False
+7,74,Round of 32,Scotland,Sweden,2,0,Scotland,Sweden,False
+7,75,Round of 32,Germany,Morocco,2,2,Morocco,Germany,True
+7,76,Round of 32,Netherlands,Brazil,2,1,Netherlands,Brazil,False
+7,77,Round of 32,Ecuador,France,1,1,Ecuador,France,True
+7,78,Round of 32,Norway,Japan,0,2,Japan,Norway,False
+7,79,Round of 32,Mexico,Cape Verde,4,0,Mexico,Cape Verde,False
+7,80,Round of 32,England,Senegal,1,3,Senegal,England,False
+7,81,Round of 32,Iran,South Africa,2,0,Iran,South Africa,False
+7,82,Round of 32,United States,Switzerland,1,1,Switzerland,United States,True
+7,83,Round of 32,DR Congo,Croatia,0,1,Croatia,DR Congo,False
+7,84,Round of 32,Spain,Algeria,2,2,Algeria,Spain,True
+7,85,Round of 32,Bosnia and Herzegovina,Egypt,2,0,Bosnia and Herzegovina,Egypt,False
+7,86,Round of 32,Paraguay,New Zealand,4,1,Paraguay,New Zealand,False
+7,87,Round of 32,Argentina,Uruguay,1,0,Argentina,Uruguay,False
+7,88,Round of 32,Portugal,Australia,3,0,Portugal,Australia,False
+7,89,Round of 16,Canada,Morocco,2,1,Canada,Morocco,False
+7,90,Round of 16,Scotland,Ecuador,1,4,Ecuador,Scotland,False
+7,91,Round of 16,Netherlands,Japan,3,3,Japan,Netherlands,True
+7,92,Round of 16,Mexico,Senegal,1,2,Senegal,Mexico,False
+7,93,Round of 16,Croatia,Algeria,3,1,Croatia,Algeria,False
+7,94,Round of 16,Iran,Switzerland,1,2,Switzerland,Iran,False
+7,95,Round of 16,Paraguay,Portugal,2,5,Portugal,Paraguay,False
+7,96,Round of 16,Bosnia and Herzegovina,Argentina,1,3,Argentina,Bosnia and Herzegovina,False
+7,97,Quarter-final,Canada,Ecuador,1,1,Ecuador,Canada,True
+7,98,Quarter-final,Croatia,Switzerland,0,0,Switzerland,Croatia,True
+7,99,Quarter-final,Japan,Senegal,1,0,Japan,Senegal,False
+7,100,Quarter-final,Portugal,Argentina,1,2,Argentina,Portugal,False
+7,101,Semi-final,Ecuador,Switzerland,1,0,Ecuador,Switzerland,False
+7,102,Semi-final,Japan,Argentina,3,2,Japan,Argentina,False
+7,103,Third-place playoff,Switzerland,Argentina,1,3,Argentina,Switzerland,False
+7,104,Final,Ecuador,Japan,1,3,Japan,Ecuador,False
+8,73,Round of 32,Mexico,Canada,2,0,Mexico,Canada,False
+8,74,Round of 32,Scotland,Japan,1,2,Japan,Scotland,False
+8,75,Round of 32,Germany,Australia,3,1,Germany,Australia,False
+8,76,Round of 32,Netherlands,Brazil,1,3,Brazil,Netherlands,False
+8,77,Round of 32,Ecuador,Norway,0,1,Norway,Ecuador,False
+8,78,Round of 32,France,Sweden,3,0,France,Sweden,False
+8,79,Round of 32,South Korea,Curaçao,1,1,Curaçao,South Korea,True
+8,80,Round of 32,Croatia,Colombia,0,0,Colombia,Croatia,True
+8,81,Round of 32,Belgium,Saudi Arabia,3,1,Belgium,Saudi Arabia,False
+8,82,Round of 32,Paraguay,Bosnia and Herzegovina,3,0,Paraguay,Bosnia and Herzegovina,False
+8,83,Round of 32,Portugal,England,0,0,England,Portugal,True
+8,84,Round of 32,Spain,Argentina,1,0,Spain,Argentina,False
+8,85,Round of 32,Switzerland,Austria,1,1,Austria,Switzerland,True
+8,86,Round of 32,United States,New Zealand,0,1,New Zealand,United States,False
+8,87,Round of 32,Algeria,Uruguay,0,0,Algeria,Uruguay,True
+8,88,Round of 32,DR Congo,Panama,0,1,Panama,DR Congo,False
+8,89,Round of 16,Mexico,Germany,0,2,Germany,Mexico,False
+8,90,Round of 16,Japan,Norway,1,0,Japan,Norway,False
+8,91,Round of 16,Brazil,France,4,0,Brazil,France,False
+8,92,Round of 16,Curaçao,Colombia,0,1,Colombia,Curaçao,False
+8,93,Round of 16,England,Spain,0,1,Spain,England,False
+8,94,Round of 16,Belgium,Paraguay,0,1,Paraguay,Belgium,False
+8,95,Round of 16,New Zealand,Panama,1,1,Panama,New Zealand,True
+8,96,Round of 16,Austria,Algeria,0,0,Algeria,Austria,True
+8,97,Quarter-final,Germany,Japan,1,1,Japan,Germany,True
+8,98,Quarter-final,Spain,Paraguay,1,1,Paraguay,Spain,True
+8,99,Quarter-final,Brazil,Colombia,0,0,Brazil,Colombia,True
+8,100,Quarter-final,Panama,Algeria,4,2,Panama,Algeria,False
+8,101,Semi-final,Japan,Paraguay,1,1,Paraguay,Japan,True
+8,102,Semi-final,Brazil,Panama,2,1,Brazil,Panama,False
+8,103,Third-place playoff,Japan,Panama,1,2,Panama,Japan,False
+8,104,Final,Paraguay,Brazil,0,1,Brazil,Paraguay,False
+9,73,Round of 32,Mexico,Switzerland,1,1,Mexico,Switzerland,True
+9,74,Round of 32,Brazil,Sweden,2,0,Brazil,Sweden,False
+9,75,Round of 32,Germany,Turkey,1,0,Germany,Turkey,False
+9,76,Round of 32,Tunisia,Morocco,1,1,Tunisia,Morocco,True
+9,77,Round of 32,Ecuador,Senegal,0,0,Ecuador,Senegal,True
+9,78,Round of 32,France,Netherlands,3,1,France,Netherlands,False
+9,79,Round of 32,South Korea,Scotland,2,0,South Korea,Scotland,False
+9,80,Round of 32,England,DR Congo,0,0,DR Congo,England,True
+9,81,Round of 32,Iran,Cape Verde,1,0,Iran,Cape Verde,False
+9,82,Round of 32,United States,Iraq,1,1,Iraq,United States,True
+9,83,Round of 32,Portugal,Croatia,3,0,Portugal,Croatia,False
+9,84,Round of 32,Spain,Austria,1,0,Spain,Austria,False
+9,85,Round of 32,Canada,Algeria,2,0,Canada,Algeria,False
+9,86,Round of 32,Paraguay,Egypt,1,0,Paraguay,Egypt,False
+9,87,Round of 32,Argentina,Uruguay,0,2,Uruguay,Argentina,False
+9,88,Round of 32,Colombia,Panama,3,1,Colombia,Panama,False
+9,89,Round of 16,Mexico,Germany,1,5,Germany,Mexico,False
+9,90,Round of 16,Brazil,Ecuador,1,1,Brazil,Ecuador,True
+9,91,Round of 16,Tunisia,France,1,2,France,Tunisia,False
+9,92,Round of 16,South Korea,DR Congo,1,1,DR Congo,South Korea,True
+9,93,Round of 16,Portugal,Spain,1,2,Spain,Portugal,False
+9,94,Round of 16,Iran,Iraq,0,0,Iran,Iraq,True
+9,95,Round of 16,Paraguay,Colombia,0,2,Colombia,Paraguay,False
+9,96,Round of 16,Canada,Uruguay,2,0,Canada,Uruguay,False
+9,97,Quarter-final,Germany,Brazil,1,2,Brazil,Germany,False
+9,98,Quarter-final,Spain,Iran,0,0,Iran,Spain,True
+9,99,Quarter-final,France,DR Congo,5,1,France,DR Congo,False
+9,100,Quarter-final,Colombia,Canada,1,1,Colombia,Canada,True
+9,101,Semi-final,Brazil,Iran,2,0,Brazil,Iran,False
+9,102,Semi-final,France,Colombia,0,0,Colombia,France,True
+9,103,Third-place playoff,Iran,France,1,2,France,Iran,False
+9,104,Final,Brazil,Colombia,1,0,Brazil,Colombia,False
+10,73,Round of 32,Mexico,Bosnia and Herzegovina,2,0,Mexico,Bosnia and Herzegovina,False
+10,74,Round of 32,Brazil,Japan,1,1,Brazil,Japan,True
+10,75,Round of 32,Germany,Switzerland,3,0,Germany,Switzerland,False
+10,76,Round of 32,Netherlands,Morocco,0,2,Morocco,Netherlands,False
+10,77,Round of 32,Ivory Coast,Senegal,1,1,Ivory Coast,Senegal,True
+10,78,Round of 32,France,Egypt,3,2,France,Egypt,False
+10,79,Round of 32,South Korea,Ecuador,2,0,South Korea,Ecuador,False
+10,80,Round of 32,Croatia,Uzbekistan,2,0,Croatia,Uzbekistan,False
+10,81,Round of 32,New Zealand,Uruguay,0,2,Uruguay,New Zealand,False
+10,82,Round of 32,Paraguay,Norway,3,1,Paraguay,Norway,False
+10,83,Round of 32,Portugal,England,1,1,England,Portugal,True
+10,84,Round of 32,Spain,Austria,0,2,Austria,Spain,False
+10,85,Round of 32,Canada,Jordan,4,0,Canada,Jordan,False
+10,86,Round of 32,Turkey,Belgium,1,1,Turkey,Belgium,True
+10,87,Round of 32,Argentina,Saudi Arabia,2,1,Argentina,Saudi Arabia,False
+10,88,Round of 32,Colombia,Panama,1,0,Colombia,Panama,False
+10,89,Round of 16,Mexico,Germany,0,0,Germany,Mexico,True
+10,90,Round of 16,Brazil,Ivory Coast,1,1,Brazil,Ivory Coast,True
+10,91,Round of 16,Morocco,France,0,2,France,Morocco,False
+10,92,Round of 16,South Korea,Croatia,1,3,Croatia,South Korea,False
+10,93,Round of 16,England,Austria,1,0,England,Austria,False
+10,94,Round of 16,Uruguay,Paraguay,1,0,Uruguay,Paraguay,False
+10,95,Round of 16,Turkey,Colombia,1,0,Turkey,Colombia,False
+10,96,Round of 16,Canada,Argentina,2,1,Canada,Argentina,False
+10,97,Quarter-final,Germany,Brazil,0,2,Brazil,Germany,False
+10,98,Quarter-final,England,Uruguay,0,2,Uruguay,England,False
+10,99,Quarter-final,France,Croatia,0,1,Croatia,France,False
+10,100,Quarter-final,Turkey,Canada,2,0,Turkey,Canada,False
+10,101,Semi-final,Brazil,Uruguay,1,1,Brazil,Uruguay,True
+10,102,Semi-final,Croatia,Turkey,1,1,Turkey,Croatia,True
+10,103,Third-place playoff,Uruguay,Croatia,3,2,Uruguay,Croatia,False
+10,104,Final,Brazil,Turkey,1,0,Brazil,Turkey,False
+11,73,Round of 32,South Korea,Switzerland,3,1,South Korea,Switzerland,False
+11,74,Round of 32,Brazil,Tunisia,2,0,Brazil,Tunisia,False
+11,75,Round of 32,Germany,Paraguay,6,0,Germany,Paraguay,False
+11,76,Round of 32,Japan,Haiti,1,1,Haiti,Japan,True
+11,77,Round of 32,Ecuador,France,0,1,France,Ecuador,False
+11,78,Round of 32,Norway,Netherlands,1,2,Netherlands,Norway,False
+11,79,Round of 32,Mexico,Scotland,1,0,Mexico,Scotland,False
+11,80,Round of 32,Ghana,Uzbekistan,0,2,Uzbekistan,Ghana,False
+11,81,Round of 32,Belgium,Saudi Arabia,3,0,Belgium,Saudi Arabia,False
+11,82,Round of 32,Australia,Curaçao,2,0,Australia,Curaçao,False
+11,83,Round of 32,Portugal,England,1,1,England,Portugal,True
+11,84,Round of 32,Spain,Argentina,2,0,Spain,Argentina,False
+11,85,Round of 32,Canada,Jordan,1,1,Canada,Jordan,True
+11,86,Round of 32,United States,New Zealand,2,1,United States,New Zealand,False
+11,87,Round of 32,Algeria,Uruguay,0,1,Uruguay,Algeria,False
+11,88,Round of 32,Colombia,Senegal,1,5,Senegal,Colombia,False
+11,89,Round of 16,South Korea,Germany,1,3,Germany,South Korea,False
+11,90,Round of 16,Brazil,France,1,1,Brazil,France,True
+11,91,Round of 16,Haiti,Netherlands,3,2,Haiti,Netherlands,False
+11,92,Round of 16,Mexico,Uzbekistan,2,2,Uzbekistan,Mexico,True
+11,93,Round of 16,England,Spain,1,1,England,Spain,True
+11,94,Round of 16,Belgium,Australia,1,0,Belgium,Australia,False
+11,95,Round of 16,United States,Senegal,1,2,Senegal,United States,False
+11,96,Round of 16,Canada,Uruguay,1,1,Uruguay,Canada,True
+11,97,Quarter-final,Germany,Brazil,0,1,Brazil,Germany,False
+11,98,Quarter-final,England,Belgium,0,1,Belgium,England,False
+11,99,Quarter-final,Haiti,Uzbekistan,1,0,Haiti,Uzbekistan,False
+11,100,Quarter-final,Senegal,Uruguay,1,3,Uruguay,Senegal,False
+11,101,Semi-final,Brazil,Belgium,2,1,Brazil,Belgium,False
+11,102,Semi-final,Haiti,Uruguay,0,3,Uruguay,Haiti,False
+11,103,Third-place playoff,Belgium,Haiti,0,0,Belgium,Haiti,True
+11,104,Final,Brazil,Uruguay,1,2,Uruguay,Brazil,False
+12,73,Round of 32,Czech Republic,Switzerland,1,2,Switzerland,Czech Republic,False
+12,74,Round of 32,Scotland,Tunisia,0,1,Tunisia,Scotland,False
+12,75,Round of 32,Ecuador,South Korea,0,0,Ecuador,South Korea,True
+12,76,Round of 32,Netherlands,Morocco,2,1,Netherlands,Morocco,False
+12,77,Round of 32,Curaçao,Norway,0,4,Norway,Curaçao,False
+12,78,Round of 32,France,Turkey,1,1,Turkey,France,True
+12,79,Round of 32,Mexico,Germany,2,0,Mexico,Germany,False
+12,80,Round of 32,England,Colombia,1,2,Colombia,England,False
+12,81,Round of 32,Iran,Iraq,1,0,Iran,Iraq,False
+12,82,Round of 32,Australia,Bosnia and Herzegovina,5,0,Australia,Bosnia and Herzegovina,False
+12,83,Round of 32,Portugal,Croatia,1,1,Portugal,Croatia,True
+12,84,Round of 32,Spain,Jordan,5,0,Spain,Jordan,False
+12,85,Round of 32,Canada,New Zealand,2,0,Canada,New Zealand,False
+12,86,Round of 32,Paraguay,Egypt,3,1,Paraguay,Egypt,False
+12,87,Round of 32,Argentina,Uruguay,1,0,Argentina,Uruguay,False
+12,88,Round of 32,Uzbekistan,Ghana,1,0,Uzbekistan,Ghana,False
+12,89,Round of 16,Switzerland,Ecuador,3,0,Switzerland,Ecuador,False
+12,90,Round of 16,Tunisia,Norway,1,1,Norway,Tunisia,True
+12,91,Round of 16,Netherlands,Turkey,2,1,Netherlands,Turkey,False
+12,92,Round of 16,Mexico,Colombia,0,1,Colombia,Mexico,False
+12,93,Round of 16,Portugal,Spain,1,2,Spain,Portugal,False
+12,94,Round of 16,Iran,Australia,0,1,Australia,Iran,False
+12,95,Round of 16,Paraguay,Uzbekistan,1,1,Uzbekistan,Paraguay,True
+12,96,Round of 16,Canada,Argentina,1,0,Canada,Argentina,False
+12,97,Quarter-final,Switzerland,Norway,3,1,Switzerland,Norway,False
+12,98,Quarter-final,Spain,Australia,1,1,Australia,Spain,True
+12,99,Quarter-final,Netherlands,Colombia,1,1,Netherlands,Colombia,True
+12,100,Quarter-final,Uzbekistan,Canada,2,3,Canada,Uzbekistan,False
+12,101,Semi-final,Switzerland,Australia,1,3,Australia,Switzerland,False
+12,102,Semi-final,Netherlands,Canada,0,1,Canada,Netherlands,False
+12,103,Third-place playoff,Switzerland,Netherlands,0,3,Netherlands,Switzerland,False
+12,104,Final,Australia,Canada,3,1,Australia,Canada,False
+13,73,Round of 32,South Korea,Switzerland,2,3,Switzerland,South Korea,False
+13,74,Round of 32,Scotland,Sweden,1,2,Sweden,Scotland,False
+13,75,Round of 32,Germany,United States,2,0,Germany,United States,False
+13,76,Round of 32,Tunisia,Morocco,1,1,Morocco,Tunisia,True
+13,77,Round of 32,Ivory Coast,Senegal,2,2,Ivory Coast,Senegal,True
+13,78,Round of 32,Norway,Japan,2,1,Norway,Japan,False
+13,79,Round of 32,Mexico,Brazil,3,2,Mexico,Brazil,False
+13,80,Round of 32,Panama,DR Congo,1,0,Panama,DR Congo,False
+13,81,Round of 32,Belgium,Saudi Arabia,2,1,Belgium,Saudi Arabia,False
+13,82,Round of 32,Turkey,Bosnia and Herzegovina,2,1,Turkey,Bosnia and Herzegovina,False
+13,83,Round of 32,Portugal,Croatia,0,0,Croatia,Portugal,True
+13,84,Round of 32,Spain,Argentina,0,2,Argentina,Spain,False
+13,85,Round of 32,Canada,Egypt,1,0,Canada,Egypt,False
+13,86,Round of 32,Australia,New Zealand,4,0,Australia,New Zealand,False
+13,87,Round of 32,Algeria,Uruguay,0,2,Uruguay,Algeria,False
+13,88,Round of 32,Colombia,Ecuador,3,0,Colombia,Ecuador,False
+13,89,Round of 16,Switzerland,Germany,0,1,Germany,Switzerland,False
+13,90,Round of 16,Sweden,Ivory Coast,0,1,Ivory Coast,Sweden,False
+13,91,Round of 16,Morocco,Norway,0,2,Norway,Morocco,False
+13,92,Round of 16,Mexico,Panama,1,2,Panama,Mexico,False
+13,93,Round of 16,Croatia,Argentina,3,0,Croatia,Argentina,False
+13,94,Round of 16,Belgium,Turkey,2,1,Belgium,Turkey,False
+13,95,Round of 16,Australia,Colombia,0,1,Colombia,Australia,False
+13,96,Round of 16,Canada,Uruguay,2,2,Canada,Uruguay,True
+13,97,Quarter-final,Germany,Ivory Coast,2,2,Ivory Coast,Germany,True
+13,98,Quarter-final,Croatia,Belgium,3,2,Croatia,Belgium,False
+13,99,Quarter-final,Norway,Panama,0,1,Panama,Norway,False
+13,100,Quarter-final,Colombia,Canada,1,1,Canada,Colombia,True
+13,101,Semi-final,Ivory Coast,Croatia,3,1,Ivory Coast,Croatia,False
+13,102,Semi-final,Panama,Canada,1,2,Canada,Panama,False
+13,103,Third-place playoff,Croatia,Panama,1,1,Croatia,Panama,True
+13,104,Final,Ivory Coast,Canada,2,3,Canada,Ivory Coast,False
+14,73,Round of 32,South Africa,Switzerland,2,1,South Africa,Switzerland,False
+14,74,Round of 32,Brazil,Sweden,1,0,Brazil,Sweden,False
+14,75,Round of 32,Ivory Coast,Turkey,3,1,Ivory Coast,Turkey,False
+14,76,Round of 32,Netherlands,Haiti,1,0,Netherlands,Haiti,False
+14,77,Round of 32,Germany,Senegal,1,0,Germany,Senegal,False
+14,78,Round of 32,France,Tunisia,1,0,France,Tunisia,False
+14,79,Round of 32,Mexico,Morocco,1,1,Morocco,Mexico,True
+14,80,Round of 32,Croatia,Portugal,2,1,Croatia,Portugal,False
+14,81,Round of 32,Iran,South Korea,0,1,South Korea,Iran,False
+14,82,Round of 32,United States,Ecuador,1,0,United States,Ecuador,False
+14,83,Round of 32,Colombia,England,0,3,England,Colombia,False
+14,84,Round of 32,Spain,Algeria,2,1,Spain,Algeria,False
+14,85,Round of 32,Canada,Jordan,1,0,Canada,Jordan,False
+14,86,Round of 32,Australia,Belgium,0,0,Australia,Belgium,True
+14,87,Round of 32,Argentina,Uruguay,1,2,Uruguay,Argentina,False
+14,88,Round of 32,DR Congo,Panama,2,2,Panama,DR Congo,True
+14,89,Round of 16,South Africa,Ivory Coast,1,3,Ivory Coast,South Africa,False
+14,90,Round of 16,Brazil,Germany,2,1,Brazil,Germany,False
+14,91,Round of 16,Netherlands,France,2,1,Netherlands,France,False
+14,92,Round of 16,Morocco,Croatia,1,0,Morocco,Croatia,False
+14,93,Round of 16,England,Spain,1,2,Spain,England,False
+14,94,Round of 16,South Korea,United States,2,3,United States,South Korea,False
+14,95,Round of 16,Australia,Panama,1,1,Panama,Australia,True
+14,96,Round of 16,Canada,Uruguay,0,4,Uruguay,Canada,False
+14,97,Quarter-final,Ivory Coast,Brazil,2,3,Brazil,Ivory Coast,False
+14,98,Quarter-final,Spain,United States,3,0,Spain,United States,False
+14,99,Quarter-final,Netherlands,Morocco,2,1,Netherlands,Morocco,False
+14,100,Quarter-final,Panama,Uruguay,0,3,Uruguay,Panama,False
+14,101,Semi-final,Brazil,Spain,0,2,Spain,Brazil,False
+14,102,Semi-final,Netherlands,Uruguay,1,4,Uruguay,Netherlands,False
+14,103,Third-place playoff,Brazil,Netherlands,1,2,Netherlands,Brazil,False
+14,104,Final,Spain,Uruguay,0,0,Spain,Uruguay,True
+15,73,Round of 32,Mexico,Canada,1,0,Mexico,Canada,False
+15,74,Round of 32,Morocco,Tunisia,2,0,Morocco,Tunisia,False
+15,75,Round of 32,Ivory Coast,Scotland,0,0,Ivory Coast,Scotland,True
+15,76,Round of 32,Netherlands,Haiti,4,0,Netherlands,Haiti,False
+15,77,Round of 32,Germany,Senegal,1,3,Senegal,Germany,False
+15,78,Round of 32,France,United States,1,0,France,United States,False
+15,79,Round of 32,South Korea,Ecuador,3,3,South Korea,Ecuador,True
+15,80,Round of 32,Croatia,Colombia,0,2,Colombia,Croatia,False
+15,81,Round of 32,Egypt,Algeria,1,1,Egypt,Algeria,True
+15,82,Round of 32,Turkey,Switzerland,2,0,Turkey,Switzerland,False
+15,83,Round of 32,DR Congo,England,0,1,England,DR Congo,False
+15,84,Round of 32,Spain,Austria,4,0,Spain,Austria,False
+15,85,Round of 32,Qatar,Iran,2,1,Qatar,Iran,False
+15,86,Round of 32,Paraguay,Belgium,2,3,Belgium,Paraguay,False
+15,87,Round of 32,Argentina,Uruguay,2,2,Argentina,Uruguay,True
+15,88,Round of 32,Portugal,Iraq,2,0,Portugal,Iraq,False
+15,89,Round of 16,Mexico,Ivory Coast,0,0,Ivory Coast,Mexico,True
+15,90,Round of 16,Morocco,Senegal,1,1,Senegal,Morocco,True
+15,91,Round of 16,Netherlands,France,4,0,Netherlands,France,False
+15,92,Round of 16,South Korea,Colombia,1,1,Colombia,South Korea,True
+15,93,Round of 16,England,Spain,3,0,England,Spain,False
+15,94,Round of 16,Egypt,Turkey,2,2,Egypt,Turkey,True
+15,95,Round of 16,Belgium,Portugal,1,4,Portugal,Belgium,False
+15,96,Round of 16,Qatar,Argentina,1,1,Argentina,Qatar,True
+15,97,Quarter-final,Ivory Coast,Senegal,1,0,Ivory Coast,Senegal,False
+15,98,Quarter-final,England,Egypt,1,1,Egypt,England,True
+15,99,Quarter-final,Netherlands,Colombia,1,1,Colombia,Netherlands,True
+15,100,Quarter-final,Portugal,Argentina,0,3,Argentina,Portugal,False
+15,101,Semi-final,Ivory Coast,Egypt,2,1,Ivory Coast,Egypt,False
+15,102,Semi-final,Colombia,Argentina,0,0,Colombia,Argentina,True
+15,103,Third-place playoff,Egypt,Argentina,3,3,Argentina,Egypt,True
+15,104,Final,Ivory Coast,Colombia,0,2,Colombia,Ivory Coast,False
+16,73,Round of 32,Czech Republic,Canada,3,0,Czech Republic,Canada,False
+16,74,Round of 32,Brazil,Tunisia,3,0,Brazil,Tunisia,False
+16,75,Round of 32,Ecuador,Scotland,2,0,Ecuador,Scotland,False
+16,76,Round of 32,Japan,Morocco,0,0,Morocco,Japan,True
+16,77,Round of 32,Germany,Norway,0,4,Norway,Germany,False
+16,78,Round of 32,France,Australia,0,0,Australia,France,True
+16,79,Round of 32,Mexico,Cape Verde,0,0,Mexico,Cape Verde,True
+16,80,Round of 32,Croatia,DR Congo,2,2,Croatia,DR Congo,True
+16,81,Round of 32,New Zealand,South Korea,1,1,South Korea,New Zealand,True
+16,82,Round of 32,United States,Ivory Coast,1,4,Ivory Coast,United States,False
+16,83,Round of 32,Colombia,England,2,2,England,Colombia,True
+16,84,Round of 32,Spain,Algeria,4,1,Spain,Algeria,False
+16,85,Round of 32,Switzerland,Iran,2,2,Switzerland,Iran,True
+16,86,Round of 32,Turkey,Belgium,1,1,Belgium,Turkey,True
+16,87,Round of 32,Argentina,Uruguay,0,0,Uruguay,Argentina,True
+16,88,Round of 32,Portugal,Panama,1,0,Portugal,Panama,False
+16,89,Round of 16,Czech Republic,Ecuador,0,1,Ecuador,Czech Republic,False
+16,90,Round of 16,Brazil,Norway,2,1,Brazil,Norway,False
+16,91,Round of 16,Morocco,Australia,2,2,Australia,Morocco,True
+16,92,Round of 16,Mexico,Croatia,0,2,Croatia,Mexico,False
+16,93,Round of 16,England,Spain,0,0,Spain,England,True
+16,94,Round of 16,South Korea,Ivory Coast,0,0,Ivory Coast,South Korea,True
+16,95,Round of 16,Belgium,Portugal,1,3,Portugal,Belgium,False
+16,96,Round of 16,Switzerland,Uruguay,0,1,Uruguay,Switzerland,False
+16,97,Quarter-final,Ecuador,Brazil,1,5,Brazil,Ecuador,False
+16,98,Quarter-final,Spain,Ivory Coast,5,4,Spain,Ivory Coast,False
+16,99,Quarter-final,Australia,Croatia,1,1,Australia,Croatia,True
+16,100,Quarter-final,Portugal,Uruguay,0,1,Uruguay,Portugal,False
+16,101,Semi-final,Brazil,Spain,3,0,Brazil,Spain,False
+16,102,Semi-final,Australia,Uruguay,2,5,Uruguay,Australia,False
+16,103,Third-place playoff,Spain,Australia,1,0,Spain,Australia,False
+16,104,Final,Brazil,Uruguay,2,1,Brazil,Uruguay,False
+17,73,Round of 32,Mexico,Switzerland,0,1,Switzerland,Mexico,False
+17,74,Round of 32,Morocco,Sweden,3,1,Morocco,Sweden,False
+17,75,Round of 32,Ecuador,Brazil,1,1,Brazil,Ecuador,True
+17,76,Round of 32,Netherlands,Scotland,5,4,Netherlands,Scotland,False
+17,77,Round of 32,Germany,Senegal,4,1,Germany,Senegal,False
+17,78,Round of 32,France,Australia,0,3,Australia,France,False
+17,79,Round of 32,Czech Republic,Cape Verde,0,0,Cape Verde,Czech Republic,True
+17,80,Round of 32,England,Norway,4,0,England,Norway,False
+17,81,Round of 32,Belgium,South Korea,2,0,Belgium,South Korea,False
+17,82,Round of 32,Turkey,Ivory Coast,4,2,Turkey,Ivory Coast,False
+17,83,Round of 32,Uzbekistan,Croatia,1,1,Croatia,Uzbekistan,True
+17,84,Round of 32,Spain,Algeria,0,0,Algeria,Spain,True
+17,85,Round of 32,Canada,Austria,0,2,Austria,Canada,False
+17,86,Round of 32,United States,Iran,0,1,Iran,United States,False
+17,87,Round of 32,Argentina,Uruguay,0,3,Uruguay,Argentina,False
+17,88,Round of 32,Portugal,Panama,6,1,Portugal,Panama,False
+17,89,Round of 16,Switzerland,Brazil,1,2,Brazil,Switzerland,False
+17,90,Round of 16,Morocco,Germany,1,2,Germany,Morocco,False
+17,91,Round of 16,Netherlands,Australia,1,0,Netherlands,Australia,False
+17,92,Round of 16,Cape Verde,England,1,3,England,Cape Verde,False
+17,93,Round of 16,Croatia,Algeria,2,2,Algeria,Croatia,True
+17,94,Round of 16,Belgium,Turkey,1,2,Turkey,Belgium,False
+17,95,Round of 16,Iran,Portugal,0,1,Portugal,Iran,False
+17,96,Round of 16,Austria,Uruguay,2,1,Austria,Uruguay,False
+17,97,Quarter-final,Brazil,Germany,2,3,Germany,Brazil,False
+17,98,Quarter-final,Algeria,Turkey,2,1,Algeria,Turkey,False
+17,99,Quarter-final,Netherlands,England,1,2,England,Netherlands,False
+17,100,Quarter-final,Portugal,Austria,4,1,Portugal,Austria,False
+17,101,Semi-final,Germany,Algeria,2,0,Germany,Algeria,False
+17,102,Semi-final,England,Portugal,0,1,Portugal,England,False
+17,103,Third-place playoff,Algeria,England,0,1,England,Algeria,False
+17,104,Final,Germany,Portugal,1,1,Portugal,Germany,True
+18,73,Round of 32,Czech Republic,Qatar,1,0,Czech Republic,Qatar,False
+18,74,Round of 32,Brazil,Sweden,1,0,Brazil,Sweden,False
+18,75,Round of 32,Germany,Turkey,0,0,Turkey,Germany,True
+18,76,Round of 32,Netherlands,Scotland,3,1,Netherlands,Scotland,False
+18,77,Round of 32,Curaçao,Senegal,0,1,Senegal,Curaçao,False
+18,78,Round of 32,France,Japan,2,0,France,Japan,False
+18,79,Round of 32,Mexico,Ecuador,0,1,Ecuador,Mexico,False
+18,80,Round of 32,Panama,Algeria,2,1,Panama,Algeria,False
+18,81,Round of 32,New Zealand,South Korea,1,3,South Korea,New Zealand,False
+18,82,Round of 32,Paraguay,Switzerland,1,0,Paraguay,Switzerland,False
+18,83,Round of 32,Uzbekistan,England,0,4,England,Uzbekistan,False
+18,84,Round of 32,Spain,Austria,2,0,Spain,Austria,False
+18,85,Round of 32,Canada,Belgium,0,3,Belgium,Canada,False
+18,86,Round of 32,United States,Iran,2,1,United States,Iran,False
+18,87,Round of 32,Argentina,Cape Verde,5,0,Argentina,Cape Verde,False
+18,88,Round of 32,Colombia,Croatia,1,0,Colombia,Croatia,False
+18,89,Round of 16,Czech Republic,Turkey,2,0,Czech Republic,Turkey,False
+18,90,Round of 16,Brazil,Senegal,1,3,Senegal,Brazil,False
+18,91,Round of 16,Netherlands,France,1,1,Netherlands,France,True
+18,92,Round of 16,Ecuador,Panama,3,1,Ecuador,Panama,False
+18,93,Round of 16,England,Spain,2,2,Spain,England,True
+18,94,Round of 16,South Korea,Paraguay,1,0,South Korea,Paraguay,False
+18,95,Round of 16,United States,Colombia,0,3,Colombia,United States,False
+18,96,Round of 16,Belgium,Argentina,3,1,Belgium,Argentina,False
+18,97,Quarter-final,Czech Republic,Senegal,0,1,Senegal,Czech Republic,False
+18,98,Quarter-final,Spain,South Korea,2,1,Spain,South Korea,False
+18,99,Quarter-final,Netherlands,Ecuador,1,3,Ecuador,Netherlands,False
+18,100,Quarter-final,Colombia,Belgium,2,3,Belgium,Colombia,False
+18,101,Semi-final,Senegal,Spain,1,1,Senegal,Spain,True
+18,102,Semi-final,Ecuador,Belgium,2,2,Belgium,Ecuador,True
+18,103,Third-place playoff,Spain,Ecuador,2,0,Spain,Ecuador,False
+18,104,Final,Senegal,Belgium,0,1,Belgium,Senegal,False
+19,73,Round of 32,Mexico,Bosnia and Herzegovina,5,1,Mexico,Bosnia and Herzegovina,False
+19,74,Round of 32,Brazil,Japan,0,1,Japan,Brazil,False
+19,75,Round of 32,Ecuador,Haiti,2,0,Ecuador,Haiti,False
+19,76,Round of 32,Netherlands,Morocco,3,1,Netherlands,Morocco,False
+19,77,Round of 32,Germany,Senegal,2,2,Senegal,Germany,True
+19,78,Round of 32,France,United States,4,1,France,United States,False
+19,79,Round of 32,South Korea,Curaçao,1,1,Curaçao,South Korea,True
+19,80,Round of 32,England,DR Congo,2,0,England,DR Congo,False
+19,81,Round of 32,New Zealand,Czech Republic,0,3,Czech Republic,New Zealand,False
+19,82,Round of 32,Paraguay,Switzerland,1,1,Paraguay,Switzerland,True
+19,83,Round of 32,Portugal,Croatia,2,1,Portugal,Croatia,False
+19,84,Round of 32,Spain,Algeria,0,0,Spain,Algeria,True
+19,85,Round of 32,Canada,Belgium,3,2,Canada,Belgium,False
+19,86,Round of 32,Australia,Iran,3,1,Australia,Iran,False
+19,87,Round of 32,Argentina,Uruguay,6,0,Argentina,Uruguay,False
+19,88,Round of 32,Colombia,Panama,0,0,Panama,Colombia,True
+19,89,Round of 16,Mexico,Ecuador,0,2,Ecuador,Mexico,False
+19,90,Round of 16,Japan,Senegal,0,1,Senegal,Japan,False
+19,91,Round of 16,Netherlands,France,1,1,France,Netherlands,True
+19,92,Round of 16,Curaçao,England,0,2,England,Curaçao,False
+19,93,Round of 16,Portugal,Spain,2,1,Portugal,Spain,False
+19,94,Round of 16,Czech Republic,Paraguay,2,1,Czech Republic,Paraguay,False
+19,95,Round of 16,Australia,Panama,2,1,Australia,Panama,False
+19,96,Round of 16,Canada,Argentina,0,4,Argentina,Canada,False
+19,97,Quarter-final,Ecuador,Senegal,1,1,Senegal,Ecuador,True
+19,98,Quarter-final,Portugal,Czech Republic,4,2,Portugal,Czech Republic,False
+19,99,Quarter-final,France,England,0,1,England,France,False
+19,100,Quarter-final,Australia,Argentina,1,1,Argentina,Australia,True
+19,101,Semi-final,Senegal,Portugal,1,2,Portugal,Senegal,False
+19,102,Semi-final,England,Argentina,0,3,Argentina,England,False
+19,103,Third-place playoff,Senegal,England,1,1,England,Senegal,True
+19,104,Final,Portugal,Argentina,1,0,Portugal,Argentina,False
+20,73,Round of 32,Czech Republic,Canada,0,1,Canada,Czech Republic,False
+20,74,Round of 32,Brazil,Tunisia,2,1,Brazil,Tunisia,False
+20,75,Round of 32,Ecuador,Morocco,2,0,Ecuador,Morocco,False
+20,76,Round of 32,Japan,Scotland,2,2,Scotland,Japan,True
+20,77,Round of 32,Ivory Coast,Senegal,1,1,Ivory Coast,Senegal,True
+20,78,Round of 32,France,Netherlands,2,1,France,Netherlands,False
+20,79,Round of 32,Mexico,Uruguay,2,0,Mexico,Uruguay,False
+20,80,Round of 32,England,DR Congo,3,0,England,DR Congo,False
+20,81,Round of 32,New Zealand,South Korea,3,2,New Zealand,South Korea,False
+20,82,Round of 32,Paraguay,Iraq,2,1,Paraguay,Iraq,False
+20,83,Round of 32,Colombia,Croatia,1,0,Colombia,Croatia,False
+20,84,Round of 32,Spain,Jordan,2,1,Spain,Jordan,False
+20,85,Round of 32,Switzerland,Germany,0,3,Germany,Switzerland,False
+20,86,Round of 32,United States,Belgium,2,0,United States,Belgium,False
+20,87,Round of 32,Austria,Saudi Arabia,1,2,Saudi Arabia,Austria,False
+20,88,Round of 32,Portugal,Panama,4,0,Portugal,Panama,False
+20,89,Round of 16,Canada,Ecuador,0,1,Ecuador,Canada,False
+20,90,Round of 16,Brazil,Ivory Coast,2,0,Brazil,Ivory Coast,False
+20,91,Round of 16,Scotland,France,0,3,France,Scotland,False
+20,92,Round of 16,Mexico,England,0,1,England,Mexico,False
+20,93,Round of 16,Colombia,Spain,0,2,Spain,Colombia,False
+20,94,Round of 16,New Zealand,Paraguay,1,0,New Zealand,Paraguay,False
+20,95,Round of 16,United States,Portugal,0,1,Portugal,United States,False
+20,96,Round of 16,Germany,Saudi Arabia,2,1,Germany,Saudi Arabia,False
+20,97,Quarter-final,Ecuador,Brazil,0,2,Brazil,Ecuador,False
+20,98,Quarter-final,Spain,New Zealand,2,2,New Zealand,Spain,True
+20,99,Quarter-final,France,England,1,5,England,France,False
+20,100,Quarter-final,Portugal,Germany,0,2,Germany,Portugal,False
+20,101,Semi-final,Brazil,New Zealand,1,1,New Zealand,Brazil,True
+20,102,Semi-final,England,Germany,1,0,England,Germany,False
+20,103,Third-place playoff,Brazil,Germany,2,0,Brazil,Germany,False
+20,104,Final,New Zealand,England,0,4,England,New Zealand,False
+21,73,Round of 32,South Korea,Qatar,3,1,South Korea,Qatar,False
+21,74,Round of 32,Brazil,Japan,0,1,Japan,Brazil,False
+21,75,Round of 32,Ecuador,Tunisia,2,0,Ecuador,Tunisia,False
+21,76,Round of 32,Netherlands,Morocco,1,0,Netherlands,Morocco,False
+21,77,Round of 32,Curaçao,Senegal,0,2,Senegal,Curaçao,False
+21,78,Round of 32,France,Egypt,1,0,France,Egypt,False
+21,79,Round of 32,Mexico,Saudi Arabia,1,1,Mexico,Saudi Arabia,True
+21,80,Round of 32,England,Uzbekistan,2,2,England,Uzbekistan,True
+21,81,Round of 32,Belgium,Norway,3,0,Belgium,Norway,False
+21,82,Round of 32,Paraguay,Switzerland,1,0,Paraguay,Switzerland,False
+21,83,Round of 32,Colombia,Croatia,1,2,Croatia,Colombia,False
+21,84,Round of 32,Spain,Argentina,2,0,Spain,Argentina,False
+21,85,Round of 32,Canada,Austria,1,2,Austria,Canada,False
+21,86,Round of 32,United States,Iran,1,2,Iran,United States,False
+21,87,Round of 32,Algeria,Uruguay,1,0,Algeria,Uruguay,False
+21,88,Round of 32,Portugal,Panama,4,1,Portugal,Panama,False
+21,89,Round of 16,South Korea,Ecuador,0,2,Ecuador,South Korea,False
+21,90,Round of 16,Japan,Senegal,2,1,Japan,Senegal,False
+21,91,Round of 16,Netherlands,France,0,2,France,Netherlands,False
+21,92,Round of 16,Mexico,England,2,4,England,Mexico,False
+21,93,Round of 16,Croatia,Spain,1,0,Croatia,Spain,False
+21,94,Round of 16,Belgium,Paraguay,0,3,Paraguay,Belgium,False
+21,95,Round of 16,Iran,Portugal,0,0,Portugal,Iran,True
+21,96,Round of 16,Austria,Algeria,2,2,Austria,Algeria,True
+21,97,Quarter-final,Ecuador,Japan,4,0,Ecuador,Japan,False
+21,98,Quarter-final,Croatia,Paraguay,2,2,Paraguay,Croatia,True
+21,99,Quarter-final,France,England,1,2,England,France,False
+21,100,Quarter-final,Portugal,Austria,3,2,Portugal,Austria,False
+21,101,Semi-final,Ecuador,Paraguay,0,1,Paraguay,Ecuador,False
+21,102,Semi-final,England,Portugal,2,1,England,Portugal,False
+21,103,Third-place playoff,Ecuador,Portugal,1,1,Portugal,Ecuador,True
+21,104,Final,Paraguay,England,2,2,England,Paraguay,True
+22,73,Round of 32,Czech Republic,Switzerland,0,2,Switzerland,Czech Republic,False
+22,74,Round of 32,Brazil,Netherlands,4,5,Netherlands,Brazil,False
+22,75,Round of 32,Germany,United States,2,4,United States,Germany,False
+22,76,Round of 32,Japan,Morocco,2,0,Japan,Morocco,False
+22,77,Round of 32,Ivory Coast,France,2,1,Ivory Coast,France,False
+22,78,Round of 32,Norway,Tunisia,3,2,Norway,Tunisia,False
+22,79,Round of 32,Mexico,Ecuador,1,1,Ecuador,Mexico,True
+22,80,Round of 32,England,Iraq,2,0,England,Iraq,False
+22,81,Round of 32,Belgium,South Africa,1,0,Belgium,South Africa,False
+22,82,Round of 32,Paraguay,Qatar,2,1,Paraguay,Qatar,False
+22,83,Round of 32,Portugal,Ghana,2,2,Ghana,Portugal,True
+22,84,Round of 32,Uruguay,Algeria,3,3,Algeria,Uruguay,True
+22,85,Round of 32,Canada,Austria,1,3,Austria,Canada,False
+22,86,Round of 32,Australia,Egypt,2,1,Australia,Egypt,False
+22,87,Round of 32,Argentina,Spain,0,4,Spain,Argentina,False
+22,88,Round of 32,Colombia,Croatia,0,1,Croatia,Colombia,False
+22,89,Round of 16,Switzerland,United States,3,0,Switzerland,United States,False
+22,90,Round of 16,Netherlands,Ivory Coast,5,3,Netherlands,Ivory Coast,False
+22,91,Round of 16,Japan,Norway,1,3,Norway,Japan,False
+22,92,Round of 16,Ecuador,England,0,1,England,Ecuador,False
+22,93,Round of 16,Ghana,Algeria,0,2,Algeria,Ghana,False
+22,94,Round of 16,Belgium,Paraguay,1,0,Belgium,Paraguay,False
+22,95,Round of 16,Australia,Croatia,1,1,Australia,Croatia,True
+22,96,Round of 16,Austria,Spain,0,3,Spain,Austria,False
+22,97,Quarter-final,Switzerland,Netherlands,1,1,Netherlands,Switzerland,True
+22,98,Quarter-final,Algeria,Belgium,2,0,Algeria,Belgium,False
+22,99,Quarter-final,Norway,England,1,3,England,Norway,False
+22,100,Quarter-final,Australia,Spain,1,6,Spain,Australia,False
+22,101,Semi-final,Netherlands,Algeria,2,1,Netherlands,Algeria,False
+22,102,Semi-final,England,Spain,1,2,Spain,England,False
+22,103,Third-place playoff,Algeria,England,2,1,Algeria,England,False
+22,104,Final,Netherlands,Spain,1,2,Spain,Netherlands,False
+23,73,Round of 32,South Korea,Canada,3,0,South Korea,Canada,False
+23,74,Round of 32,Morocco,Netherlands,1,1,Morocco,Netherlands,True
+23,75,Round of 32,Ivory Coast,Paraguay,0,0,Ivory Coast,Paraguay,True
+23,76,Round of 32,Japan,Brazil,0,1,Brazil,Japan,False
+23,77,Round of 32,Ecuador,Iraq,4,0,Ecuador,Iraq,False
+23,78,Round of 32,France,Tunisia,1,0,France,Tunisia,False
+23,79,Round of 32,Mexico,Scotland,0,1,Scotland,Mexico,False
+23,80,Round of 32,Croatia,Uruguay,1,1,Uruguay,Croatia,True
+23,81,Round of 32,Iran,Czech Republic,2,2,Iran,Czech Republic,True
+23,82,Round of 32,Turkey,Argentina,0,0,Turkey,Argentina,True
+23,83,Round of 32,Portugal,England,0,0,England,Portugal,True
+23,84,Round of 32,Spain,Algeria,4,1,Spain,Algeria,False
+23,85,Round of 32,Switzerland,New Zealand,3,1,Switzerland,New Zealand,False
+23,86,Round of 32,United States,Belgium,0,0,United States,Belgium,True
+23,87,Round of 32,Austria,Saudi Arabia,2,2,Austria,Saudi Arabia,True
+23,88,Round of 32,Colombia,Panama,4,0,Colombia,Panama,False
+23,89,Round of 16,South Korea,Ivory Coast,0,1,Ivory Coast,South Korea,False
+23,90,Round of 16,Morocco,Ecuador,0,2,Ecuador,Morocco,False
+23,91,Round of 16,Brazil,France,0,2,France,Brazil,False
+23,92,Round of 16,Scotland,Uruguay,0,2,Uruguay,Scotland,False
+23,93,Round of 16,England,Spain,1,2,Spain,England,False
+23,94,Round of 16,Iran,Turkey,2,1,Iran,Turkey,False
+23,95,Round of 16,United States,Colombia,0,1,Colombia,United States,False
+23,96,Round of 16,Switzerland,Austria,1,0,Switzerland,Austria,False
+23,97,Quarter-final,Ivory Coast,Ecuador,3,2,Ivory Coast,Ecuador,False
+23,98,Quarter-final,Spain,Iran,3,1,Spain,Iran,False
+23,99,Quarter-final,France,Uruguay,2,1,France,Uruguay,False
+23,100,Quarter-final,Colombia,Switzerland,0,3,Switzerland,Colombia,False
+23,101,Semi-final,Ivory Coast,Spain,1,1,Spain,Ivory Coast,True
+23,102,Semi-final,France,Switzerland,2,3,Switzerland,France,False
+23,103,Third-place playoff,Ivory Coast,France,2,1,Ivory Coast,France,False
+23,104,Final,Spain,Switzerland,2,1,Spain,Switzerland,False
+24,73,Round of 32,Mexico,Switzerland,1,3,Switzerland,Mexico,False
+24,74,Round of 32,Morocco,Netherlands,0,3,Netherlands,Morocco,False
+24,75,Round of 32,Ecuador,Australia,3,1,Ecuador,Australia,False
+24,76,Round of 32,Japan,Brazil,0,0,Brazil,Japan,True
+24,77,Round of 32,Ivory Coast,France,0,3,France,Ivory Coast,False
+24,78,Round of 32,Norway,Tunisia,1,3,Tunisia,Norway,False
+24,79,Round of 32,South Korea,Cape Verde,1,0,South Korea,Cape Verde,False
+24,80,Round of 32,England,Uzbekistan,1,1,England,Uzbekistan,True
+24,81,Round of 32,New Zealand,Czech Republic,0,1,Czech Republic,New Zealand,False
+24,82,Round of 32,United States,Qatar,3,1,United States,Qatar,False
+24,83,Round of 32,Portugal,Panama,0,0,Portugal,Panama,True
+24,84,Round of 32,Uruguay,Jordan,1,1,Uruguay,Jordan,True
+24,85,Round of 32,Canada,Egypt,1,0,Canada,Egypt,False
+24,86,Round of 32,Turkey,Belgium,1,0,Turkey,Belgium,False
+24,87,Round of 32,Argentina,Spain,3,2,Argentina,Spain,False
+24,88,Round of 32,Colombia,Croatia,1,1,Croatia,Colombia,True
+24,89,Round of 16,Switzerland,Ecuador,1,0,Switzerland,Ecuador,False
+24,90,Round of 16,Netherlands,France,1,0,Netherlands,France,False
+24,91,Round of 16,Brazil,Tunisia,3,1,Brazil,Tunisia,False
+24,92,Round of 16,South Korea,England,1,1,England,South Korea,True
+24,93,Round of 16,Portugal,Uruguay,2,1,Portugal,Uruguay,False
+24,94,Round of 16,Czech Republic,United States,1,3,United States,Czech Republic,False
+24,95,Round of 16,Turkey,Croatia,1,0,Turkey,Croatia,False
+24,96,Round of 16,Canada,Argentina,1,0,Canada,Argentina,False
+24,97,Quarter-final,Switzerland,Netherlands,0,3,Netherlands,Switzerland,False
+24,98,Quarter-final,Portugal,United States,1,2,United States,Portugal,False
+24,99,Quarter-final,Brazil,England,0,2,England,Brazil,False
+24,100,Quarter-final,Turkey,Canada,2,0,Turkey,Canada,False
+24,101,Semi-final,Netherlands,United States,0,2,United States,Netherlands,False
+24,102,Semi-final,England,Turkey,2,1,England,Turkey,False
+24,103,Third-place playoff,Netherlands,Turkey,3,1,Netherlands,Turkey,False
+24,104,Final,United States,England,1,2,England,United States,False
+25,73,Round of 32,South Korea,Switzerland,0,1,Switzerland,South Korea,False
+25,74,Round of 32,Brazil,Japan,1,1,Brazil,Japan,True
+25,75,Round of 32,Ecuador,Turkey,0,3,Turkey,Ecuador,False
+25,76,Round of 32,Netherlands,Morocco,2,2,Netherlands,Morocco,True
+25,77,Round of 32,Ivory Coast,Senegal,0,1,Senegal,Ivory Coast,False
+25,78,Round of 32,France,Tunisia,3,1,France,Tunisia,False
+25,79,Round of 32,Mexico,Germany,3,1,Mexico,Germany,False
+25,80,Round of 32,England,Norway,4,0,England,Norway,False
+25,81,Round of 32,New Zealand,South Africa,1,1,New Zealand,South Africa,True
+25,82,Round of 32,United States,Algeria,0,2,Algeria,United States,False
+25,83,Round of 32,Colombia,Croatia,0,0,Colombia,Croatia,True
+25,84,Round of 32,Spain,Austria,2,0,Spain,Austria,False
+25,85,Round of 32,Canada,Egypt,2,2,Egypt,Canada,True
+25,86,Round of 32,Paraguay,Iran,1,2,Iran,Paraguay,False
+25,87,Round of 32,Argentina,Uruguay,0,1,Uruguay,Argentina,False
+25,88,Round of 32,Portugal,Panama,1,0,Portugal,Panama,False
+25,89,Round of 16,Switzerland,Turkey,2,2,Switzerland,Turkey,True
+25,90,Round of 16,Brazil,Senegal,1,0,Brazil,Senegal,False
+25,91,Round of 16,Netherlands,France,0,2,France,Netherlands,False
+25,92,Round of 16,Mexico,England,1,2,England,Mexico,False
+25,93,Round of 16,Colombia,Spain,0,1,Spain,Colombia,False
+25,94,Round of 16,New Zealand,Algeria,2,1,New Zealand,Algeria,False
+25,95,Round of 16,Iran,Portugal,0,3,Portugal,Iran,False
+25,96,Round of 16,Egypt,Uruguay,1,1,Uruguay,Egypt,True
+25,97,Quarter-final,Switzerland,Brazil,0,0,Brazil,Switzerland,True
+25,98,Quarter-final,Spain,New Zealand,2,1,Spain,New Zealand,False
+25,99,Quarter-final,France,England,3,1,France,England,False
+25,100,Quarter-final,Portugal,Uruguay,1,2,Uruguay,Portugal,False
+25,101,Semi-final,Brazil,Spain,0,2,Spain,Brazil,False
+25,102,Semi-final,France,Uruguay,3,0,France,Uruguay,False
+25,103,Third-place playoff,Brazil,Uruguay,1,0,Brazil,Uruguay,False
+25,104,Final,Spain,France,1,2,France,Spain,False
+26,73,Round of 32,South Korea,Switzerland,1,2,Switzerland,South Korea,False
+26,74,Round of 32,Morocco,Japan,1,1,Japan,Morocco,True
+26,75,Round of 32,Germany,Brazil,3,1,Germany,Brazil,False
+26,76,Round of 32,Netherlands,Scotland,3,0,Netherlands,Scotland,False
+26,77,Round of 32,Ecuador,Senegal,0,2,Senegal,Ecuador,False
+26,78,Round of 32,France,United States,2,1,France,United States,False
+26,79,Round of 32,Mexico,Uruguay,3,2,Mexico,Uruguay,False
+26,80,Round of 32,England,Ivory Coast,0,0,England,Ivory Coast,True
+26,81,Round of 32,Belgium,South Africa,3,0,Belgium,South Africa,False
+26,82,Round of 32,Australia,Qatar,2,1,Australia,Qatar,False
+26,83,Round of 32,Colombia,Croatia,0,2,Croatia,Colombia,False
+26,84,Round of 32,Spain,Austria,2,1,Spain,Austria,False
+26,85,Round of 32,Canada,New Zealand,2,0,Canada,New Zealand,False
+26,86,Round of 32,Turkey,Iran,3,2,Turkey,Iran,False
+26,87,Round of 32,Argentina,Cape Verde,5,0,Argentina,Cape Verde,False
+26,88,Round of 32,Portugal,Panama,3,1,Portugal,Panama,False
+26,89,Round of 16,Switzerland,Germany,0,1,Germany,Switzerland,False
+26,90,Round of 16,Japan,Senegal,1,0,Japan,Senegal,False
+26,91,Round of 16,Netherlands,France,2,0,Netherlands,France,False
+26,92,Round of 16,Mexico,England,0,0,England,Mexico,True
+26,93,Round of 16,Croatia,Spain,1,1,Spain,Croatia,True
+26,94,Round of 16,Belgium,Australia,0,0,Belgium,Australia,True
+26,95,Round of 16,Turkey,Portugal,3,3,Portugal,Turkey,True
+26,96,Round of 16,Canada,Argentina,2,2,Canada,Argentina,True
+26,97,Quarter-final,Germany,Japan,1,0,Germany,Japan,False
+26,98,Quarter-final,Spain,Belgium,1,0,Spain,Belgium,False
+26,99,Quarter-final,Netherlands,England,1,1,England,Netherlands,True
+26,100,Quarter-final,Portugal,Canada,3,2,Portugal,Canada,False
+26,101,Semi-final,Germany,Spain,2,1,Germany,Spain,False
+26,102,Semi-final,England,Portugal,0,3,Portugal,England,False
+26,103,Third-place playoff,Spain,England,2,0,Spain,England,False
+26,104,Final,Germany,Portugal,2,1,Germany,Portugal,False
+27,73,Round of 32,South Korea,Canada,2,1,South Korea,Canada,False
+27,74,Round of 32,Scotland,Sweden,3,0,Scotland,Sweden,False
+27,75,Round of 32,Ecuador,Tunisia,2,2,Ecuador,Tunisia,True
+27,76,Round of 32,Netherlands,Brazil,3,1,Netherlands,Brazil,False
+27,77,Round of 32,Germany,Norway,0,1,Norway,Germany,False
+27,78,Round of 32,France,New Zealand,3,1,France,New Zealand,False
+27,79,Round of 32,Mexico,Curaçao,1,0,Mexico,Curaçao,False
+27,80,Round of 32,Croatia,Uzbekistan,1,1,Uzbekistan,Croatia,True
+27,81,Round of 32,Belgium,Spain,0,3,Spain,Belgium,False
+27,82,Round of 32,Australia,Bosnia and Herzegovina,2,1,Australia,Bosnia and Herzegovina,False
+27,83,Round of 32,Portugal,England,0,1,England,Portugal,False
+27,84,Round of 32,Cape Verde,Austria,0,2,Austria,Cape Verde,False
+27,85,Round of 32,Switzerland,Algeria,0,1,Algeria,Switzerland,False
+27,86,Round of 32,Paraguay,Egypt,2,1,Paraguay,Egypt,False
+27,87,Round of 32,Argentina,Uruguay,0,0,Argentina,Uruguay,True
+27,88,Round of 32,DR Congo,Panama,1,1,Panama,DR Congo,True
+27,89,Round of 16,South Korea,Ecuador,1,3,Ecuador,South Korea,False
+27,90,Round of 16,Scotland,Norway,1,1,Norway,Scotland,True
+27,91,Round of 16,Netherlands,France,1,1,Netherlands,France,True
+27,92,Round of 16,Mexico,Uzbekistan,1,1,Uzbekistan,Mexico,True
+27,93,Round of 16,England,Austria,1,1,England,Austria,True
+27,94,Round of 16,Spain,Australia,2,0,Spain,Australia,False
+27,95,Round of 16,Paraguay,Panama,3,0,Paraguay,Panama,False
+27,96,Round of 16,Algeria,Argentina,0,0,Argentina,Algeria,True
+27,97,Quarter-final,Ecuador,Norway,0,2,Norway,Ecuador,False
+27,98,Quarter-final,England,Spain,0,0,Spain,England,True
+27,99,Quarter-final,Netherlands,Uzbekistan,4,1,Netherlands,Uzbekistan,False
+27,100,Quarter-final,Paraguay,Argentina,1,1,Argentina,Paraguay,True
+27,101,Semi-final,Norway,Spain,1,1,Norway,Spain,True
+27,102,Semi-final,Netherlands,Argentina,1,2,Argentina,Netherlands,False
+27,103,Third-place playoff,Spain,Netherlands,4,0,Spain,Netherlands,False
+27,104,Final,Norway,Argentina,1,3,Argentina,Norway,False
+28,73,Round of 32,Czech Republic,Canada,2,1,Czech Republic,Canada,False
+28,74,Round of 32,Brazil,Japan,2,2,Japan,Brazil,True
+28,75,Round of 32,Ecuador,Haiti,3,2,Ecuador,Haiti,False
+28,76,Round of 32,Netherlands,Morocco,2,0,Netherlands,Morocco,False
+28,77,Round of 32,Germany,Norway,2,4,Norway,Germany,False
+28,78,Round of 32,France,Tunisia,4,1,France,Tunisia,False
+28,79,Round of 32,Mexico,Uruguay,1,4,Uruguay,Mexico,False
+28,80,Round of 32,Panama,Senegal,1,2,Senegal,Panama,False
+28,81,Round of 32,Belgium,South Africa,0,1,South Africa,Belgium,False
+28,82,Round of 32,Turkey,Qatar,6,1,Turkey,Qatar,False
+28,83,Round of 32,Uzbekistan,England,1,0,Uzbekistan,England,False
+28,84,Round of 32,Spain,Argentina,2,1,Spain,Argentina,False
+28,85,Round of 32,Switzerland,Ivory Coast,2,0,Switzerland,Ivory Coast,False
+28,86,Round of 32,Australia,Egypt,1,0,Australia,Egypt,False
+28,87,Round of 32,Algeria,Saudi Arabia,3,0,Algeria,Saudi Arabia,False
+28,88,Round of 32,Portugal,Croatia,0,6,Croatia,Portugal,False
+28,89,Round of 16,Czech Republic,Ecuador,3,1,Czech Republic,Ecuador,False
+28,90,Round of 16,Japan,Norway,2,0,Japan,Norway,False
+28,91,Round of 16,Netherlands,France,1,1,France,Netherlands,True
+28,92,Round of 16,Uruguay,Senegal,3,1,Uruguay,Senegal,False
+28,93,Round of 16,Uzbekistan,Spain,0,5,Spain,Uzbekistan,False
+28,94,Round of 16,South Africa,Turkey,1,6,Turkey,South Africa,False
+28,95,Round of 16,Australia,Croatia,0,3,Croatia,Australia,False
+28,96,Round of 16,Switzerland,Algeria,1,1,Switzerland,Algeria,True
+28,97,Quarter-final,Czech Republic,Japan,0,1,Japan,Czech Republic,False
+28,98,Quarter-final,Spain,Turkey,2,2,Turkey,Spain,True
+28,99,Quarter-final,France,Uruguay,4,1,France,Uruguay,False
+28,100,Quarter-final,Croatia,Switzerland,1,1,Switzerland,Croatia,True
+28,101,Semi-final,Japan,Turkey,0,1,Turkey,Japan,False
+28,102,Semi-final,France,Switzerland,2,0,France,Switzerland,False
+28,103,Third-place playoff,Japan,Switzerland,1,1,Switzerland,Japan,True
+28,104,Final,Turkey,France,1,2,France,Turkey,False
+29,73,Round of 32,South Korea,Switzerland,2,0,South Korea,Switzerland,False
+29,74,Round of 32,Morocco,Sweden,2,0,Morocco,Sweden,False
+29,75,Round of 32,Ecuador,Australia,0,0,Ecuador,Australia,True
+29,76,Round of 32,Japan,Brazil,3,3,Japan,Brazil,True
+29,77,Round of 32,Germany,Norway,2,1,Germany,Norway,False
+29,78,Round of 32,France,Netherlands,0,4,Netherlands,France,False
+29,79,Round of 32,Mexico,Scotland,2,2,Scotland,Mexico,True
+29,80,Round of 32,Ghana,Ivory Coast,2,2,Ivory Coast,Ghana,True
+29,81,Round of 32,New Zealand,Saudi Arabia,5,1,New Zealand,Saudi Arabia,False
+29,82,Round of 32,Turkey,Algeria,0,0,Algeria,Turkey,True
+29,83,Round of 32,Colombia,England,0,1,England,Colombia,False
+29,84,Round of 32,Spain,Austria,5,0,Spain,Austria,False
+29,85,Round of 32,Canada,Belgium,0,0,Belgium,Canada,True
+29,86,Round of 32,United States,Iran,0,2,Iran,United States,False
+29,87,Round of 32,Argentina,Uruguay,7,1,Argentina,Uruguay,False
+29,88,Round of 32,Portugal,Croatia,0,0,Portugal,Croatia,True
+29,89,Round of 16,South Korea,Ecuador,0,0,Ecuador,South Korea,True
+29,90,Round of 16,Morocco,Germany,3,1,Morocco,Germany,False
+29,91,Round of 16,Japan,Netherlands,1,4,Netherlands,Japan,False
+29,92,Round of 16,Scotland,Ivory Coast,1,3,Ivory Coast,Scotland,False
+29,93,Round of 16,England,Spain,0,0,Spain,England,True
+29,94,Round of 16,New Zealand,Algeria,0,1,Algeria,New Zealand,False
+29,95,Round of 16,Iran,Portugal,0,2,Portugal,Iran,False
+29,96,Round of 16,Belgium,Argentina,1,4,Argentina,Belgium,False
+29,97,Quarter-final,Ecuador,Morocco,4,0,Ecuador,Morocco,False
+29,98,Quarter-final,Spain,Algeria,2,1,Spain,Algeria,False
+29,99,Quarter-final,Netherlands,Ivory Coast,6,1,Netherlands,Ivory Coast,False
+29,100,Quarter-final,Portugal,Argentina,1,1,Portugal,Argentina,True
+29,101,Semi-final,Ecuador,Spain,1,2,Spain,Ecuador,False
+29,102,Semi-final,Netherlands,Portugal,0,5,Portugal,Netherlands,False
+29,103,Third-place playoff,Ecuador,Netherlands,3,0,Ecuador,Netherlands,False
+29,104,Final,Spain,Portugal,0,2,Portugal,Spain,False
+30,73,Round of 32,Mexico,Canada,0,0,Mexico,Canada,True
+30,74,Round of 32,Brazil,Tunisia,3,0,Brazil,Tunisia,False
+30,75,Round of 32,Germany,Turkey,2,0,Germany,Turkey,False
+30,76,Round of 32,Japan,Morocco,2,0,Japan,Morocco,False
+30,77,Round of 32,Ecuador,Senegal,2,0,Ecuador,Senegal,False
+30,78,Round of 32,France,Sweden,3,1,France,Sweden,False
+30,79,Round of 32,South Korea,Curaçao,1,0,South Korea,Curaçao,False
+30,80,Round of 32,England,Norway,6,1,England,Norway,False
+30,81,Round of 32,Belgium,Saudi Arabia,3,0,Belgium,Saudi Arabia,False
+30,82,Round of 32,Australia,Qatar,1,1,Australia,Qatar,True
+30,83,Round of 32,Portugal,Croatia,2,0,Portugal,Croatia,False
+30,84,Round of 32,Spain,Austria,3,0,Spain,Austria,False
+30,85,Round of 32,Switzerland,Algeria,5,5,Switzerland,Algeria,True
+30,86,Round of 32,United States,Egypt,2,2,Egypt,United States,True
+30,87,Round of 32,Argentina,Uruguay,0,1,Uruguay,Argentina,False
+30,88,Round of 32,Colombia,Panama,3,1,Colombia,Panama,False
+30,89,Round of 16,Mexico,Germany,2,2,Germany,Mexico,True
+30,90,Round of 16,Brazil,Ecuador,2,1,Brazil,Ecuador,False
+30,91,Round of 16,Japan,France,1,1,France,Japan,True
+30,92,Round of 16,South Korea,England,3,2,South Korea,England,False
+30,93,Round of 16,Portugal,Spain,0,1,Spain,Portugal,False
+30,94,Round of 16,Belgium,Australia,2,0,Belgium,Australia,False
+30,95,Round of 16,Egypt,Colombia,1,1,Colombia,Egypt,True
+30,96,Round of 16,Switzerland,Uruguay,1,1,Uruguay,Switzerland,True
+30,97,Quarter-final,Germany,Brazil,1,2,Brazil,Germany,False
+30,98,Quarter-final,Spain,Belgium,4,0,Spain,Belgium,False
+30,99,Quarter-final,France,South Korea,2,2,South Korea,France,True
+30,100,Quarter-final,Colombia,Uruguay,0,0,Uruguay,Colombia,True
+30,101,Semi-final,Brazil,Spain,1,1,Spain,Brazil,True
+30,102,Semi-final,South Korea,Uruguay,1,3,Uruguay,South Korea,False
+30,103,Third-place playoff,Brazil,South Korea,0,2,South Korea,Brazil,False
+30,104,Final,Spain,Uruguay,2,1,Spain,Uruguay,False
+31,73,Round of 32,South Korea,Qatar,2,0,South Korea,Qatar,False
+31,74,Round of 32,Haiti,Tunisia,0,2,Tunisia,Haiti,False
+31,75,Round of 32,Ivory Coast,Morocco,0,0,Morocco,Ivory Coast,True
+31,76,Round of 32,Netherlands,Scotland,2,0,Netherlands,Scotland,False
+31,77,Round of 32,Germany,Senegal,2,2,Senegal,Germany,True
+31,78,Round of 32,Iraq,Paraguay,1,2,Paraguay,Iraq,False
+31,79,Round of 32,Mexico,Ecuador,2,1,Mexico,Ecuador,False
+31,80,Round of 32,Croatia,DR Congo,3,0,Croatia,DR Congo,False
+31,81,Round of 32,Belgium,South Africa,2,1,Belgium,South Africa,False
+31,82,Round of 32,United States,Canada,3,2,United States,Canada,False
+31,83,Round of 32,Portugal,England,2,0,Portugal,England,False
+31,84,Round of 32,Spain,Algeria,1,3,Algeria,Spain,False
+31,85,Round of 32,Switzerland,France,2,1,Switzerland,France,False
+31,86,Round of 32,Australia,Egypt,1,0,Australia,Egypt,False
+31,87,Round of 32,Argentina,Uruguay,2,1,Argentina,Uruguay,False
+31,88,Round of 32,Colombia,Panama,2,0,Colombia,Panama,False
+31,89,Round of 16,South Korea,Morocco,1,2,Morocco,South Korea,False
+31,90,Round of 16,Tunisia,Senegal,0,0,Senegal,Tunisia,True
+31,91,Round of 16,Netherlands,Paraguay,1,1,Paraguay,Netherlands,True
+31,92,Round of 16,Mexico,Croatia,0,0,Mexico,Croatia,True
+31,93,Round of 16,Portugal,Algeria,2,0,Portugal,Algeria,False
+31,94,Round of 16,Belgium,United States,1,1,Belgium,United States,True
+31,95,Round of 16,Australia,Colombia,1,1,Colombia,Australia,True
+31,96,Round of 16,Switzerland,Argentina,1,3,Argentina,Switzerland,False
+31,97,Quarter-final,Morocco,Senegal,0,0,Senegal,Morocco,True
+31,98,Quarter-final,Portugal,Belgium,1,1,Belgium,Portugal,True
+31,99,Quarter-final,Paraguay,Mexico,1,2,Mexico,Paraguay,False
+31,100,Quarter-final,Colombia,Argentina,1,4,Argentina,Colombia,False
+31,101,Semi-final,Senegal,Belgium,1,0,Senegal,Belgium,False
+31,102,Semi-final,Mexico,Argentina,0,1,Argentina,Mexico,False
+31,103,Third-place playoff,Belgium,Mexico,1,3,Mexico,Belgium,False
+31,104,Final,Senegal,Argentina,2,1,Senegal,Argentina,False
+32,73,Round of 32,South Africa,Canada,3,8,Canada,South Africa,False
+32,74,Round of 32,Morocco,Japan,2,0,Morocco,Japan,False
+32,75,Round of 32,Ecuador,Scotland,2,0,Ecuador,Scotland,False
+32,76,Round of 32,Netherlands,Brazil,1,2,Brazil,Netherlands,False
+32,77,Round of 32,Ivory Coast,Norway,0,3,Norway,Ivory Coast,False
+32,78,Round of 32,France,Paraguay,6,4,France,Paraguay,False
+32,79,Round of 32,Mexico,Germany,1,1,Mexico,Germany,True
+32,80,Round of 32,England,Colombia,1,1,England,Colombia,True
+32,81,Round of 32,New Zealand,South Korea,0,1,South Korea,New Zealand,False
+32,82,Round of 32,Turkey,Bosnia and Herzegovina,3,0,Turkey,Bosnia and Herzegovina,False
+32,83,Round of 32,Uzbekistan,Croatia,0,0,Uzbekistan,Croatia,True
+32,84,Round of 32,Spain,Austria,5,0,Spain,Austria,False
+32,85,Round of 32,Switzerland,Egypt,2,1,Switzerland,Egypt,False
+32,86,Round of 32,Australia,Iran,0,1,Iran,Australia,False
+32,87,Round of 32,Argentina,Uruguay,1,2,Uruguay,Argentina,False
+32,88,Round of 32,DR Congo,Iraq,1,0,DR Congo,Iraq,False
+32,89,Round of 16,Canada,Ecuador,1,0,Canada,Ecuador,False
+32,90,Round of 16,Morocco,Norway,5,1,Morocco,Norway,False
+32,91,Round of 16,Brazil,France,1,5,France,Brazil,False
+32,92,Round of 16,Mexico,England,0,3,England,Mexico,False
+32,93,Round of 16,Uzbekistan,Spain,0,1,Spain,Uzbekistan,False
+32,94,Round of 16,South Korea,Turkey,1,1,Turkey,South Korea,True
+32,95,Round of 16,Iran,DR Congo,1,0,Iran,DR Congo,False
+32,96,Round of 16,Switzerland,Uruguay,2,0,Switzerland,Uruguay,False
+32,97,Quarter-final,Canada,Morocco,2,0,Canada,Morocco,False
+32,98,Quarter-final,Spain,Turkey,1,0,Spain,Turkey,False
+32,99,Quarter-final,France,England,0,0,France,England,True
+32,100,Quarter-final,Iran,Switzerland,1,1,Switzerland,Iran,True
+32,101,Semi-final,Canada,Spain,2,2,Canada,Spain,True
+32,102,Semi-final,France,Switzerland,0,2,Switzerland,France,False
+32,103,Third-place playoff,Spain,France,2,1,Spain,France,False
+32,104,Final,Canada,Switzerland,3,3,Switzerland,Canada,True
+33,73,Round of 32,Czech Republic,Bosnia and Herzegovina,1,2,Bosnia and Herzegovina,Czech Republic,False
+33,74,Round of 32,Brazil,Tunisia,4,0,Brazil,Tunisia,False
+33,75,Round of 32,Germany,Turkey,1,4,Turkey,Germany,False
+33,76,Round of 32,Japan,Scotland,1,0,Japan,Scotland,False
+33,77,Round of 32,Ecuador,France,0,2,France,Ecuador,False
+33,78,Round of 32,Senegal,New Zealand,3,2,Senegal,New Zealand,False
+33,79,Round of 32,Mexico,Netherlands,3,2,Mexico,Netherlands,False
+33,80,Round of 32,Croatia,Colombia,0,1,Colombia,Croatia,False
+33,81,Round of 32,Belgium,South Korea,2,2,South Korea,Belgium,True
+33,82,Round of 32,United States,Switzerland,4,1,United States,Switzerland,False
+33,83,Round of 32,Portugal,England,1,1,England,Portugal,True
+33,84,Round of 32,Uruguay,Argentina,1,0,Uruguay,Argentina,False
+33,85,Round of 32,Canada,Austria,0,0,Austria,Canada,True
+33,86,Round of 32,Paraguay,Iran,0,1,Iran,Paraguay,False
+33,87,Round of 32,Algeria,Spain,0,2,Spain,Algeria,False
+33,88,Round of 32,Uzbekistan,Panama,0,1,Panama,Uzbekistan,False
+33,89,Round of 16,Bosnia and Herzegovina,Turkey,3,4,Turkey,Bosnia and Herzegovina,False
+33,90,Round of 16,Brazil,France,0,1,France,Brazil,False
+33,91,Round of 16,Japan,Senegal,1,0,Japan,Senegal,False
+33,92,Round of 16,Mexico,Colombia,0,0,Mexico,Colombia,True
+33,93,Round of 16,England,Uruguay,0,1,Uruguay,England,False
+33,94,Round of 16,South Korea,United States,2,1,South Korea,United States,False
+33,95,Round of 16,Iran,Panama,1,2,Panama,Iran,False
+33,96,Round of 16,Austria,Spain,1,5,Spain,Austria,False
+33,97,Quarter-final,Turkey,France,0,2,France,Turkey,False
+33,98,Quarter-final,Uruguay,South Korea,2,1,Uruguay,South Korea,False
+33,99,Quarter-final,Japan,Mexico,2,2,Mexico,Japan,True
+33,100,Quarter-final,Panama,Spain,2,4,Spain,Panama,False
+33,101,Semi-final,France,Uruguay,2,1,France,Uruguay,False
+33,102,Semi-final,Mexico,Spain,1,3,Spain,Mexico,False
+33,103,Third-place playoff,Uruguay,Mexico,1,2,Mexico,Uruguay,False
+33,104,Final,France,Spain,2,1,France,Spain,False

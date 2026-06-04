@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/goncalo.rodrigues9/Desktop/SC%20Braga/GR/WC/mlruns/647256273118934862/f7e4694bcab54fde91f987d2dbfb20db/artifacts
+deleted_time: 1780510873144
+end_time: 1780452219126
+entry_point_name: ''
+experiment_id: '647256273118934862'
+lifecycle_stage: deleted
+run_id: f7e4694bcab54fde91f987d2dbfb20db
+run_name: xgb_poisson_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780452208617
+status: 3
+tags: []
+user_id: goncalo.rodrigues9

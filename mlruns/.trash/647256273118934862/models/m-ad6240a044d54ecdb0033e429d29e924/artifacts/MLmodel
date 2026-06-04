@@ -1,0 +1,22 @@
+artifact_path: file:///Users/goncalo.rodrigues9/Desktop/SC%20Braga/GR/WC/mlruns/647256273118934862/models/m-ad6240a044d54ecdb0033e429d29e924/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.6
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 2.1.4
+mlflow_version: 3.1.4
+model_id: m-ad6240a044d54ecdb0033e429d29e924
+model_size_bytes: 1865240
+model_uuid: m-ad6240a044d54ecdb0033e429d29e924
+prompts: null
+run_id: 67ad7a68c7f142b6a3ab34b65f7a6a53
+utc_time_created: '2026-06-03 02:34:53.450368'

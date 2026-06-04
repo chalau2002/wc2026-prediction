@@ -1,0 +1,10 @@
+artifact_location: file:///Users/goncalo.rodrigues9/Desktop/SC%20Braga/GR/WC/mlruns/647256273118934862/models/m-ad6240a044d54ecdb0033e429d29e924/artifacts
+creation_timestamp: 1780454093429
+experiment_id: '647256273118934862'
+last_updated_timestamp: 1780454095618
+model_id: m-ad6240a044d54ecdb0033e429d29e924
+model_type: null
+name: model_home
+source_run_id: 67ad7a68c7f142b6a3ab34b65f7a6a53
+status: 2
+status_message: null
