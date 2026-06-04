@@ -378,6 +378,9 @@ if __name__ == "__main__":
     Path("models").mkdir(exist_ok=True)
     Path("data/processed").mkdir(parents=True, exist_ok=True)
 
+    MLFLOW_DB = Path("mlflow.db").absolute()
+    mlflow.set_tracking_uri(f"sqlite:///{MLFLOW_DB.as_posix()}")
+
     mlflow.set_experiment("wc2026")
 
     with mlflow.start_run(run_name=f"xgb_poisson_{RUN_TS}"):
