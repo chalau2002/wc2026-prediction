@@ -24093,7 +24093,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2000-01-26,Guatemala,Panama,1.0,1.0,Friendly,Guatemala City,Guatemala,False,1084.280366587922,993.2564292811312,91.02393730679069,0.8,1.2,1.2,1.6,3,0.3333333333333333,1.0,0.3333333333333333,0,0,0,0,1,0,0,1,0,0,0
 2000-01-26,Spain,Poland,3.0,0.0,Friendly,Cartagena,Spain,False,1479.8573903664203,1230.9625265675902,248.8948637988301,4.3,0.5,1.0,1.1,1,2.0,1.0,1.0,10,1,5,1,1,0,0,1,0,0,0
 2000-01-26,Uganda,Libya,3.0,2.0,Friendly,Kampala,Uganda,False,998.3975365289792,1013.4333010270778,-15.035764498098615,0.5,0.9,1.6,1.6,0,,,,0,0,0,0,1,0,0,1,0,0,0
-2000-01-26,Vietnam,Philippines,3.0,0.0,AFC Asian Cup qualification,Hanoi,Vietnam,False,963.3524472437408,502.3852734347562,460.9671738089846,2.6,0.8,0.7,3.9,2,2.5,0.0,1.0,0,0,0,0,1,0,0,0,1,0,0
+2000-01-26,Vietnam,Philippines,3.0,0.0,AFC Asian Cup qualification,Hanoi,Vietnam,False,963.3524472437408,502.3852734347561,460.96717380898474,2.6,0.8,0.7,3.9,2,2.5,0.0,1.0,0,0,0,0,1,0,0,0,1,0,0
 2000-01-27,Ghana,Togo,2.0,0.0,African Cup of Nations,Accra,Ghana,False,1136.8541551548872,1000.1963385762238,136.65781657866341,1.1,0.6,0.8,2.0,2,0.5,3.0,0.0,0,0,0,0,1,0,0,0,0,1,0
 2000-01-27,South Africa,DR Congo,1.0,0.0,African Cup of Nations,Kumasi,Ghana,True,1234.0100723109729,1130.5688390077685,103.4412333032044,1.1,0.8,1.3,1.1,3,1.6666666666666667,0.6666666666666666,1.0,1,1,1,1,0,0,1,0,0,1,0
 2000-01-28,Cameroon,Ivory Coast,3.0,0.0,African Cup of Nations,Accra,Ghana,True,1213.2595201162271,1170.9300195889357,42.32950052729143,1.3,0.9,1.2,0.8,1,0.0,1.0,0.0,4,1,0,0,0,0,1,0,0,1,0
@@ -26869,7 +26869,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2002-12-20,Singapore,Laos,2.0,1.0,AFF Championship,Singapore,Singapore,False,844.6113128368766,660.1416128316923,184.46970000518422,1.1,2.0,0.4,5.6,1,3.0,0.0,1.0,0,0,0,0,1,0,0,0,0,0,0
 2002-12-20,Thailand,Malaysia,1.0,3.0,AFF Championship,Singapore,Singapore,True,1094.3421747718403,944.5705592231132,149.77161554872714,1.6,0.9,1.3,1.6,3,2.3333333333333335,1.6666666666666667,0.6666666666666666,0,0,0,0,0,0,1,0,0,0,0
 2002-12-21,Bahrain,Yemen,3.0,1.0,Arab Cup,Kuwait City,Kuwait,True,1064.7445660331828,899.0469387855276,165.6976272476552,1.3,1.7,1.5,2.1,0,,,,0,0,0,0,0,0,1,0,0,0,0
-2002-12-21,Cambodia,Philippines,1.0,0.0,AFF Championship,Jakarta,Indonesia,True,584.1017411974584,506.46390043017254,77.63784076728587,0.6,4.5,0.4,4.4,0,,,,0,0,0,0,0,0,1,0,0,0,0
+2002-12-21,Cambodia,Philippines,1.0,0.0,AFF Championship,Jakarta,Indonesia,True,584.1017411974584,506.4639004301725,77.63784076728592,0.6,4.5,0.4,4.4,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2002-12-21,Indonesia,Vietnam,2.0,2.0,AFF Championship,Jakarta,Indonesia,False,1025.656755728939,979.0753331222688,46.58142260667023,2.2,1.4,2.7,1.8,2,1.5,1.5,0.5,1,1,0,0,1,0,0,0,0,0,0
 2002-12-21,Syria,Lebanon,4.0,1.0,Arab Cup,Kuwait City,Kuwait,True,1016.9536990266032,1009.865844209936,7.087854816667232,1.4,1.8,2.7,1.0,1,2.0,2.0,0.0,0,0,0,0,0,0,1,0,0,0,0
 2002-12-22,Egypt,Ghana,0.0,0.0,Friendly,Cairo,Egypt,False,1213.1905757429074,1103.9841415258193,109.20643421708814,1.4,0.7,0.9,1.1,3,1.6666666666666667,0.6666666666666666,0.6666666666666666,2,1,0,0,1,0,0,1,0,0,0
@@ -29839,7 +29839,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2006-03-01,Cyprus,Armenia,2.0,0.0,Cyprus International Tournament,Limassol,Cyprus,False,966.480653719496,950.2685705456064,16.212083173889596,1.0,1.4,0.8,1.8,0,,,,0,0,0,0,1,0,0,0,0,0,0
 2006-03-01,Finland,Belarus,2.0,2.0,Cyprus International Tournament,Paphos,Cyprus,True,1171.9040677647097,1096.0826170354555,75.82145072925414,1.1,1.1,0.7,1.2,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2006-03-01,India,Yemen,0.0,3.0,AFC Asian Cup qualification,New Delhi,India,False,931.1251598375404,858.9619876965603,72.16317214098012,1.2,1.6,0.9,2.2,0,,,,0,0,0,0,1,0,0,0,1,0,0
-2006-03-01,Luxembourg,Belgium,0.0,2.0,Friendly,Luxembourg,Luxembourg,False,491.08213825417585,1225.8977395663744,-734.8156013121986,0.1,3.8,1.7,1.2,0,,,,0,0,11,1,1,0,0,1,0,0,0
+2006-03-01,Luxembourg,Belgium,0.0,2.0,Friendly,Luxembourg,Luxembourg,False,491.0821382541759,1225.8977395663744,-734.8156013121985,0.1,3.8,1.7,1.2,0,,,,0,0,11,1,1,0,0,1,0,0,0
 2006-03-01,Iraq,China PR,2.0,1.0,AFC Asian Cup qualification,Al Ain,United Arab Emirates,True,1133.093764837129,1199.1822072560392,-66.08844241891029,1.7,1.2,1.2,1.3,1,0.0,3.0,0.0,1,1,1,1,0,0,1,0,1,0,0
 2006-03-01,Republic of Ireland,Sweden,3.0,0.0,Friendly,Dublin,Republic of Ireland,False,1345.3034277032148,1419.6148585276435,-74.31143082442873,1.0,0.6,2.0,0.9,0,,,,3,1,11,1,1,0,0,1,0,0,0
 2006-03-01,Iran,Costa Rica,3.0,2.0,Friendly,Tehran,Iran,False,1406.849179902319,1323.2951768794176,83.5540030229015,1.9,0.6,1.7,1.3,0,,,,2,1,2,1,1,0,0,1,0,0,0
@@ -36210,7 +36210,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2012-09-11,Poland,Moldova,2.0,0.0,FIFA World Cup qualification,Wrocław,Poland,False,1230.8568913171607,940.8503733566104,290.00651796055035,1.2,0.7,0.5,2.0,1,1.0,0.0,1.0,7,1,0,0,1,0,0,0,1,0,0
 2012-09-11,Portugal,Azerbaijan,3.0,0.0,FIFA World Cup qualification,Braga,Portugal,False,1494.6967699797124,963.2093715008916,531.4873984788208,1.1,0.8,1.1,1.2,0,,,,5,1,0,0,1,0,0,0,1,0,0
 2012-09-11,Romania,Andorra,4.0,0.0,FIFA World Cup qualification,Bucharest,Romania,False,1282.00704981413,582.3714317981228,699.6356180160071,1.8,1.1,0.0,2.4,0,,,,7,1,0,0,1,0,0,0,1,0,0
-2012-09-11,San Marino,Montenegro,0.0,6.0,FIFA World Cup qualification,Serravalle,San Marino,False,503.52974351331267,1140.8186542510098,-637.288910737697,0.2,3.9,1.3,1.7,0,,,,0,0,0,0,1,0,0,0,1,0,0
+2012-09-11,San Marino,Montenegro,0.0,6.0,FIFA World Cup qualification,Serravalle,San Marino,False,503.5297435133127,1140.8186542510098,-637.288910737697,0.2,3.9,1.3,1.7,0,,,,0,0,0,0,1,0,0,0,1,0,0
 2012-09-11,South Africa,Mozambique,2.0,0.0,Friendly,Nelspruit,South Africa,False,1185.6118637927402,997.5050119361769,188.10685185656337,0.8,0.8,0.9,1.0,1,0.0,1.0,0.0,3,1,0,0,1,0,0,1,0,0,0
 2012-09-11,Serbia,Wales,6.0,1.0,FIFA World Cup qualification,Novi Sad,Serbia,False,1256.884237944348,1113.1583985047607,143.72583943958716,0.3,1.1,1.0,1.2,0,,,,3,1,1,1,1,0,0,0,1,0,0
 2012-09-11,Scotland,North Macedonia,1.0,1.0,FIFA World Cup qualification,Glasgow,Scotland,False,1243.3399116834423,1040.780186663114,202.55972502032841,1.4,1.4,0.5,0.9,1,2.0,0.0,1.0,8,1,0,0,1,0,0,0,1,0,0
@@ -36437,7 +36437,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2012-11-14,Niger,Senegal,1.0,1.0,Friendly,Niamey,Niger,False,1009.9246496108476,1141.866119055242,-131.94146944439444,0.6,1.1,1.1,1.4,0,,,,0,0,1,1,1,0,0,1,0,0,0
 2012-11-14,Netherlands,Germany,0.0,0.0,Friendly,Amsterdam,Netherlands,False,1538.6552464250883,1598.48842239102,-59.83317596593179,2.5,1.1,2.6,1.5,2,0.5,2.5,0.0,9,1,17,1,1,0,0,1,0,0,0
 2012-11-14,Malaysia,Hong Kong,1.0,1.0,Friendly,Shah Alam,Malaysia,False,897.0944144535285,833.1738687628514,63.92054569067716,1.6,1.1,1.6,2.1,3,2.0,0.3333333333333333,0.6666666666666666,0,0,0,0,1,0,0,1,0,0,0
-2012-11-14,Montenegro,San Marino,3.0,0.0,FIFA World Cup qualification,Podgorica,Montenegro,False,1175.9974791058517,492.56804810202465,683.429431003827,1.7,1.2,0.2,4.1,1,6.0,0.0,1.0,0,0,0,0,1,0,0,0,1,0,0
+2012-11-14,Montenegro,San Marino,3.0,0.0,FIFA World Cup qualification,Podgorica,Montenegro,False,1175.9974791058517,492.5680481020247,683.429431003827,1.7,1.2,0.2,4.1,1,6.0,0.0,1.0,0,0,0,0,1,0,0,0,1,0,0
 2012-11-14,Paraguay,Guatemala,3.0,1.0,Friendly,Luque,Paraguay,False,1284.7759911877693,1202.5681347412592,82.20785644651005,1.2,1.4,1.5,1.5,3,2.0,1.3333333333333333,0.6666666666666666,8,1,0,0,1,0,0,1,0,0,0
 2012-11-14,North Macedonia,Slovenia,3.0,2.0,Friendly,Skopje,North Macedonia,False,1071.8173431073078,1152.2065120940672,-80.38916898675939,0.6,0.7,1.2,1.5,0,,,,0,0,2,1,1,0,0,1,0,0,0
 2012-11-14,Luxembourg,Scotland,1.0,2.0,Friendly,Luxembourg,Luxembourg,False,677.0189381348537,1193.990004325061,-516.9710661902072,0.7,2.4,1.1,1.6,0,,,,0,0,8,1,1,0,0,1,0,0,0
@@ -36452,7 +36452,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2012-11-14,South Africa,Zambia,0.0,1.0,Friendly,Johannesburg,South Africa,False,1191.034763015709,1274.1285346677328,-83.09377165202386,1.0,0.7,0.9,0.5,1,1.0,0.0,1.0,3,1,0,0,1,0,0,1,0,0,0
 2012-11-14,Sweden,England,4.0,2.0,Friendly,Solna,Sweden,False,1436.250507363308,1506.7025134820833,-70.45200611877522,1.9,1.6,2.0,0.6,2,1.0,2.0,0.0,12,1,13,1,1,0,0,1,0,0,0
 2012-11-14,Venezuela,Nigeria,1.0,3.0,Friendly,Miami,United States,True,1299.8235500224382,1245.9671560567715,53.85639396566671,1.1,1.6,1.6,0.8,0,,,,0,0,4,1,0,0,1,1,0,0,0
-2012-11-14,Thailand,Bhutan,5.0,0.0,Friendly,Bangkok,Thailand,False,1050.104229933557,478.5945066345135,571.5097232990436,1.0,0.8,0.3,4.1,0,,,,0,0,0,0,1,0,0,1,0,0,0
+2012-11-14,Thailand,Bhutan,5.0,0.0,Friendly,Bangkok,Thailand,False,1050.104229933557,478.5945066345136,571.5097232990433,1.0,0.8,0.3,4.1,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2012-11-14,Tunisia,Switzerland,1.0,2.0,Friendly,Sousse,Tunisia,False,1235.6365109044823,1356.2779199367426,-120.6414090322603,1.7,1.1,1.8,1.0,0,,,,4,1,9,1,1,0,0,1,0,0,0
 2012-11-14,Turkey,Denmark,1.0,1.0,Friendly,Istanbul,Turkey,False,1244.3400504032247,1318.160505045644,-73.82045464241924,1.6,1.3,1.0,1.7,0,,,,2,1,4,1,1,0,0,1,0,0,0
 2012-11-14,United Arab Emirates,Estonia,2.0,1.0,Friendly,Abu Dhabi,United Arab Emirates,False,1083.81987420869,1049.3255233632412,34.49435084544871,2.1,1.3,0.6,1.7,0,,,,1,1,0,0,1,0,0,1,0,0,0
@@ -36790,7 +36790,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2013-03-22,Norway,Albania,0.0,1.0,FIFA World Cup qualification,Oslo,Norway,False,1289.749542922121,1028.8756078601425,260.8739350619785,1.2,1.1,1.0,1.0,0,,,,3,1,0,0,1,0,0,0,1,0,0
 2013-03-22,Peru,Chile,1.0,0.0,FIFA World Cup qualification,Lima,Peru,False,1289.1205629535657,1374.1900052864032,-85.06944233283753,1.0,0.9,1.6,1.5,5,0.8,2.8,0.0,4,1,8,1,1,0,0,0,1,0,0
 2013-03-22,Poland,Ukraine,1.0,3.0,FIFA World Cup qualification,Warsaw,Poland,False,1239.2202773087938,1269.2814335780351,-30.061156269241337,1.2,1.2,0.6,0.8,1,1.0,1.0,0.0,7,1,1,1,1,0,0,0,1,0,0
-2013-03-22,San Marino,England,0.0,8.0,FIFA World Cup qualification,Serravalle,San Marino,False,491.80636742210214,1503.661206664239,-1011.8548392421369,0.2,4.3,2.2,1.0,1,0.0,5.0,0.0,0,0,13,1,1,0,0,0,1,0,0
+2013-03-22,San Marino,England,0.0,8.0,FIFA World Cup qualification,Serravalle,San Marino,False,491.8063674221021,1503.661206664239,-1011.8548392421369,0.2,4.3,2.2,1.0,1,0.0,5.0,0.0,0,0,13,1,1,0,0,0,1,0,0
 2013-03-22,Malaysia,Yemen,2.0,1.0,AFC Asian Cup qualification,Shah Alam,Malaysia,False,860.4832394397739,874.0447206562047,-13.56148121643082,1.0,1.7,0.3,1.9,1,1.0,0.0,1.0,0,0,0,0,1,0,0,0,1,0,0
 2013-03-22,Slovakia,Lithuania,1.0,1.0,FIFA World Cup qualification,Žilina,Slovakia,False,1143.1316035707462,1009.9544535988634,133.17714997188273,1.1,1.3,0.6,1.8,1,1.0,1.0,0.0,1,1,0,0,1,0,0,0,1,0,0
 2013-03-22,Spain,Finland,1.0,1.0,FIFA World Cup qualification,Gijón,Spain,False,1710.2339474988491,1176.2670346648654,533.9669128339838,2.7,0.4,1.5,1.3,0,,,,13,1,0,0,1,0,0,0,1,0,0
@@ -36892,7 +36892,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2013-05-29,Qatar,Azerbaijan,1.0,1.0,Friendly,Doha,Qatar,False,1114.9229082565405,961.216992146258,153.7059161102825,1.5,0.7,0.6,0.8,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2013-05-29,United States,Belgium,2.0,4.0,Friendly,Cleveland,United States,False,1357.92494213053,1353.8821883059284,4.042753824601732,1.2,0.8,1.8,0.7,1,0.0,1.0,0.0,9,1,11,1,1,0,0,1,0,0,0
 2013-05-30,Japan,Bulgaria,0.0,2.0,Kirin Challenge Cup,Toyota,Japan,False,1407.536418473229,1202.0775957208718,205.45882275235726,1.3,1.0,1.4,0.8,0,,,,4,1,7,1,1,0,0,0,0,0,0
-2013-05-31,Italy,San Marino,4.0,0.0,Friendly,Bologna,Italy,False,1471.7432370119825,490.57008617478664,981.1731508371959,1.7,1.5,0.2,5.2,0,,,,17,1,0,0,1,0,0,1,0,0,0
+2013-05-31,Italy,San Marino,4.0,0.0,Friendly,Bologna,Italy,False,1471.7432370119825,490.5700861747866,981.1731508371959,1.7,1.5,0.2,5.2,0,,,,17,1,0,0,1,0,0,1,0,0,0
 2013-05-31,Mexico,Nigeria,2.0,2.0,Friendly,Houston,United States,True,1451.7700242257274,1326.737438166308,125.03258605941937,1.4,0.4,1.6,0.7,0,,,,14,1,4,1,0,0,1,1,0,0,0
 2013-05-31,Turkey,Slovenia,0.0,2.0,Friendly,Bielefeld,Germany,True,1218.9382402272215,1096.8553863300758,122.0828538971457,1.1,1.5,1.2,1.9,0,,,,2,1,2,1,0,0,1,1,0,0,0
 2013-06-01,Libya,Uganda,3.0,0.0,Friendly,Tripoli,Libya,False,1171.0722623031909,1153.2135006193562,17.8587616838347,1.2,0.7,1.6,0.6,0,,,,0,0,0,0,1,0,0,1,0,0,0
@@ -37220,7 +37220,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2013-09-06,Sri Lanka,Bhutan,5.0,2.0,SAFF Cup,Kathmandu,Nepal,True,624.733650080778,463.9040836491431,160.82956643163493,1.0,3.4,0.4,4.0,2,4.5,0.0,1.0,0,0,0,0,0,0,1,0,0,0,0
 2013-09-06,Latvia,Lithuania,2.0,1.0,FIFA World Cup qualification,Riga,Latvia,False,1020.9943415654888,987.4057492678968,33.58859229759196,1.1,2.4,0.8,1.9,2,2.5,0.0,0.5,0,0,0,0,1,0,0,0,1,0,0
 2013-09-06,Turkey,Andorra,5.0,0.0,FIFA World Cup qualification,Kayseri,Turkey,False,1199.6457468321094,577.0896989838467,622.5560478482627,1.3,1.5,0.1,2.5,1,2.0,0.0,1.0,2,1,0,0,1,0,0,0,1,0,0
-2013-09-06,Ukraine,San Marino,9.0,0.0,FIFA World Cup qualification,Lviv,Ukraine,False,1345.8032367191445,490.4959144218331,855.3073222973114,1.5,0.4,0.2,4.5,0,,,,1,1,0,0,1,0,0,0,1,0,0
+2013-09-06,Ukraine,San Marino,9.0,0.0,FIFA World Cup qualification,Lviv,Ukraine,False,1345.8032367191445,490.4959144218332,855.3073222973112,1.5,0.4,0.2,4.5,0,,,,1,1,0,0,1,0,0,0,1,0,0
 2013-09-06,Switzerland,Iceland,4.0,4.0,FIFA World Cup qualification,Bern,Switzerland,False,1371.346893394011,1017.3495635912852,353.99732980272574,1.5,0.4,1.3,1.1,1,2.0,0.0,1.0,9,1,0,0,1,0,0,0,1,0,0
 2013-09-07,Gambia,Tanzania,2.0,0.0,FIFA World Cup qualification,Bakau,Gambia,False,908.1381979399716,1005.530810707749,-97.39261276777734,0.5,2.0,1.2,1.3,1,1.0,2.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2013-09-07,Angola,Liberia,4.0,1.0,FIFA World Cup qualification,Lubango,Angola,False,1055.6452696015149,967.8410976879225,87.80417191359243,1.0,1.2,0.9,1.2,2,0.0,0.0,0.0,1,1,0,0,1,0,0,0,1,0,0
@@ -37820,7 +37820,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2014-06-07,United States,Nigeria,2.0,1.0,Friendly,Jacksonville,United States,False,1447.47396520018,1346.7456449806607,100.72832021951922,1.6,1.2,1.8,0.8,0,,,,9,1,4,1,1,0,0,1,0,0,0
 2014-06-08,France,Jamaica,8.0,0.0,Friendly,Villeneuve-d'Ascq,France,False,1443.032125646987,1152.1859946961524,290.84613095083455,2.3,0.5,1.1,1.3,0,,,,13,1,1,1,1,0,0,1,0,0,0
 2014-06-08,Iran,Trinidad and Tobago,2.0,0.0,Friendly,São Paulo,Brazil,True,1332.5280442369244,1163.749622701681,168.77842153524352,1.9,0.7,1.3,1.2,0,,,,3,1,1,1,0,0,1,1,0,0,0
-2014-06-08,San Marino,Albania,0.0,3.0,Friendly,Serravalle,San Marino,False,483.76015420163304,1048.7691945080644,-565.0090403064314,0.1,5.2,0.7,0.8,0,,,,0,0,0,0,1,0,0,1,0,0,0
+2014-06-08,San Marino,Albania,0.0,3.0,Friendly,Serravalle,San Marino,False,483.760154201633,1048.7691945080644,-565.0090403064314,0.1,5.2,0.7,0.8,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2014-06-08,South Ossetia,Arameans Suryoye,1.0,4.0,CONIFA World Football Cup,Östersund,Sweden,True,995.6188233259828,1023.0830318285168,-27.464208502534007,5.0,1.5,1.3333333333333333,1.2222222222222223,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2014-06-08,County of Nice,Ellan Vannin,0.0,0.0,CONIFA World Football Cup,Östersund,Sweden,True,1044.9266299693018,1079.7446217619652,-34.817991792663406,2.0,1.25,4.4,1.2,1,2.0,4.0,0.0,0,0,0,0,0,0,1,0,0,0,0
 2014-06-09,Ghana,South Korea,4.0,0.0,Friendly,Miami Gardens,United States,True,1311.4535770880425,1295.306087491512,16.147489596530477,1.5,1.2,1.0,1.5,1,1.0,2.0,0.0,2,1,8,1,0,0,1,1,0,0,0
@@ -39188,7 +39188,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2015-10-12,Morocco,Guinea,1.0,1.0,Friendly,Agadir,Morocco,False,1153.7284004427831,1163.2722533878791,-9.543852945095978,2.2,0.4,1.3,1.6,1,1.0,2.0,0.0,4,1,0,0,1,0,0,1,0,0,0
 2015-10-12,Gabon,DR Congo,1.0,2.0,Friendly,Mons,Belgium,True,1120.3137567924932,1111.9558152728475,8.357941519645692,1.4,1.2,1.2,1.3,0,,,,0,0,1,1,0,0,1,1,0,0,0
 2015-10-12,Russia,Montenegro,2.0,0.0,UEFA Euro qualification,Moscow,Russia,False,1329.937954184296,1122.816536501868,207.12141768242782,1.8,0.8,1.1,1.0,0,,,,10,1,0,0,1,0,0,0,1,0,0
-2015-10-12,San Marino,Slovenia,0.0,2.0,UEFA Euro qualification,Serravalle,San Marino,False,486.84950775471515,1173.355803034622,-686.5062952799069,0.1,3.5,1.6,1.2,1,0.0,6.0,0.0,0,0,2,1,1,0,0,0,1,0,0
+2015-10-12,San Marino,Slovenia,0.0,2.0,UEFA Euro qualification,Serravalle,San Marino,False,486.8495077547152,1173.355803034622,-686.5062952799069,0.1,3.5,1.6,1.2,1,0.0,6.0,0.0,0,0,2,1,1,0,0,0,1,0,0
 2015-10-12,Sweden,Moldova,2.0,0.0,UEFA Euro qualification,Solna,Sweden,False,1294.2761111213783,911.3484664995984,382.9276446217799,1.3,0.9,0.5,1.3,2,2.0,0.5,1.0,12,1,0,0,1,0,0,0,1,0,0
 2015-10-12,Ukraine,Spain,0.0,1.0,UEFA Euro qualification,Kyiv,Ukraine,False,1376.4151081554294,1543.1927305671484,-166.777622411719,1.5,0.4,1.8,0.4,1,0.0,1.0,0.0,1,1,14,1,1,0,0,0,1,0,0
 2015-10-12,Luxembourg,Slovakia,2.0,4.0,UEFA Euro qualification,Luxembourg,Luxembourg,False,780.6705194248021,1272.0766751813496,-491.4061557565475,0.4,2.4,1.5,0.7,1,0.0,3.0,0.0,0,0,1,1,1,0,0,0,1,0,0
@@ -39325,7 +39325,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2015-11-17,Austria,Switzerland,1.0,2.0,Friendly,Vienna,Austria,False,1360.941703156896,1349.9834357206391,10.958267436256847,2.1,0.6,2.4,1.1,0,,,,7,1,10,1,1,0,0,1,0,0,0
 2015-11-17,Azerbaijan,Moldova,2.0,1.0,Friendly,Baku,Azerbaijan,False,973.8907954790388,907.8434446207856,66.04735085825325,0.7,2.0,0.4,1.3,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2015-11-17,Bangladesh,Australia,0.0,4.0,FIFA World Cup qualification,Dhaka,Bangladesh,False,683.1848319586838,1320.919948447416,-637.735116488732,0.5,2.3,2.1,0.6,1,0.0,5.0,0.0,0,0,4,1,1,0,0,0,1,0,0
-2015-11-17,Bhutan,Qatar,0.0,3.0,FIFA World Cup qualification,Thimphu,Bhutan,False,486.51687728573745,1184.211981571582,-697.6951042858446,0.8,5.3,3.1,0.6,1,0.0,15.0,0.0,0,0,0,0,1,0,0,0,1,0,0
+2015-11-17,Bhutan,Qatar,0.0,3.0,FIFA World Cup qualification,Thimphu,Bhutan,False,486.5168772857375,1184.211981571582,-697.6951042858445,0.8,5.3,3.1,0.6,1,0.0,15.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2015-11-17,Brazil,Peru,3.0,0.0,FIFA World Cup qualification,Salvador,Brazil,False,1584.8904001113046,1361.5588020745868,223.33159803671788,1.5,0.9,1.3,1.2,1,2.0,1.0,1.0,20,1,4,1,1,0,0,0,1,0,0
 2015-11-17,Burkina Faso,Benin,2.0,0.0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False,1031.8085777515616,1036.4518822811592,-4.643304529597572,0.7,1.3,1.2,1.6,2,1.5,2.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2015-11-17,Myanmar,Kuwait,3.0,0.0,FIFA World Cup qualification,Bangkok,Thailand,True,769.1139929203595,1100.0170206686716,-330.9030277483122,0.6,2.8,1.6,1.2,1,0.0,9.0,0.0,0,0,1,1,0,0,1,0,1,0,0
@@ -39406,7 +39406,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2015-12-20,Panjab,Chagos Islands,4.0,1.0,Friendly,Sutton Coldfield,England,True,985.5994634457468,1011.133437003166,-25.533973557419245,5.0,4.5,3.0,1.75,0,,,,0,0,0,0,0,0,1,1,0,0,0
 2015-12-23,Nepal,Sri Lanka,0.0,1.0,SAFF Cup,Thiruvananthapuram,India,True,668.6755564449027,585.6970472582336,82.97850918666904,0.2,1.4,1.0,2.5,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2015-12-24,Afghanistan,Bangladesh,4.0,0.0,SAFF Cup,Thiruvananthapuram,India,True,825.7719871407647,687.026062120904,138.7459250198607,1.0,2.3,0.4,2.5,1,1.0,1.0,0.0,0,0,0,0,0,0,1,0,0,0,0
-2015-12-24,Maldives,Bhutan,3.0,1.0,SAFF Cup,Thiruvananthapuram,India,True,733.1283415110996,484.34336757829783,248.7849739328018,0.7,2.4,0.6,5.1,2,6.0,2.5,1.0,0,0,0,0,0,0,1,0,0,0,0
+2015-12-24,Maldives,Bhutan,3.0,1.0,SAFF Cup,Thiruvananthapuram,India,True,733.1283415110996,484.3433675782978,248.78497393280185,0.7,2.4,0.6,5.1,2,6.0,2.5,1.0,0,0,0,0,0,0,1,0,0,0,0
 2015-12-25,India,Sri Lanka,2.0,0.0,SAFF Cup,Thiruvananthapuram,India,False,804.4328481188494,604.2129213397118,200.2199267791376,0.8,1.5,1.1,1.5,0,,,,0,0,0,0,1,0,0,0,0,0,0
 2015-12-26,Bangladesh,Maldives,1.0,3.0,SAFF Cup,Thiruvananthapuram,India,True,669.5713090886318,741.8029175278069,-72.23160843917515,0.3,2.8,1.0,2.4,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2015-12-26,Bhutan,Afghanistan,0.0,3.0,SAFF Cup,Thiruvananthapuram,India,True,475.6687915615905,843.226740173037,-367.5579486114465,0.6,5.4,1.3,2.1,1,0.0,3.0,0.0,0,0,0,0,0,0,1,0,0,0,0
@@ -39908,7 +39908,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2016-06-26,France,Republic of Ireland,2.0,1.0,UEFA Euro,Lyon,France,False,1528.466949607888,1337.195489702769,191.27145990511895,2.1,1.0,1.1,1.2,0,,,,14,1,3,1,1,0,0,0,0,1,0
 2016-06-27,England,Iceland,1.0,2.0,UEFA Euro,Nice,France,True,1506.6885149884024,1264.1733822837496,242.51513270465284,1.4,1.0,1.8,1.5,0,,,,14,1,0,0,0,0,1,0,0,1,0
 2016-06-27,Italy,Spain,2.0,0.0,UEFA Euro,Saint-Denis,France,True,1450.510353187086,1551.356991293222,-100.8466381061362,1.3,1.2,1.8,0.6,4,0.25,1.5,0.0,18,1,14,1,0,0,1,0,0,1,0
-2016-06-30,Macau,Mongolia,2.0,2.0,EAFF Championship,Dededo,Guam,True,511.73301489007014,733.8990972426009,-222.16608235253074,0.7,1.7,1.4,1.2,1,3.0,2.0,1.0,0,0,0,0,0,0,1,0,0,0,0
+2016-06-30,Macau,Mongolia,2.0,2.0,EAFF Championship,Dededo,Guam,True,511.7330148900701,733.8990972426009,-222.1660823525308,0.7,1.7,1.4,1.2,1,3.0,2.0,1.0,0,0,0,0,0,0,1,0,0,0,0
 2016-06-30,Poland,Portugal,1.0,1.0,UEFA Euro,Marseille,France,True,1385.3104156909988,1451.9056766919684,-66.59526100096969,1.7,0.6,1.9,0.7,0,,,,7,1,6,1,0,0,1,0,0,1,0
 2016-07-01,Wales,Belgium,3.0,1.0,UEFA Euro,Villeneuve-d'Ascq,France,True,1296.8693345301228,1503.873689539652,-207.00435500952926,1.2,1.3,2.1,1.0,4,0.5,0.75,0.25,1,1,12,1,0,0,1,0,0,1,0
 2016-07-02,Germany,Italy,1.0,1.0,UEFA Euro,Bordeaux,France,True,1615.9259426874164,1498.5993804185364,117.32656226888002,1.7,1.0,1.3,1.1,2,2.5,1.0,0.5,18,1,18,1,0,0,1,0,0,1,0
@@ -39926,7 +39926,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2016-08-03,Délvidék,Felvidék,1.0,2.0,Hungary Heritage Cup,Szarvas,Hungary,True,1016.4862213325556,986.6247186768152,29.861502655740424,3.0,1.0,1.2857142857142858,2.2857142857142856,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2016-08-08,Oman,Turkmenistan,1.0,0.0,Friendly,Muscat,Oman,False,1112.8795836645384,991.5696625419814,121.30992112255694,1.2,0.8,1.1,1.8,2,2.0,1.5,0.5,0,0,0,0,1,0,0,1,0,0,0
 2016-08-08,Qatar,Iraq,2.0,1.0,Friendly,Doha,Qatar,False,1155.7163934032155,1143.2573515176214,12.45904188559416,3.4,0.9,1.7,1.4,0,,,,0,0,1,1,1,0,0,1,0,0,0
-2016-08-13,Bhutan,India,0.0,3.0,Friendly,Thimphu,Bhutan,False,449.5354037835259,843.7852377956891,-394.2498340121632,0.6,5.0,2.0,1.4,0,,,,0,0,0,0,1,0,0,1,0,0,0
+2016-08-13,Bhutan,India,0.0,3.0,Friendly,Thimphu,Bhutan,False,449.535403783526,843.7852377956891,-394.2498340121631,0.6,5.0,2.0,1.4,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2016-08-13,Donetsk PR,Luhansk PR,1.0,1.0,Friendly,Donetsk,Ukraine,False,999.6817492045608,990.3237397823258,9.358009422235,1.25,1.25,1.3333333333333333,2.0,2,2.5,2.0,0.5,0,0,0,0,0,0,0,1,0,0,0
 2016-08-18,Jordan,Qatar,2.0,3.0,Friendly,Lucerne,Switzerland,True,1180.2866643208145,1162.5880590931,17.698605227714552,2.3,0.9,3.2,1.0,1,0.0,2.0,0.0,0,0,0,0,0,0,1,1,0,0,0
 2016-08-21,Iraq,North Korea,1.0,1.0,Friendly,Paroi,Malaysia,True,1136.385685827737,1151.3552359435753,-14.969550115838274,1.5,1.4,1.3,1.1,1,2.0,0.0,1.0,1,1,2,1,0,0,1,1,0,0,0
@@ -41711,7 +41711,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2018-09-06,Guyana,Barbados,3.0,0.0,CONCACAF Nations League qualification,Leonora,Guyana,False,946.5229006642486,845.6430640792947,100.87983658495386,2.1,1.8,1.0,1.2,0,,,,0,0,0,0,1,0,0,0,0,0,0
 2018-09-06,Dominica,Suriname,0.0,0.0,CONCACAF Nations League qualification,Les Abymes,Guadeloupe,True,774.6349114484448,967.598957031234,-192.96404558278925,1.7,1.8,1.4,1.8,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2018-09-06,Bangladesh,Pakistan,1.0,0.0,SAFF Cup,Dhaka,Bangladesh,False,601.9531573441391,729.9621339199708,-128.00897657583175,0.6,3.1,1.0,1.9,0,,,,0,0,0,0,1,0,0,0,0,0,0
-2018-09-06,Nepal,Bhutan,4.0,0.0,SAFF Cup,Dhaka,Bangladesh,True,650.5987138938838,437.3026541347819,213.29605975910187,0.7,1.7,0.5,4.9,0,,,,0,0,0,0,0,0,1,0,0,0,0
+2018-09-06,Nepal,Bhutan,4.0,0.0,SAFF Cup,Dhaka,Bangladesh,True,650.5987138938838,437.302654134782,213.29605975910175,0.7,1.7,0.5,4.9,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2018-09-06,Netherlands,Peru,2.0,1.0,Friendly,Amsterdam,Netherlands,False,1464.8482996057182,1493.0490265675533,-28.200726961835016,1.7,0.9,1.4,0.3,0,,,,10,1,5,1,1,0,0,1,0,0,0
 2018-09-06,Northern Mariana Islands,Macau,1.0,1.0,EAFF Championship,Ulaanbaatar,Mongolia,True,548.6890067149636,555.674380679687,-6.985373964723408,0.3,5.3,1.1,2.5,1,1.0,3.0,0.0,0,0,0,0,0,0,1,0,0,0,0
 2018-09-06,Uzbekistan,Syria,1.0,1.0,Friendly,Tashkent,Uzbekistan,False,1229.4835495792054,1241.761740818695,-12.278191239489615,0.4,1.1,1.6,1.4,2,0.5,0.5,0.5,0,0,0,0,1,0,0,1,0,0,0
@@ -42016,7 +42016,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2018-11-14,Switzerland,Qatar,0.0,1.0,Friendly,Lugano,Switzerland,False,1468.5531135002325,1132.2360157183834,336.31709778184904,1.7,1.0,2.0,1.4,0,,,,11,1,0,0,1,0,0,1,0,0,0
 2018-11-14,Vanuatu,New Caledonia,0.0,1.0,Friendly,Port Vila,Vanuatu,False,1099.4818306472714,1084.8268342434997,14.654996403771747,2.6,1.4,1.5,1.8,1,2.0,1.0,1.0,0,0,0,0,1,0,0,1,0,0,0
 2018-11-15,Greece,Finland,1.0,0.0,UEFA Nations League,Athens,Greece,False,1201.059382736814,1244.4795489224796,-43.420166185665494,0.9,1.1,1.7,0.3,2,0.0,1.5,0.0,3,1,0,0,1,0,0,0,0,1,0
-2018-11-15,San Marino,Moldova,0.0,1.0,UEFA Nations League,Serravalle,San Marino,False,446.4338516029742,882.7952789143066,-436.36142731133236,0.1,4.9,0.3,1.1,2,0.0,2.0,0.0,0,0,0,0,1,0,0,0,0,1,0
+2018-11-15,San Marino,Moldova,0.0,1.0,UEFA Nations League,Serravalle,San Marino,False,446.4338516029741,882.7952789143066,-436.3614273113325,0.1,4.9,0.3,1.1,2,0.0,2.0,0.0,0,0,0,0,1,0,0,0,0,1,0
 2018-11-15,Belgium,Iceland,2.0,0.0,UEFA Nations League,Brussels,Belgium,False,1659.747854006235,1242.2539125251728,417.49394148106217,2.3,0.8,1.0,2.6,1,3.0,0.0,1.0,13,1,1,1,1,0,0,0,0,1,0
 2018-11-15,Croatia,Spain,3.0,2.0,UEFA Nations League,Zagreb,Croatia,False,1483.5975375374364,1600.792123534674,-117.19458599723748,1.5,1.7,2.3,1.2,2,1.0,3.5,0.5,5,1,15,1,1,0,0,0,0,1,0
 2018-11-15,Austria,Bosnia and Herzegovina,0.0,0.0,UEFA Nations League,Vienna,Austria,False,1303.4239171811844,1376.0578488237554,-72.63393164257104,1.5,0.8,0.9,0.3,2,0.5,1.0,0.0,7,1,1,1,1,0,0,0,0,1,0
@@ -42457,7 +42457,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2019-06-06,Bermuda,Guyana,1.0,0.0,Friendly,Hamilton,Bermuda,False,1021.3110025641968,985.858945432504,35.452057131692754,2.5,2.0,2.5,1.0,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2019-06-06,Padania,Sápmi,4.0,0.0,CONIFA European Football Cup,Martakert,Azerbaijan,True,1201.1502282976755,985.921194616509,215.22903368116658,2.8,0.9,1.7,1.9,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2019-06-06,Artsakh,Székely Land,2.0,1.0,CONIFA European Football Cup,Martuni,Azerbaijan,False,1011.9055355317892,972.5488862498532,39.356649281935915,3.111111111111111,1.4444444444444444,2.1,1.9,0,,,,0,0,0,0,0,0,0,0,0,0,0
-2019-06-06,Bhutan,Guam,1.0,0.0,FIFA World Cup qualification,Thimphu,Bhutan,False,416.20450637402865,713.7408135489029,-297.53630717487425,0.2,5.5,0.7,1.7,0,,,,0,0,0,0,1,0,0,0,1,0,0
+2019-06-06,Bhutan,Guam,1.0,0.0,FIFA World Cup qualification,Thimphu,Bhutan,False,416.2045063740287,713.7408135489029,-297.5363071748742,0.2,5.5,0.7,1.7,0,,,,0,0,0,0,1,0,0,0,1,0,0
 2019-06-06,Cambodia,Pakistan,2.0,0.0,FIFA World Cup qualification,Phnom Penh,Cambodia,False,562.385039762435,708.6831913195416,-146.29815155710662,1.0,1.9,1.0,1.5,0,,,,0,0,0,0,1,0,0,0,1,0,0
 2019-06-06,Laos,Bangladesh,0.0,1.0,FIFA World Cup qualification,Vientiane,Laos,False,525.044704741003,604.4720438525076,-79.42733911150458,1.0,2.5,0.7,1.4,1,2.0,2.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2019-06-06,Macau,Sri Lanka,1.0,0.0,FIFA World Cup qualification,Zhuhai,Macau,False,555.3728384728455,553.8604564950882,1.5123819777572862,1.2,2.2,0.7,1.9,1,1.0,1.0,0.0,0,0,0,0,1,0,0,0,1,0,0
@@ -42496,7 +42496,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2019-06-08,Estonia,Northern Ireland,1.0,2.0,UEFA Euro qualification,Tallinn,Estonia,False,1068.6384043641544,1194.1801914082455,-125.54178704409105,0.7,1.1,0.9,1.1,1,0.0,2.0,0.0,0,0,3,1,1,0,0,0,1,0,0
 2019-06-08,Scotland,Cyprus,2.0,1.0,UEFA Euro qualification,Glasgow,Scotland,False,1234.7643864891502,979.5471939189696,255.2171925701806,1.3,1.7,1.0,1.4,0,,,,8,1,0,0,1,0,0,0,1,0,0
 2019-06-08,Azerbaijan,Hungary,1.0,3.0,UEFA Euro qualification,Baku,Azerbaijan,False,966.0250718356928,1207.7184360276874,-241.69336419199465,1.1,1.2,1.3,1.2,0,,,,0,0,9,1,1,0,0,0,1,0,0
-2019-06-08,Russia,San Marino,9.0,0.0,UEFA Euro qualification,Saransk,Russia,False,1339.9225016637702,434.2325879910195,905.6899136727507,1.7,1.3,0.0,3.6,0,,,,11,1,0,0,1,0,0,0,1,0,0
+2019-06-08,Russia,San Marino,9.0,0.0,UEFA Euro qualification,Saransk,Russia,False,1339.9225016637702,434.2325879910196,905.6899136727505,1.7,1.3,0.0,3.6,0,,,,11,1,0,0,1,0,0,0,1,0,0
 2019-06-08,Armenia,Liechtenstein,3.0,0.0,UEFA Euro qualification,Yerevan,Armenia,False,1005.0746471796753,709.5477983649852,295.5268488146901,1.6,1.3,0.7,2.4,2,2.0,1.5,0.5,0,0,0,0,1,0,0,0,1,0,0
 2019-06-08,Nigeria,Zimbabwe,0.0,0.0,Friendly,Asaba,Nigeria,False,1307.6431459579717,1125.1727773054051,182.47036865256655,2.0,0.7,1.4,0.8,0,,,,6,1,0,0,1,0,0,1,0,0,0
 2019-06-08,Sápmi,Székely Land,3.0,2.0,CONIFA European Football Cup,Askeran,Azerbaijan,True,973.2864642671268,963.262241528008,10.02422273911884,1.3,2.1,1.9,2.0,0,,,,0,0,0,0,0,0,1,0,0,0,0
@@ -43220,7 +43220,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2019-11-16,Saint Martin,Barbados,1.0,0.0,CONCACAF Nations League,The Valley,Anguilla,True,741.7999626435309,868.1716291316294,-126.37166648809853,1.4,3.4,1.8,1.1,1,0.0,4.0,0.0,0,0,0,0,0,0,1,0,0,0,0
 2019-11-16,Cayman Islands,United States Virgin Islands,1.0,0.0,CONCACAF Nations League,George Town,Cayman Islands,False,781.547274453637,650.8339548059522,130.71331964768478,0.8,2.1,0.5,3.8,1,2.0,0.0,1.0,0,0,0,0,1,0,0,0,0,0,0
 2019-11-16,Guatemala,Puerto Rico,5.0,0.0,CONCACAF Nations League,Guatemala City,Guatemala,False,1122.4414376802868,773.2844277726338,349.157009907653,2.3,1.2,0.6,2.4,1,5.0,0.0,1.0,0,0,0,0,1,0,0,0,0,0,0
-2019-11-16,San Marino,Kazakhstan,1.0,3.0,UEFA Euro qualification,Serravalle,San Marino,False,425.24252469453427,922.8403613184648,-497.59783662393056,0.0,4.6,1.1,1.5,1,0.0,4.0,0.0,0,0,0,0,1,0,0,0,1,0,0
+2019-11-16,San Marino,Kazakhstan,1.0,3.0,UEFA Euro qualification,Serravalle,San Marino,False,425.2425246945343,922.8403613184648,-497.5978366239305,0.0,4.6,1.1,1.5,1,0.0,4.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2019-11-16,Israel,Poland,1.0,2.0,UEFA Euro qualification,Jerusalem,Israel,False,1132.6790111990742,1337.9108572586706,-205.23184605959636,2.4,1.8,1.4,0.4,1,0.0,4.0,0.0,1,1,8,1,1,0,0,0,1,0,0
 2019-11-16,Saint Lucia,Dominican Republic,1.0,0.0,CONCACAF Nations League,Gros Islet,Saint Lucia,False,855.8630611912486,962.498212898544,-106.63515170729545,0.9,1.4,1.4,1.0,1,0.0,3.0,0.0,0,0,0,0,1,0,0,0,0,0,0
 2019-11-17,Benin,Sierra Leone,1.0,0.0,African Cup of Nations qualification,Porto-Novo,Benin,False,1106.2285188264837,993.6658239253662,112.56269490111742,1.1,1.1,0.9,1.2,0,,,,0,0,0,0,1,0,0,0,1,0,0
@@ -44360,7 +44360,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2021-09-05,Romania,Liechtenstein,2.0,0.0,FIFA World Cup qualification,Bucharest,Romania,False,1257.5706554547064,672.030038911527,585.5406165431795,1.7,1.4,0.3,2.9,0,,,,7,1,0,0,1,0,0,0,1,0,0
 2021-09-05,Germany,Armenia,6.0,0.0,FIFA World Cup qualification,Stuttgart,Germany,False,1479.8129926824777,1178.363004541269,301.4499881412087,2.1,1.1,1.4,1.0,0,,,,19,1,0,0,1,0,0,0,1,0,0
 2021-09-05,Iceland,North Macedonia,2.0,2.0,FIFA World Cup qualification,Reykjavík,Iceland,False,1142.6085145365903,1129.416647204476,13.19186733211427,1.0,2.0,1.6,1.4,0,,,,1,1,0,0,1,0,0,0,1,0,0
-2021-09-05,San Marino,Poland,1.0,7.0,FIFA World Cup qualification,Serravalle,San Marino,False,418.88970386851224,1340.602421960673,-921.7127180921607,0.1,3.0,1.9,1.7,0,,,,0,0,8,1,1,0,0,0,1,0,0
+2021-09-05,San Marino,Poland,1.0,7.0,FIFA World Cup qualification,Serravalle,San Marino,False,418.8897038685122,1340.602421960673,-921.7127180921607,0.1,3.0,1.9,1.7,0,,,,0,0,8,1,1,0,0,0,1,0,0
 2021-09-06,Ivory Coast,Cameroon,2.0,1.0,FIFA World Cup qualification,Abidjan,Ivory Coast,False,1256.820674944206,1207.416103113359,49.40457183084709,1.3,0.8,1.1,0.4,0,,,,3,1,7,1,1,0,0,0,1,0,0
 2021-09-06,Liberia,Central African Republic,1.0,0.0,FIFA World Cup qualification,Douala,Cameroon,True,967.1961743114268,941.3610998892824,25.83507442214443,0.6,1.2,0.8,1.9,0,,,,0,0,0,0,0,0,1,0,1,0,0
 2021-09-06,Djibouti,Niger,2.0,4.0,FIFA World Cup qualification,Rabat,Morocco,True,691.1180841221303,875.135311220287,-184.0172270981567,0.7,1.9,0.4,1.7,0,,,,0,0,0,0,0,0,1,0,1,0,0
@@ -44494,7 +44494,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2021-10-09,Guam,Cambodia,0.0,1.0,AFC Asian Cup qualification,Isa Town,Bahrain,True,608.819302772665,627.5197210481488,-18.7004182754838,0.7,3.5,0.5,4.6,0,,,,0,0,0,0,0,0,1,0,1,0,0
 2021-10-09,Faroe Islands,Austria,0.0,2.0,FIFA World Cup qualification,Tórshavn,Faroe Islands,False,828.2633694302466,1276.9821037531433,-448.7187343228967,1.1,1.8,0.9,1.6,1,1.0,3.0,0.0,0,0,7,1,1,0,0,0,1,0,0
 2021-10-09,Guinea,Sudan,2.0,2.0,FIFA World Cup qualification,Agadir,Morocco,True,1081.9190432117528,977.3706626691228,104.54838054262996,1.0,0.9,1.3,1.0,1,1.0,1.0,0.0,0,0,0,0,0,0,1,0,1,0,0
-2021-10-09,Poland,San Marino,5.0,0.0,FIFA World Cup qualification,Warsaw,Poland,False,1351.1102761864636,417.41203110217185,933.6982450842918,2.3,1.4,0.2,3.8,1,7.0,1.0,1.0,8,1,0,0,1,0,0,0,1,0,0
+2021-10-09,Poland,San Marino,5.0,0.0,FIFA World Cup qualification,Warsaw,Poland,False,1351.1102761864636,417.4120311021719,933.6982450842917,2.3,1.4,0.2,3.8,1,7.0,1.0,1.0,8,1,0,0,1,0,0,0,1,0,0
 2021-10-09,Ethiopia,South Africa,1.0,3.0,FIFA World Cup qualification,Bahir Dar,Ethiopia,False,1006.6173833645048,1156.9124108005867,-150.2950274360819,1.7,0.8,1.3,0.4,0,,,,0,0,3,1,1,0,0,0,1,0,0
 2021-10-09,Ghana,Zimbabwe,3.0,1.0,FIFA World Cup qualification,Cape Coast,Ghana,False,1230.414133469822,999.0042807102626,231.40985275955939,1.2,0.9,0.7,1.4,0,,,,3,1,0,0,1,0,0,0,1,0,0
 2021-10-09,Togo,Congo,1.0,1.0,FIFA World Cup qualification,Lomé,Togo,False,915.425690721689,994.561789909957,-79.13609918826808,0.6,1.2,0.8,1.0,0,,,,1,1,0,0,1,0,0,0,1,0,0
@@ -45023,7 +45023,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2022-03-27,Eswatini,Somalia,2.0,1.0,African Cup of Nations qualification,Mbombela,South Africa,True,878.9999967828672,656.6786185689489,222.32137821391836,1.4,1.1,0.3,2.4,1,3.0,0.0,1.0,0,0,0,0,0,0,1,0,1,0,0
 2022-03-27,Guatemala,Haiti,2.0,1.0,Friendly,Fort Lauderdale,United States,True,1137.379877558902,1188.135630456479,-50.75575289757694,1.1,0.9,1.7,1.8,0,,,,0,0,1,1,0,0,1,1,0,0,0
 2022-03-27,Liberia,Sierra Leone,0.0,1.0,Friendly,Antalya,Turkey,True,965.1751879116692,1006.2954863133624,-41.12029840169316,0.7,1.9,0.6,1.0,3,1.0,0.6666666666666666,0.3333333333333333,0,0,0,0,0,0,1,1,0,0,0
-2022-03-28,Cape Verde,San Marino,2.0,0.0,Friendly,San Pedro del Pinatar,Spain,True,1116.4315050159046,387.30365284354355,729.127852172361,1.6,0.7,0.3,4.9,0,,,,0,0,0,0,0,0,1,1,0,0,0
+2022-03-28,Cape Verde,San Marino,2.0,0.0,Friendly,San Pedro del Pinatar,Spain,True,1116.4315050159046,387.3036528435436,729.1278521723609,1.6,0.7,0.3,4.9,0,,,,0,0,0,0,0,0,1,1,0,0,0
 2022-03-28,Andorra,Grenada,1.0,0.0,Friendly,Andorra la Vella,Andorra,False,632.3905128823193,837.4810650031184,-205.0905521207991,0.9,2.0,0.6,1.8,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2022-03-28,Vanuatu,Fiji,1.0,2.0,Friendly,Doha,Qatar,True,1063.319821378107,1055.1573348078962,8.162486570210831,3.3,1.6,2.9,1.5,1,0.0,0.0,0.0,0,0,0,0,0,0,1,1,0,0,0
 2022-03-28,Montenegro,Greece,1.0,0.0,Friendly,Podgorica,Montenegro,False,1073.603356181525,1255.783741136797,-182.18038495527207,0.9,1.6,1.1,1.0,0,,,,0,0,3,1,1,0,0,1,0,0,0
@@ -45201,7 +45201,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2022-06-05,Egypt,Guinea,1.0,0.0,African Cup of Nations qualification,Cairo,Egypt,False,1328.3404332774626,1030.237803239099,298.1026300383635,0.5,0.3,0.5,1.3,1,3.0,1.0,1.0,3,1,0,0,1,0,0,0,1,0,0
 2022-06-05,Wales,Ukraine,1.0,0.0,FIFA World Cup qualification,Cardiff,Wales,False,1391.104088710213,1403.0261101150709,-11.922021404857787,1.6,1.0,1.5,1.3,0,,,,1,1,1,1,1,0,0,0,1,0,0
 2022-06-05,Sweden,Norway,1.0,2.0,UEFA Nations League,Stockholm,Sweden,False,1403.7162886412052,1336.9422973007254,66.77399134047982,1.3,0.9,2.3,0.5,2,2.0,2.0,0.0,13,1,3,1,1,0,0,0,0,1,0
-2022-06-05,San Marino,Malta,0.0,2.0,UEFA Nations League,Serravalle,San Marino,False,385.2162225287846,823.0749272218526,-437.858704693068,0.2,4.2,0.9,2.3,0,,,,0,0,0,0,1,0,0,0,0,1,0
+2022-06-05,San Marino,Malta,0.0,2.0,UEFA Nations League,Serravalle,San Marino,False,385.2162225287847,823.0749272218526,-437.85870469306786,0.2,4.2,0.9,2.3,0,,,,0,0,0,0,1,0,0,0,0,1,0
 2022-06-05,Czech Republic,Spain,2.0,2.0,UEFA Nations League,Prague,Czech Republic,False,1417.304479198023,1599.8928156333254,-182.58833643530238,1.8,0.9,2.0,0.7,0,,,,1,1,15,1,1,0,0,0,0,1,0
 2022-06-05,Cyprus,Northern Ireland,0.0,0.0,UEFA Nations League,Larnaca,Cyprus,False,874.4891214282687,1132.162275680273,-257.67315425200434,0.5,2.2,1.0,0.8,0,,,,0,0,3,1,1,0,0,0,0,1,0
 2022-06-05,Gibraltar,North Macedonia,0.0,2.0,UEFA Nations League,Gibraltar,Gibraltar,False,674.1013252416077,1231.7245605852995,-557.6232353436918,0.3,3.3,1.6,1.0,2,0.0,3.0,0.0,0,0,0,0,1,0,0,0,0,1,0
@@ -45294,7 +45294,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2022-06-09,New Zealand,Oman,0.0,0.0,Friendly,Al Rayyan,Qatar,True,1285.3482175663898,1204.247612561621,81.1006050047688,2.4,0.6,1.3,0.9,0,,,,2,1,0,0,0,0,1,1,0,0,0
 2022-06-09,Saudi Arabia,Venezuela,0.0,1.0,Friendly,Murcia,Spain,True,1285.862423152613,1261.215932499082,24.64649065353092,0.5,0.7,1.0,1.9,0,,,,5,1,0,0,0,0,1,1,0,0,0
 2022-06-09,Cayman Islands,Puerto Rico,0.0,3.0,CONCACAF Nations League,George Town,Cayman Islands,False,734.7482061050752,869.8239881562422,-135.07578205116704,0.6,2.6,1.7,1.5,0,,,,0,0,0,0,1,0,0,0,0,0,0
-2022-06-09,San Marino,Iceland,0.0,1.0,Friendly,Serravalle,San Marino,False,375.8326952850947,1119.3037251125672,-743.4710298274725,0.2,4.2,1.2,1.9,0,,,,0,0,1,1,1,0,0,1,0,0,0
+2022-06-09,San Marino,Iceland,0.0,1.0,Friendly,Serravalle,San Marino,False,375.8326952850948,1119.3037251125672,-743.4710298274724,0.2,4.2,1.2,1.9,0,,,,0,0,1,1,1,0,0,1,0,0,0
 2022-06-10,Dominican Republic,Guatemala,1.0,1.0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False,943.145110039858,1154.7704754548274,-211.62536541496945,1.2,1.1,1.4,0.9,1,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0
 2022-06-10,Albania,Israel,1.0,2.0,UEFA Nations League,Tirana,Albania,False,1149.4503907465885,1183.8021328793168,-34.351742132728305,1.1,1.3,2.2,2.3,2,0.5,1.0,0.5,0,0,1,1,1,0,0,0,0,1,0
 2022-06-10,United States,Grenada,5.0,0.0,CONCACAF Nations League,Austin,United States,False,1463.8581781215885,829.5767198247282,634.2814582968603,1.4,0.6,0.6,2.0,0,,,,10,1,0,0,1,0,0,0,0,0,0
@@ -45880,7 +45880,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2023-03-24,Anguilla,Saint Lucia,1.0,2.0,CONCACAF Nations League,The Valley,Anguilla,False,559.6219155410749,870.7551204511109,-311.13320491003594,0.3,4.7,0.8,0.8,1,0.0,2.0,0.0,0,0,0,0,1,0,0,0,0,0,0
 2023-03-24,Tunisia,Libya,3.0,0.0,African Cup of Nations qualification,Radès,Tunisia,False,1377.4935036321156,997.5922363497848,379.90126728233076,1.4,0.6,1.1,1.1,2,4.5,1.5,1.0,6,1,0,0,1,0,0,0,1,0,0
 2023-03-24,Bulgaria,Montenegro,0.0,1.0,UEFA Euro qualification,Razgrad,Bulgaria,False,1097.4244844390082,1112.1511894246544,-14.726704985646165,1.4,1.2,0.9,1.0,1,0.0,0.0,0.0,7,1,0,0,1,0,0,0,1,0,0
-2023-03-25,Bhutan,Laos,1.0,2.0,Tri Nation Tournament,Kathmandu,Nepal,True,507.3577580790944,498.80918666121494,8.548571417879486,0.4,3.8,0.7,2.6,0,,,,0,0,0,0,0,0,1,0,0,0,0
+2023-03-25,Bhutan,Laos,1.0,2.0,Tri Nation Tournament,Kathmandu,Nepal,True,507.3577580790944,498.8091866612149,8.548571417879543,0.4,3.8,0.7,2.6,0,,,,0,0,0,0,0,0,1,0,0,0,0
 2023-03-25,Bahrain,Palestine,1.0,2.0,Friendly,Arad,Bahrain,False,1167.49230727865,1098.7833522850349,68.70895499361518,1.2,1.6,2.2,1.2,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2023-03-25,Bangladesh,Seychelles,1.0,0.0,Friendly,Sylhet,Bangladesh,False,635.9383175488291,623.7747215955194,12.16359595330971,0.6,1.6,0.6,1.2,1,1.0,1.0,0.0,0,0,0,0,1,0,0,1,0,0,0
 2023-03-25,Georgia,Mongolia,6.0,1.0,Friendly,Batumi,Georgia,False,1247.4536741716424,692.1190740788583,555.3346000927842,1.8,0.6,0.4,2.2,0,,,,0,0,0,0,1,0,0,1,0,0,0
@@ -46055,7 +46055,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2023-06-16,Kosovo,Romania,0.0,0.0,UEFA Euro qualification,Pristina,Kosovo,False,1078.8689894967276,1197.8145390327911,-118.94554953606348,1.6,1.3,1.6,1.1,0,,,,0,0,7,1,1,0,0,0,1,0,0
 2023-06-16,Kyrgyzstan,Iran,1.0,5.0,CAFA Nations Cup,Bishkek,Kyrgyzstan,False,946.5778945306856,1390.730886227056,-444.15299169637046,1.1,1.5,1.6,1.3,0,,,,0,0,6,1,1,0,0,0,0,0,0
 2023-06-16,Malta,England,0.0,4.0,UEFA Euro qualification,Ta' Qali,Malta,False,835.2107808858955,1578.7445338968114,-743.5337530109159,1.1,1.2,2.0,1.3,0,,,,0,0,16,1,1,0,0,0,1,0,0
-2023-06-16,San Marino,Kazakhstan,0.0,3.0,UEFA Euro qualification,Parma,Italy,True,379.35832206547224,989.6031657761936,-610.2448437107214,0.1,1.6,1.3,1.4,1,1.0,3.0,0.0,0,0,0,0,0,0,1,0,1,0,0
+2023-06-16,San Marino,Kazakhstan,0.0,3.0,UEFA Euro qualification,Parma,Italy,True,379.3583220654722,989.6031657761936,-610.2448437107214,0.1,1.6,1.3,1.4,1,1.0,3.0,0.0,0,0,0,0,0,0,1,0,1,0,0
 2023-06-16,Belarus,Israel,1.0,2.0,UEFA Euro qualification,Budapest,Hungary,True,960.9326458252822,1179.622001521288,-218.6893556960058,0.5,1.6,1.8,1.9,0,,,,0,0,1,1,0,0,1,0,1,0,0
 2023-06-17,Ecuador,Bolivia,1.0,0.0,Friendly,Harrison,United States,True,1444.932757495264,1208.9451413997351,235.9876160955289,0.8,0.7,1.3,1.9,4,2.75,0.75,1.0,4,1,3,1,0,0,1,1,0,0,0
 2023-06-17,Suriname,Puerto Rico,0.0,0.0,Gold Cup qualification,Fort Lauderdale,United States,True,1031.4423841312807,916.630344139268,114.81203999201273,1.0,1.5,2.8,0.5,0,,,,0,0,0,0,0,0,1,0,0,0,0
@@ -46309,7 +46309,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2023-09-07,Serbia,Hungary,1.0,2.0,UEFA Euro qualification,Belgrade,Serbia,False,1442.1224294971794,1418.0642546270394,24.058174870139965,2.2,1.3,1.6,0.6,3,0.6666666666666666,0.6666666666666666,0.3333333333333333,5,1,9,1,1,0,0,0,1,0,0
 2023-09-07,Lithuania,Montenegro,2.0,2.0,UEFA Euro qualification,Kaunas,Lithuania,False,813.9281741880485,1121.7636813691547,-307.8355071811062,0.3,1.3,0.8,1.3,0,,,,0,0,0,0,1,0,0,0,1,0,0
 2023-09-07,Kazakhstan,Finland,0.0,1.0,UEFA Euro qualification,Astana,Kazakhstan,False,1021.0675716762486,1264.4359995223592,-243.36842784611065,1.4,1.4,1.5,0.9,2,0.0,1.5,0.0,0,0,0,0,1,0,0,0,1,0,0
-2023-09-07,Denmark,San Marino,4.0,0.0,UEFA Euro qualification,Copenhagen,Denmark,False,1433.1917196100858,377.0429057231595,1056.1488138869263,1.3,1.0,0.1,2.1,0,,,,6,1,0,0,1,0,0,0,1,0,0
+2023-09-07,Denmark,San Marino,4.0,0.0,UEFA Euro qualification,Copenhagen,Denmark,False,1433.1917196100858,377.0429057231596,1056.1488138869263,1.3,1.0,0.1,2.1,0,,,,6,1,0,0,1,0,0,0,1,0,0
 2023-09-07,Iraq,India,2.0,2.0,King's Cup,Chiang Mai,Thailand,True,1251.7355208716642,962.4427614624587,289.2927594092055,1.3,1.0,1.6,0.6,0,,,,1,1,0,0,0,0,1,0,0,0,0
 2023-09-07,Thailand,Lebanon,2.0,1.0,King's Cup,Chiang Mai,Thailand,False,1061.553666645804,989.2499367958156,72.30372984998837,1.4,1.2,0.8,1.2,0,,,,0,0,0,0,1,0,0,0,0,0,0
 2023-09-07,Wales,South Korea,0.0,0.0,Friendly,Cardiff,Wales,False,1228.5840613159016,1380.9792153306344,-152.39515401473273,0.8,1.9,1.1,1.4,0,,,,2,1,11,1,1,0,0,1,0,0,0
@@ -47444,7 +47444,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2024-09-04,Comoros,Gambia,1.0,1.0,African Cup of Nations qualification,El Jadida,Morocco,True,979.8789447766942,998.1388524419953,-18.259907665301057,1.7,1.2,1.7,2.0,0,,,,0,0,0,0,0,0,1,0,1,0,0
 2024-09-04,Lebanon,Tajikistan,1.0,0.0,Merdeka Tournament,Kuala Lumpur,Malaysia,True,970.686402522659,1051.521065692443,-80.834663169784,0.6,1.4,0.9,1.0,1,1.0,2.0,0.0,0,0,0,0,0,0,1,0,0,0,0
 2024-09-04,Sudan,Niger,1.0,0.0,African Cup of Nations qualification,Juba,South Sudan,True,1039.9012003176883,890.8544001722535,149.04680014543487,1.0,0.8,0.8,1.2,2,2.0,1.0,0.5,0,0,0,0,0,0,1,0,1,0,0
-2024-09-04,Turks and Caicos Islands,Anguilla,0.0,2.0,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False,627.3916396633307,505.87751322412794,121.51412643920276,1.1,2.0,0.2,3.6,2,0.5,0.5,0.0,0,0,0,0,1,0,0,0,0,0,0
+2024-09-04,Turks and Caicos Islands,Anguilla,0.0,2.0,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False,627.3916396633307,505.877513224128,121.5141264392027,1.1,2.0,0.2,3.6,2,0.5,0.5,0.0,0,0,0,0,1,0,0,0,0,0,0
 2024-09-04,Tanzania,Ethiopia,0.0,0.0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False,1034.899545516058,945.719607041005,89.17993847505295,0.6,0.9,0.8,1.1,0,,,,0,0,0,0,1,0,0,0,1,0,0
 2024-09-04,United States Virgin Islands,Bahamas,3.0,3.0,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False,559.6705175860859,669.6919771080645,-110.02145952197861,0.7,1.9,0.9,3.7,0,,,,0,0,0,0,1,0,0,0,0,0,0
 2024-09-04,Cayman Islands,British Virgin Islands,1.0,0.0,CONCACAF Nations League,George Town,Cayman Islands,False,695.0582113586804,575.456779185627,119.60143217305335,1.0,2.3,0.9,2.3,2,1.0,1.0,0.0,0,0,0,0,1,0,0,0,0,0,0
@@ -47586,7 +47586,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2024-09-10,United States,New Zealand,1.0,1.0,Friendly,Cincinnati,United States,False,1351.7433882025653,1263.8565674773104,87.88682072525489,1.2,1.5,1.6,0.9,0,,,,11,1,2,1,1,0,0,1,0,0,0
 2024-09-10,Benin,Libya,2.0,1.0,African Cup of Nations qualification,Abidjan,Ivory Coast,True,1033.5846466417886,1045.294124846471,-11.709478204682455,1.0,1.5,1.7,0.8,0,,,,0,0,0,0,0,0,1,0,1,0,0
 2024-09-10,United States Virgin Islands,Barbados,0.0,3.0,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False,560.1030588243643,724.7973102017942,-164.69425137742985,1.0,2.0,1.4,3.6,0,,,,0,0,0,0,1,0,0,0,0,0,0
-2024-09-10,Mongolia,Timor-Leste,2.0,0.0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,False,594.6844928822546,501.9255584060735,92.75893447618114,0.6,2.0,0.9,3.2,1,1.0,4.0,0.0,0,0,0,0,1,0,0,0,1,0,0
+2024-09-10,Mongolia,Timor-Leste,2.0,0.0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,False,594.6844928822546,501.9255584060736,92.75893447618103,0.6,2.0,0.9,3.2,1,1.0,4.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2024-09-10,Moldova,San Marino,1.0,0.0,Friendly,Chișinău,Moldova,False,942.8107635355508,404.29147116208463,538.5192923734662,1.1,1.6,0.6,2.5,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2024-09-10,South Sudan,South Africa,2.0,3.0,African Cup of Nations qualification,Juba,South Sudan,False,799.1059809065972,1222.2670242424133,-423.1610433358161,0.3,1.7,1.3,0.9,0,,,,0,0,3,1,1,0,0,0,1,0,0
 2024-09-10,Liberia,Algeria,0.0,3.0,African Cup of Nations qualification,Monrovia,Liberia,False,966.9812654448943,1291.3821354445038,-324.4008699996094,1.1,1.2,2.1,1.2,1,1.0,5.0,0.0,0,0,4,1,1,0,0,0,1,0,0
@@ -47652,7 +47652,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2024-10-10,Austria,Kazakhstan,4.0,0.0,UEFA Nations League,Salzburg,Austria,False,1419.8038647814428,1037.1155905285102,382.6882742529326,2.0,1.2,1.2,2.0,0,,,,7,1,0,0,1,0,0,0,0,1,0
 2024-10-10,Norway,Slovenia,3.0,0.0,UEFA Nations League,Oslo,Norway,False,1319.559793169915,1356.3822448610613,-36.82245169114617,1.7,1.1,1.3,0.7,2,0.5,1.0,0.0,3,1,2,1,1,0,0,0,0,1,0
 2024-10-10,Cape Verde,Botswana,0.0,1.0,African Cup of Nations qualification,Praia,Cape Verde,False,1193.6753407074843,943.3486290885684,250.32671161891597,1.2,0.9,0.9,1.5,0,,,,0,0,0,0,1,0,0,0,1,0,0
-2024-10-10,Gibraltar,San Marino,1.0,0.0,UEFA Nations League,Gibraltar,Gibraltar,False,653.99578322786,403.79731245130694,250.19847077655305,0.3,3.4,0.6,2.2,1,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,1,0
+2024-10-10,Gibraltar,San Marino,1.0,0.0,UEFA Nations League,Gibraltar,Gibraltar,False,653.99578322786,403.7973124513069,250.1984707765531,0.3,3.4,0.6,2.2,1,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,1,0
 2024-10-10,Qatar,Kyrgyzstan,3.0,1.0,FIFA World Cup qualification,Doha,Qatar,False,1234.6388775249034,973.6770826562127,260.9617948686906,1.9,1.2,1.4,1.3,0,,,,1,1,0,0,1,0,0,0,1,0,0
 2024-10-10,Papua New Guinea,New Caledonia,1.0,3.0,FIFA World Cup qualification,Suva,Fiji,True,971.3489546474366,1103.1973827259314,-131.84842807849486,1.1,1.5,2.8,0.7,2,1.0,1.5,0.5,0,0,0,0,0,0,1,0,1,0,0
 2024-10-10,Moldova,Andorra,2.0,0.0,UEFA Nations League,Chișinău,Moldova,False,943.3049222463286,659.1046171393256,284.20030510700303,1.1,1.5,0.1,2.1,2,1.0,0.5,0.5,0,0,0,0,1,0,0,0,0,1,0
@@ -47930,7 +47930,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2024-11-18,Spain,Switzerland,3.0,2.0,UEFA Nations League,Santa Cruz de Tenerife,Spain,False,1767.242800377951,1386.513727352521,380.7290730254299,2.1,0.6,1.2,1.5,4,1.75,1.0,0.5,16,1,12,1,1,0,0,0,0,1,0
 2024-11-18,Kosovo,Lithuania,1.0,0.0,UEFA Nations League,Pristina,Kosovo,False,1136.638738401421,841.6101949710504,295.02854343037063,1.1,1.1,0.9,1.2,2,3.0,0.5,1.0,0,0,0,0,1,0,0,0,0,1,0
 2024-11-18,Romania,Cyprus,4.0,1.0,UEFA Nations League,Bucharest,Romania,False,1297.445734793321,875.3930902522147,422.05264454110625,1.5,0.8,1.1,1.7,1,3.0,0.0,1.0,7,1,0,0,1,0,0,0,0,1,0
-2024-11-18,Liechtenstein,San Marino,1.0,3.0,UEFA Nations League,Vaduz,Liechtenstein,False,530.6705332716357,405.4154892820875,125.2550439895482,0.4,1.4,0.5,1.8,1,0.0,1.0,0.0,0,0,0,0,1,0,0,0,0,1,0
+2024-11-18,Liechtenstein,San Marino,1.0,3.0,UEFA Nations League,Vaduz,Liechtenstein,False,530.6705332716357,405.4154892820876,125.25504398954808,0.4,1.4,0.5,1.8,1,0.0,1.0,0.0,0,0,0,0,1,0,0,0,0,1,0
 2024-11-18,Bulgaria,Belarus,1.0,1.0,UEFA Nations League,Sofia,Bulgaria,False,1067.69739566332,1019.3264677436804,48.37092791963971,0.7,0.9,0.3,1.3,1,0.0,0.0,0.0,7,1,0,0,1,0,0,0,0,1,0
 2024-11-18,Puerto Rico,Haiti,0.0,3.0,CONCACAF Nations League,Mayagüez,Puerto Rico,False,927.0414674458162,1229.878595357331,-302.8371279115148,2.6,1.4,3.6,1.3,1,1.0,4.0,0.0,0,0,1,1,1,0,0,0,0,0,0
 2024-11-18,Grenada,Saint Martin,0.0,3.0,CONCACAF Nations League,Gros Islet,Saint Lucia,True,840.3195058475237,854.0121174986186,-13.692611651094921,1.0,1.9,2.6,1.7,1,2.0,0.0,1.0,0,0,0,0,0,0,1,0,0,0,0
@@ -48002,7 +48002,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2024-11-19,Brazil,Uruguay,1.0,1.0,FIFA World Cup qualification,Salvador,Brazil,False,1602.83431128822,1544.9227620327897,57.91154925543037,1.4,0.6,0.7,0.7,3,1.3333333333333333,1.0,0.3333333333333333,22,1,14,1,1,0,0,0,1,0,0
 2024-11-19,Ivory Coast,Chad,4.0,0.0,African Cup of Nations qualification,Abidjan,Ivory Coast,False,1221.091396806314,833.7108162756319,387.380580530682,1.5,0.7,0.4,1.1,1,2.0,0.0,1.0,3,1,0,0,1,0,0,0,1,0,0
 2024-11-19,Sierra Leone,Zambia,0.0,2.0,African Cup of Nations qualification,Monrovia,Liberia,True,984.6674203087327,1103.5287191185776,-118.86129880984481,1.1,2.1,0.8,1.0,1,2.0,3.0,0.0,0,0,0,0,0,0,1,0,1,0,0
-2024-12-08,Timor-Leste,Thailand,0.0,10.0,ASEAN Championship,Hanoi,Vietnam,True,511.95292613718294,1108.9116563955165,-596.9587302583336,0.9,2.1,1.4,1.2,1,0.0,2.0,0.0,0,0,0,0,0,0,1,0,0,0,0
+2024-12-08,Timor-Leste,Thailand,0.0,10.0,ASEAN Championship,Hanoi,Vietnam,True,511.9529261371829,1108.9116563955165,-596.9587302583336,0.9,2.1,1.4,1.2,1,0.0,2.0,0.0,0,0,0,0,0,0,1,0,0,0,0
 2024-12-08,Hong Kong,Mongolia,3.0,0.0,EAFF Championship qualification,Hong Kong,Hong Kong,False,848.172601699572,609.5611133297904,238.61148836978168,1.3,1.2,0.8,1.9,0,,,,0,0,0,0,1,0,0,0,0,0,0
 2024-12-08,Cambodia,Malaysia,2.0,2.0,ASEAN Championship,Phnom Penh,Cambodia,False,622.8554321252055,1001.1113754452704,-378.25594332006483,0.9,1.6,1.4,1.6,2,0.5,3.5,0.0,0,0,0,0,1,0,0,0,0,0,0
 2024-12-09,Solomon Islands,Vanuatu,4.0,1.0,MSG Prime Minister's Cup,Honiara,Solomon Islands,False,1035.7095229945949,945.7964685731724,89.91305442142243,0.8,1.8,1.2,3.2,3,1.0,0.3333333333333333,0.6666666666666666,0,0,0,0,1,0,0,0,0,0,0
@@ -48072,7 +48072,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2025-03-13,Oman,Sudan,0.0,0.0,Friendly,Muscat,Oman,False,1159.487139493287,1047.6970608086776,111.7900786846094,1.2,1.1,1.0,0.6,1,0.0,0.0,0.0,0,0,0,0,1,0,0,1,0,0,0
 2025-03-14,Jordan,North Korea,1.0,1.0,Friendly,Amman,Jordan,False,1281.8333115657754,1053.9110634966098,227.92224806916556,1.3,0.7,1.1,1.2,2,1.0,0.5,0.5,0,0,2,1,1,0,0,1,0,0,0
 2025-03-16,Honduras,Guatemala,1.0,2.0,Friendly,Fort Lauderdale,United States,True,1203.655152061897,1181.886699675047,21.768452386849958,2.1,1.3,1.8,1.2,2,1.0,0.5,0.5,3,1,0,0,0,0,1,1,0,0,0
-2025-03-19,Hong Kong,Macau,2.0,0.0,Friendly,Hong Kong,Hong Kong,False,866.3912062301691,485.42750774940595,380.9636984807632,2.1,0.4,0.2,2.2,0,,,,0,0,0,0,1,0,0,1,0,0,0
+2025-03-19,Hong Kong,Macau,2.0,0.0,Friendly,Hong Kong,Hong Kong,False,866.3912062301691,485.427507749406,380.9636984807631,2.1,0.4,0.2,2.2,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2025-03-19,India,Maldives,3.0,0.0,Friendly,Shillong,India,False,866.8681660942112,672.228299995655,194.63986609855624,0.4,1.3,0.9,1.5,1,3.0,1.0,1.0,0,0,0,0,1,0,0,1,0,0,0
 2025-03-19,Vietnam,Cambodia,2.0,1.0,Friendly,Thu Dau Mot,Vietnam,False,1029.7081527354926,633.253948452642,396.4542042828506,2.3,0.9,1.5,1.7,1,4.0,0.0,1.0,0,0,0,0,1,0,0,1,0,0,0
 2025-03-19,Eswatini,Cameroon,0.0,0.0,FIFA World Cup qualification,Mbombela,South Africa,True,856.5840883026892,1231.8341123021694,-375.25002399948016,0.8,1.8,1.6,0.8,0,,,,0,0,8,1,0,0,1,0,1,0,0
@@ -48665,7 +48665,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2025-10-09,Belarus,Denmark,0.0,6.0,FIFA World Cup qualification,Zalaegerszeg,Hungary,True,1052.032980291065,1487.275273585857,-435.2422932947918,1.5,1.6,1.6,1.1,0,,,,0,0,6,1,0,0,1,0,1,0,0
 2025-10-09,Malta,Netherlands,0.0,4.0,FIFA World Cup qualification,Ta' Qali,Malta,False,827.9353414388094,1539.1449006691566,-711.2095592303473,0.8,1.3,2.5,1.1,1,0.0,8.0,0.0,0,0,11,1,1,0,0,0,1,0,0
 2025-10-09,Finland,Lithuania,2.0,1.0,FIFA World Cup qualification,Helsinki,Finland,False,1101.1689667936794,839.7354278484921,261.43353894518725,0.8,1.7,0.8,1.9,1,2.0,2.0,0.0,0,0,0,0,1,0,0,0,1,0,0
-2025-10-09,Austria,San Marino,10.0,0.0,FIFA World Cup qualification,Vienna,Austria,False,1423.8020675534808,453.31379019846554,970.4882773550153,2.2,0.7,0.6,2.6,1,4.0,0.0,1.0,7,1,0,0,1,0,0,0,1,0,0
+2025-10-09,Austria,San Marino,10.0,0.0,FIFA World Cup qualification,Vienna,Austria,False,1423.8020675534808,453.3137901984656,970.4882773550153,2.2,0.7,0.6,2.6,1,4.0,0.0,1.0,7,1,0,0,1,0,0,0,1,0,0
 2025-10-09,Faroe Islands,Montenegro,4.0,0.0,FIFA World Cup qualification,Tórshavn,Faroe Islands,False,869.9267002497028,1061.8114510479145,-191.8847507982117,0.8,1.0,0.9,1.6,1,0.0,1.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2025-10-09,Malawi,Equatorial Guinea,3.0,0.0,FIFA World Cup qualification,Lilongwe,Malawi,False,983.4292703586168,1074.0710780703546,-90.64180771173778,1.0,1.7,1.1,1.1,1,0.0,1.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2025-10-09,Cyprus,Bosnia and Herzegovina,2.0,2.0,FIFA World Cup qualification,Larnaca,Cyprus,False,883.9434790030582,1091.5857044548277,-207.6422254517695,1.0,2.0,1.4,1.7,1,1.0,2.0,0.0,0,0,1,1,1,0,0,0,1,0,0
@@ -48790,7 +48790,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2025-10-14,Portugal,Hungary,2.0,2.0,FIFA World Cup qualification,Lisbon,Portugal,False,1631.2399270916872,1268.3656914191165,362.87423567257065,2.4,1.0,1.2,1.9,1,3.0,2.0,1.0,8,1,9,1,1,0,0,0,1,0,0
 2025-10-14,Albania,Jordan,4.0,2.0,Friendly,Tirana,Albania,False,1237.1660690343294,1283.762297706414,-46.596228672084635,0.9,0.5,1.1,0.7,0,,,,0,0,0,0,1,0,0,1,0,0,0
 2025-10-14,India,Singapore,1.0,2.0,AFC Asian Cup qualification,Margao,India,False,843.3986593164626,794.4495157649875,48.94914355147512,0.7,1.1,0.9,1.2,2,1.0,1.0,0.0,0,0,0,0,1,0,0,0,1,0,0
-2025-10-14,Philippines,Timor-Leste,3.0,1.0,AFC Asian Cup qualification,Capas,Philippines,False,861.4595032333575,511.22502379408934,350.23447943926817,1.8,1.4,0.6,2.7,2,5.5,0.5,1.0,0,0,0,0,1,0,0,0,1,0,0
+2025-10-14,Philippines,Timor-Leste,3.0,1.0,AFC Asian Cup qualification,Capas,Philippines,False,861.4595032333575,511.2250237940893,350.2344794392682,1.8,1.4,0.6,2.7,2,5.5,0.5,1.0,0,0,0,0,1,0,0,0,1,0,0
 2025-10-14,Maldives,Tajikistan,0.0,3.0,AFC Asian Cup qualification,Malé,Maldives,False,648.0449577227195,967.1230522260108,-319.07809450329137,0.9,1.8,1.4,1.3,1,0.0,2.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2025-10-14,Latvia,England,0.0,5.0,FIFA World Cup qualification,Riga,Latvia,False,843.7340352870141,1610.7924214542595,-767.0583861672454,0.6,1.2,2.8,0.4,1,0.0,3.0,0.0,0,0,16,1,1,0,0,0,1,0,0
 2025-10-14,Jamaica,Bermuda,4.0,0.0,FIFA World Cup qualification,Kingston,Jamaica,False,1210.6015073791823,873.7096199566752,336.8918874225071,1.8,1.2,1.8,2.7,1,4.0,0.0,1.0,1,1,0,0,1,0,0,0,1,0,0
@@ -48931,7 +48931,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2025-11-18,Cyprus,Estonia,2.0,4.0,Friendly,Limassol,Cyprus,False,893.9160867124563,919.1030276535064,-25.186940941050125,1.4,1.7,0.8,2.2,2,1.0,0.0,0.5,0,0,0,0,1,0,0,1,0,0,0
 2025-11-18,Maldives,Philippines,0.0,2.0,AFC Asian Cup qualification,Malé,Maldives,False,632.5902155932877,865.63974815542,-233.0495325621323,0.8,1.9,2.0,1.2,1,1.0,4.0,0.0,0,0,0,0,1,0,0,0,1,0,0
 2025-11-18,Bangladesh,India,1.0,0.0,AFC Asian Cup qualification,Dhaka,Bangladesh,False,671.1085938215494,815.3138042258788,-144.20521040432936,1.1,1.2,0.7,1.1,1,0.0,0.0,0.0,0,0,0,0,1,0,0,0,1,0,0
-2025-11-18,Yemen,Bhutan,7.0,1.0,AFC Asian Cup qualification,Kuwait City,Kuwait,True,854.2250103430829,503.1150110834667,351.1099992596162,1.9,0.8,0.4,1.9,1,0.0,0.0,0.0,0,0,0,0,0,0,1,0,1,0,0
+2025-11-18,Yemen,Bhutan,7.0,1.0,AFC Asian Cup qualification,Kuwait City,Kuwait,True,854.2250103430829,503.1150110834668,351.1099992596161,1.9,0.8,0.4,1.9,1,0.0,0.0,0.0,0,0,0,0,0,0,1,0,1,0,0
 2025-11-18,Hong Kong,Singapore,1.0,2.0,AFC Asian Cup qualification,Kowloon,Hong Kong,False,913.8771104944738,820.1574370610673,93.71967343340646,2.3,0.7,1.3,1.4,2,0.5,0.5,0.0,0,0,0,0,1,0,0,0,1,0,0
 2025-11-18,Sri Lanka,Thailand,0.0,4.0,AFC Asian Cup qualification,Colombo,Sri Lanka,False,604.441481078949,1072.9370596140425,-468.4955785350935,1.0,1.1,2.2,1.0,2,0.0,1.5,0.0,0,0,0,0,1,0,0,0,1,0,0
 2025-11-18,Turkmenistan,Taiwan,3.0,1.0,AFC Asian Cup qualification,Arkadag,Turkmenistan,False,927.2261270975754,626.2428236555229,300.9833034420525,1.3,1.5,1.4,2.9,1,2.0,1.0,1.0,0,0,0,0,1,0,0,0,1,0,0
@@ -48940,7 +48940,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2025-11-18,Brazil,Tunisia,1.0,1.0,Friendly,Lille,France,True,1586.2790658064246,1288.942182475474,297.3368833309505,1.7,1.0,2.2,0.5,1,5.0,1.0,1.0,22,1,6,1,0,0,1,1,0,0,0
 2025-11-18,Canada,Venezuela,2.0,0.0,Friendly,Fort Lauderdale,United States,True,1424.845751944473,1336.8764107229647,87.96934122150833,1.4,0.3,1.1,2.1,1,1.0,1.0,0.0,2,1,0,0,0,0,1,1,0,0,0
 2025-11-18,Chile,Peru,2.0,1.0,Friendly,Sochi,Russia,True,1322.2821809887955,1309.793870022056,12.488310966739618,1.4,1.1,0.5,1.0,4,1.0,0.25,0.5,9,1,5,1,0,0,1,1,0,0,0
-2025-11-18,Timor-Leste,Tajikistan,0.0,5.0,AFC Asian Cup qualification,Darwin,Australia,True,507.04477887202694,982.5777943554428,-475.5330154834159,0.6,3.0,1.7,1.3,1,0.0,1.0,0.0,0,0,0,0,0,0,1,0,1,0,0
+2025-11-18,Timor-Leste,Tajikistan,0.0,5.0,AFC Asian Cup qualification,Darwin,Australia,True,507.0447788720269,982.5777943554428,-475.53301548341597,0.6,3.0,1.7,1.3,1,0.0,1.0,0.0,0,0,0,0,0,0,1,0,1,0,0
 2025-11-18,Colombia,Australia,3.0,0.0,Friendly,New York,United States,True,1595.6035477527637,1436.678924359774,158.9246233929896,1.9,1.0,1.8,0.8,0,,,,6,1,6,1,0,0,1,1,0,0,0
 2025-11-18,Kenya,Senegal,0.0,8.0,Friendly,Antalya,Turkey,True,993.7531857536644,1440.1584492634747,-446.4052635098103,1.5,1.3,2.2,0.6,0,,,,0,0,3,1,0,0,1,1,0,0,0
 2025-11-18,Brunei,Lebanon,0.0,3.0,AFC Asian Cup qualification,Bandar Seri Begawan,Brunei,False,524.7985284511719,1002.5750036877772,-477.7764752366053,0.7,2.1,2.0,0.5,1,0.0,5.0,0.0,0,0,0,0,1,0,0,0,1,0,0
