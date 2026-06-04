@@ -1,6 +1,12 @@
 # WC 2026 Monte Carlo Simulator
 
-A pipeline for predicting goals in international football matches and simulating the 2026 World Cup with Monte Carlo. The model estimates expected goals for the home and away teams; the simulation turns those values into match results with Poisson distributions and updates features throughout the tournament.
+This project builds an end-to-end prediction pipeline for the 2026 FIFA World Cup. It combines historical international match data, Elo ratings, engineered football features, machine learning goal models, and a Monte Carlo tournament simulator to estimate each team's probability of reaching every stage of the competition.
+
+The workflow starts by calculating historical Elo ratings from past national-team results. These ratings are used as a compact measure of team strength and are combined with additional features such as recent scoring form, goals conceded, head-to-head context, World Cup experience, competition type, and dynamic tournament information. Together, these variables form the training dataset used by the prediction model.
+
+The modelling step trains two XGBoost models with a Poisson objective: one model predicts the expected goals for the home team, and the other predicts the expected goals for the away team. These expected-goal values are treated as Poisson lambdas, which makes them suitable for generating realistic football scorelines instead of only predicting win/draw/loss outcomes.
+
+The simulation step then runs the full 2026 World Cup many times using Monte Carlo. For each simulated match, the model predicts expected goals, actual goals are sampled from Poisson distributions, and the tournament state is updated. This includes group standings, knockout qualification, Elo changes, rolling form, head-to-head history, and other dynamic features. Repeating this process thousands of times produces probabilities for each team to win the tournament, reach the final, qualify from the group stage, and progress through every knockout round.
 
 ## Pipeline
 
