@@ -96,7 +96,7 @@ p_third_place
 
 ## Interface
 
-The web interface is in `public/` and shows the champion ranking, team probabilities, groups, and most likely bracket.
+The web interface is in `docs/` and shows the champion ranking, team probabilities, groups, and most likely bracket.
 
 After running a simulation, generate the JSON used by the interface. By default, the script uses the latest Monte Carlo run folder in `data/processed/monte_carlo_runs/`:
 
@@ -118,7 +118,7 @@ The page also refreshes `dashboard-data.json` automatically at runtime, so it ca
 Serve the interface locally:
 
 ```bash
-python3 -m http.server 8000 --directory public
+python3 -m http.server 8000 --directory docs
 ```
 
 Then open `http://localhost:8000`.
